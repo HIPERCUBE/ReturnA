@@ -1,5 +1,15 @@
 package com.joowon.returnA.classifier;
 
+import com.joowon.returnA.classifier.cv.PdfPageDivider;
+import com.joowon.returnA.classifier.export.PdfImageExport;
+import com.joowon.returnA.classifier.extractor.PdfTextExtractor;
+import com.joowon.returnA.classifier.parser.HeadlineParser;
+import org.apache.pdfbox.pdmodel.PDDocument;
+import org.apache.pdfbox.pdmodel.PDPage;
+
+import java.io.File;
+import java.io.IOException;
+
 /**
  * Copyright (c) 3/29/16 Joowon Ryoo
  * <p>
@@ -25,4 +35,57 @@ package com.joowon.returnA.classifier;
  * OTHER DEALINGS IN THE SOFTWARE.
  */
 public class Classifier {
+    public static void main(String[] args) throws IOException {
+        Classifier classifier = new Classifier(PDDocument.load(new File("/Users/Joowon/Documents/Github/ReturnA/data/tests/problem/bnoRiCCI_h3_enga2_mun.pdf")));
+        System.out.println(classifier.getTestName());
+        System.out.println(classifier.getProblemText());
+    }
+
+    private PDDocument document;
+
+    public Classifier(PDDocument document) {
+        // Export images from PDF
+        this.document = document;
+        PdfImageExport.export(document, System.getProperty("user.dir"), "image");
+    }
+
+    public String getProblemText() throws IOException {
+        int numberOfPages = document.getNumberOfPages();
+
+        String text = "";
+        for (int i = 1; i <= numberOfPages; ++i) {
+            double[] bodyPosition = new PdfPageDivider(System.getProperty("user.dir") + "/image_" + i + ".png")
+                    .divide()
+                    .findBody();
+            PDPage page = document.getPage(i - 1);
+
+            int width = (int) page.getMediaBox().getWidth();
+            int height = (int) page.getMediaBox().getHeight();
+            int startY = (int) (height * bodyPosition[0]);
+            int endY = (int) (height * bodyPosition[1]);
+
+            text += new PdfTextExtractor(page)
+                    .addRegion(0, startY, width / 2, endY - startY)
+                    .extract();
+            text += new PdfTextExtractor(page)
+                    .addRegion(width / 2, startY, width / 2, endY - startY)
+                    .extract();
+        }
+        return text;
+    }
+
+    public String getTestName() throws IOException {
+        double[] bodyPosition = new PdfPageDivider(System.getProperty("user.dir") + "/image_" + 1 + ".png")
+                .divide()
+                .findHeadLine();
+        PDPage page = document.getPage(0);
+        int width = (int) page.getMediaBox().getWidth();
+        int height = (int) page.getMediaBox().getHeight();
+        int endY = (int) (height * bodyPosition[1]);
+
+        String text = new PdfTextExtractor(page)
+                .addRegion(0, 0, width, endY)
+                .extract().toString();
+        return HeadlineParser.parseTestName(text);
+    }
 }

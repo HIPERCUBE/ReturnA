@@ -27,5 +27,7 @@
         </SOURCES>
       </library>
     </orderEntry>
+    <orderEntry type="library" name="pdfbox-app-2.0.0" level="project" />
+    <orderEntry type="library" name="opencv-300" level="project" />
   </component>
 </module>
