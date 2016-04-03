@@ -1,4 +1,4 @@
-package com.joowon.returnA.classifier;
+package com.joowon.returnA.classifier.extractor;
 
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.pdmodel.PDPage;
@@ -66,7 +66,7 @@ public class PdfTextExtractor {
         System.out.println(pdfTextList.toString());
     }
 
-    private PdfTextExtractor(PDPage page) throws IOException {
+    public PdfTextExtractor(PDPage page) throws IOException {
         this.page = page;
         stripper = new PDFTextStripperByArea();
         stripper.setSortByPosition(true);
