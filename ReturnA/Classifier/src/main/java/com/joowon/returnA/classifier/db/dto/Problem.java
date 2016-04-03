@@ -29,4 +29,5 @@ public class Problem {
     private Mode mode;
     private Type type;
     private String question;
+
 }

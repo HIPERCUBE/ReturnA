@@ -25,4 +25,5 @@ package com.joowon.returnA.classifier.db.dto;
  * OTHER DEALINGS IN THE SOFTWARE.
  */
 public enum Type {
+
 }
