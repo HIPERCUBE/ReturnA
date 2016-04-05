@@ -1,0 +1,9 @@
+12. 다음 표를 보면서 대화를 듣고, 두 사람이 구입할 냉장고를 
+고르시오.
+Refrigerators on Sale
+Model Price Storage Warranty(liters) Type (years)
+① A $1,100 850 Four-door 3  
+② B $900 750 Four-door 2 
+③ C $800 650 Four-door 3 
+④ D $700 650 Two-door 3  
+⑤ E $500 450 Two-door 2  

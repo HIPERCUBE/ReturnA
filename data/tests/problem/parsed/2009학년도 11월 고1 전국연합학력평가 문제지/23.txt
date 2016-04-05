@@ -1,0 +1,11 @@
+23. 다음글에서전체흐름과관계없는문장은?
+Using computers, scientists were able to create artificial
+voices by digitally processing real voice sounds. ① By the
+1970s, these computer-generated voices were widely used.
+② Although these early voices were understandable, they had a
+robotic sound. ③ Coming up with more natural-sounding
+voices was a challenge because of the complex nature of
+language. ④Voice recognition systems were welcomed in the
+computer industry. ⑤To overcome this challenge and produce
+natural-sounding voices, scientists needed to simulate the
+individual sounds of a language.

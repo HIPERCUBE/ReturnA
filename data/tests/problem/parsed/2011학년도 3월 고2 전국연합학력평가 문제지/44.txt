@@ -1,0 +1,14 @@
+44. 글의 흐름으로 보아 주어진 문장이 들어가기에 가장 적절한 곳은?
+But don’t build your igloo yet. 
+In ages past, the Earth passed through a series of ice ages, 
+in which much of the Northern Hemisphere was covered with 
+glaciers. ( ① ) The mild temperatures we’re familiar with
+occur between ice ages. ( ② ) It is thought that very slight 
+changes in the position of the Earth relative to the sun are 
+behind these shifts in climate. ( ③ ) Scientists say that we 
+can expect colder temperatures as the planet moves toward
+another ice age. ( ④ ) Not only is the next ice age still 
+thousands of years away, it’s possible that it might not arrive 
+at all. ( ⑤ ) Global warming, caused by an increase in 
+carbon dioxide and other gases in the atmosphere, may 
+prevent the next ice age from occurring.

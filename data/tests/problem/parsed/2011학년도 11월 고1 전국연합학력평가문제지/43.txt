@@ -1,0 +1,17 @@
+43. 주어진글다음에이어질글을순서대로바르게배열한것은?
+After World War Ⅱ, the armies gathered up many hungry,
+homeless children and placed them in large camps.
+(A) The slice of bread produced amazing results. The children
+would go to sleep, feeling they would have something to
+eat tomorrow. That assurance gave the children a calm and
+peaceful rest.
+(B) In these camps the children were cared for and fed.
+However, at night they did not sleep well. They seemed
+restless and afraid. Finally, a psychologist found a solution.
+(C) He gave each of them a slice of bread just before they
+went to bed. If they wanted more to eat, more was
+provided, but this particular slice was not to be eaten—
+they just held it.
+① (A)-(C)-(B) ② (B)-(A)-(C)
+③ (B)-(C)-(A) ④ (C)-(A)-(B)
+⑤ (C)-(B)-(A)

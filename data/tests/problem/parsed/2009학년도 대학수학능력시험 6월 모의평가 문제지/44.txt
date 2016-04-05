@@ -1,0 +1,20 @@
+44. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?
+One of the most painful signs of the lack of 
+readiness for the tsunami in the Indian Ocean in 2004 
+was the enthusiasm of children, who rushed excitedly 
+down to the beach to gather fish during the initial 
+retreat of water. 
+(A) After the 19th century disaster, experts called for a 
+tsunami warning system in the Indian Ocean similar 
+to the successful one now operating in the Pacific.
+(B) If such a system had been up and running in the 
+Indian Ocean, many of the thousands of lives lost in 
+places relatively distant from the center of the 
+earthquake might have been saved. 
+(C) Those ill-fated children had no idea what the sea’s 
+strange retreat meant. No one knew because nothing 
+like that had happened in living memory except for 
+the 1883 tsunami disaster in the Indian Ocean.
+① (A) - (C) - (B) ② (B) - (A) - (C)
+③ (B) - (C) - (A) ④ (C) - (A) - (B) 
+⑤ (C) - (B) - (A)

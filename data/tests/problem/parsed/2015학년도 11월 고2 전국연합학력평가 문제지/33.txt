@@ -1,0 +1,20 @@
+33. Imagine tossing a coin over and over, and let’s say that the 
+coin has landed heads up six times in a row. Many people 
+believe that in this situation the coin is more likely to come up 
+tails than heads on the next toss. But this conclusion is wrong, 
+and this belief is commonly referred to as the “gambler’s 
+fallacy.” The logic leading to this fallacy seems to be that if the 
+coin is fair, then a series of tosses should contain equal 
+numbers of heads and tails. If no tails have appeared for a 
+while, then some are overdue to bring about this balance. But 
+how could this be? The coin has no memory, so it has no way 
+of knowing how long it has been since the last tails. More 
+generally, there simply is no mechanism through which    
+. Therefore, 
+the likelihood of a tail on toss number 7 is 50-50, just as it was 
+on the first toss, and just as it is on every toss. [3점]
+① a gambler with more physical power always wins the game
+② a sensory memory decreases the chances of losing the game
+③ a gambler’s next move has much to do with his emotional state
+④ repeated exposure could cause increased perceptions of confidence
+⑤ the history of the previous tosses could influence the current one

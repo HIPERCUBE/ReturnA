@@ -1,0 +1,9 @@
+12. 다음 표를 보면서 대화를 듣고, 두 사람이 선택한 장난감 블록 
+세트를 고르시오.
+Fun & Joy Toy Blocks
+Set Piece Material Color Price
+① A 20 Wood Yellow $35
+② B 30 Foam Green $40
+③ C 35 Wood Yellow $45
+④ D 45 Foam Green $50
+⑤ E 50 Foam Blue $55

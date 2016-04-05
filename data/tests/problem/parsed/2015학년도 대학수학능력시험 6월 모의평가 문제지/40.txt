@@ -1,0 +1,29 @@
+40. 다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A)와
+(B)에 들어갈 말로 가장 적절한 것은? [3점]
+An ant turns right, left, and moves ahead over a sandy 
+hill. How can we explain the complexity of the path it 
+chose? We can think up a sophisticated program in the 
+ant’s brain, but it does not work. What we have 
+overlooked is the ant’s environment. The ant may be 
+following a simple rule: get out of the sun and back to the 
+nest. Complex behavior does not imply complex mental 
+strategies. The same holds for humans. The apparent 
+complexity of a man’s behavior over time is largely a 
+reflection of the complexity of the environment in which 
+he finds himself. People adapt to their environments much 
+as gelatin does; if you wish to know what form it will 
+have when it solidifies, study the shape of the mold that 
+holds the gelatin. To understand behavior, one has to look 
+at both the mind and the environment.
+* gelatin: 젤라틴, 정제한 아교
+
+Although we tend to (A) complex behavior with 
+complex mental operations, (B) factors need to be 
+considered as well for a better understanding of such 
+behavior.
+(A) (B)
+① associate …… genetic
+② associate …… environmental
+③ identify …… psychological
+④ replace …… psychological
+⑤ replace …… environmental

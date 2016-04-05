@@ -1,0 +1,534 @@
+[  1번부터 22번까지는 듣고 답하는 문제입니다. 1번부터 
+20번까지는 한 번만 들려주고, 21번부터 22번까지는 두 번 
+들려줍니다. 방송을 잘 듣고 답을 하기 바랍니다.
+1. 대화를 듣고, 남자의 마지막 말에 대한 여자의 응답으로 가장 
+적절한 것을 고르시오.
+① No, I don’t have a computer.
+② Right, I’ll call you when I’m done.
+③ Yeah, I saved it in my cell phone.
+④ Yes, I’ll buy you a new cell phone.
+⑤ Sorry, you’ve got the wrong number.
+2. 대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장 
+적절한 것을 고르시오.
+① It’s true. She’ll start reading sooner or later.
+② I’ll ask her teacher to choose her next time.
+③ Right. She must go to a new school.
+④ Sorry to hear that. Better luck next time.
+⑤ Great. She must have worked on reading a lot.
+3. 대화를 듣고, 남자의 마지막 말에 대한 여자의 응답으로 가장 
+적절한 것을 고르시오.
+① No, I’m not sure where you’re going.
+② You’re welcome. I’m happy to watch him.
+③ Don’t worry. I’ll come over around 10 a.m.
+④ Never mind. I’ll make him dinner tomorrow.
+⑤ Okay. I’ll let him play but only for an hour.
+4. 다음을 듣고, 남자가 하는 말의 목적으로 가장 적절한 것을 
+고르시오.
+① 제철 과일 소비를 권장하려고
+② 과일 보관 용기를 광고하려고
+③ 얼룩 제거 용품을 홍보하려고
+④ 과일 껍질 활용법을 소개하려고
+⑤ 과일 껍질의 영양소를 설명하려고
+5. 다음을 듣고, 여자가 하는 말의 주제로 가장 적절한 것을  
+고르시오.
+① 뇌우 발생 시 대처 요령
+② 뇌우의 다양한 발생 원인
+③ 지구의 급격한 기후 변화 
+④ 날씨와 심리 변화의 상관관계
+⑤ 날씨가 야외 활동에 미치는 영향
+6. 대화를 듣고, 두 사람이 하는 말의 주제로 가장 적절한 것을 
+고르시오.
+① 양초를 만드는 절차
+② 등산 시 유의할 사항
+③ 적절한 휴식의 필요성
+④ 취미 생활을 하는 이유
+⑤ 스트레스의 다양한 요인
+7. 대화를 듣고, 여자의 의견으로 가장 적절한 것을 고르시오.
+① 아이와 함께 텃밭을 가꾸면 아이가 채소를 잘 먹게 된다.
+② 텃밭에서 채소를 직접 기르면 가족 경제에 도움이 된다.
+③ 가족의 건강을 위해 유기농 채소를 구입할 필요가 있다. 
+④ 지역 농산물을 구입하면 경제 활성화에 기여할 수 있다.
+⑤ 채소 위주의 식습관은 아이의 두뇌 발달을 촉진한다. 
+8. 대화를 듣고, 두 사람의 관계를 가장 잘 나타낸 것을 고르시오.
+① 상담 교사－ 학생
+② 여행사 직원－ 여행객
+③ 수의사－ 애완동물 주인
+④ 동물원 사육사－ 관람객
+⑤ 국립공원 직원－ 탐방객
+9. 대화를 듣고, 그림에서 대화의 내용과 일치하지 않는 것을 
+고르시오.
+10. 대화를 듣고, 남자가 여자를 위해 할 일로 가장 적절한 것을 
+고르시오.
+① 마중 나가기 ② 쿠키 사다 주기
+③ 도시락 주문하기 ④ 교통사고 신고하기
+⑤ 사무실에 데려다 주기
+11. 대화를 듣고, 남자가 여자에게 부탁한 일로 가장 적절한 것을 
+고르시오. 
+① to rent a laptop ② to visit a museum
+③ to surf the Internet ④ to find some photos
+⑤ to review the report
+12. 대화를 듣고, 여자가 배낭여행을 갈 수 없는 이유를 고르시오. 
+① 할아버지 댁에서 지내야 해서
+② 친구와 만날 약속이 있어서
+③ 부모님이 허락하지 않아서
+④ 방학 숙제를 해야 해서
+⑤ 제주도에 가야 해서
+13. 대화를 듣고, 선거 포스터에 관해 두 사람이 언급하지 않은  
+것을 고르시오.
+① 후보 기호 ② 후보 사진
+③ 학교 로고 ④ 학교 사진
+⑤ 선거 슬로건
+14. 대화를 듣고, 남자가 지불할 금액을 고르시오. [3점]
+① $215 ② $225 ③ $240 ④ $250 ⑤ $270
+15. 장학금에 관한 다음 내용을 듣고, 일치하지 않는  것을 
+고르시오.
+① 선정 과정은 두 단계로 구성된다.
+② 면접관은 학생들이 추천한 교사들이다.
+③ 개인별로 학기당 $1,000가 지급된다.
+④ 신청 마감일은 이번 주 금요일이다.
+⑤ 3명의 수혜자는 다음 달에 발표될 것이다.
+16. four-eyed fish에 관한 다음 내용을 듣고, 일치하지 않는 것을 
+고르시오. [3점]
+① 각각의 눈이 두 부분으로 나누어져 있다.
+② 수면 아래위를 동시에 볼 수 있다.
+③ 남아메리카에서 주로 발견된다.
+④ 작은 물고기를 잡아먹기도 한다.
+⑤ 작은 어항에서 키우기에 적합하다.
+17. 다음 표를 보면서 대화를 듣고, 여자가 선택한 복사기 모델을 
+고르시오.
+①
+②
+③
+④
+⑤
+18. 대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장 
+적절한 것을 고르시오.
+Man:
+① You must have enjoyed the party a lot.
+② It’s nice of you to take care of my baby.
+③ I’m so excited that your baby can walk now.
+④ I can’t wait to see what your baby will choose.
+⑤ Thank you for inviting me to your graduation party.
+19. 대화를 듣고, 남자의 마지막 말에 대한 여자의 응답으로 가장 
+적절한 것을 고르시오.
+Woman:
+① Maybe your luck has run out.
+② Your wish has finally become a reality.
+③ You’d better apply for the music program.
+④ If you keep it up, you might get tickets.
+⑤ I’m so surprised that you were on TV.
+20. 다음 상황 설명을 듣고, Julia가 Samuel에게 할 말로 가장 
+적절한 것을 고르시오.
+Julia: Samuel, 
+① could you give me a ride home?
+② would you teach me how to park?
+③ when did you get your driver’s license?
+④ what happened after you parked your car?
+⑤ how many times did you take the road test?
+[21～22] 다음을 듣고, 물음에 답하시오.
+21. 여자가 하는 말의 주제로 가장 적절한 것은? [3점]
+① developmental stages of human history
+② the characteristics of scientific inventions
+③ the difference between speaking and writing
+④ the significance of writing in human history
+⑤ ways to promote invention in the modern world
+22. 인류의 발명품으로 언급되지 않은 것은?
+① 전구 ② 비행기
+③ 전화기 ④ 현미경
+⑤ 망원경
+이제 듣기․말하기 문제가 끝났습니다. 23번부터는 문제지의 
+지시에 따라 답을 하기 바랍니다.
+23. 다음 글의 요지로 가장 적절한 것은?
+Everyone would like to assume that their wonderful, 
+creative ideas will sell themselves. But as Galileo, Edvard 
+Munch, Toni Morrison, Sylvia Plath, and millions of others 
+have discovered, they do not. On the contrary, creative ideas 
+are usually viewed with suspicion and distrust. Thus, students 
+need to learn how to persuade other people of the value of 
+their ideas. This selling is part of the practical aspect of 
+creative thinking. If students do a science project, it is a good 
+idea for them to present it and demonstrate why it makes an 
+important contribution. If they develop a plan for a new form 
+of government, they should explain why it is better than the 
+existing form of government.
+① 공정한 판단은 타인의 의견을 경청하는 데서 시작된다.
+② 창의적 사고는 문제점을 분석하는 것으로부터 출발한다.
+③ 과학 프로젝트는 학생들의 창의적 사고 형성에 도움이 된다.
+④ 학생들은 창의적 생각을 남에게 납득시키는 방법을 배워야 한다.
+⑤ 학생들은 창의적 사고의 가치를 실용적 측면에서 분석해야 한다. 
+24. 다음 글의 주제로 가장 적절한 것은?
+In the nineteenth century, a decisive moment occurred when 
+people in advertising and journalism discovered that if they 
+framed their stories and appeals with fear, they could capture 
+our attention. It is an emotion we find hard to resist or control, 
+and so they constantly shifted our focus to new possible 
+sources of anxiety: the latest health scare, the new crime 
+wave, and endless hazards in the environment of which we 
+were not aware. With the increasing sophistication of the 
+media and the haunting quality of the imagery, they have been 
+able to give us the feeling that we are fragile creatures in an 
+environment full of danger― even though we live in a world 
+infinitely safer and more predictable than anything our 
+ancestors knew. With their help, our anxieties have only 
+increased.
+① the crisis of modern journalism
+② the various sources of human fears
+③ the media’s exploitation of human anxieties
+④ the importance of advertising and journalism
+⑤ the fragile nature of human life in modern society
+25. 다음 글의 제목으로 가장 적절한 것은?
+In the past, many public-sector recreation providers allowed 
+people free access or charged for permits to control the 
+amount or season for different recreational activities such as 
+fishing or horse-riding. However, governments and other 
+public agencies are finding that funding to maintain sites and 
+facilities, to cope with increased demand on the landscape, is 
+becoming difficult to maintain. Opportunities to charge 
+visitors for appropriate services to help compensate for these 
+costs are being considered as one solution. This is a sensitive 
+matter, as free access for all people to the outdoors is a much 
+cherished right. There is also an additional dilemma for public 
+agencies where recreation facilities are already provided from 
+public money, and it could be argued that the taxpayer is 
+being charged twice. Thus, care is needed by public bodies to 
+ensure that charges are only made for services that are clearly 
+additional to the provision of free access.
+① How to Use Public Facilities for Outdoor Activities
+② Public Recreation Services: To Charge or Not?
+③ Access to Public Facilities: Denied or Delayed?
+④ A Short History of Public Recreation Facilities
+⑤ Preserving the Landscape: Torn Between Two Demands
+26. 밑줄 친 she[her]가 가리키는 대상이 나머지 넷과 다른 것은?
+Zaynab Fawwaz was born into a poor family in South 
+Lebanon. As a young girl ① she went to Alexandria with the 
+Egyptian family for whom she worked. Her mistress was 
+intrigued by her maid’s native intelligence and introduced 
+Zaynab to ② her literate friend, Fatima. She, in turn, taught 
+her reading, writing and arithmetic. Zaynab quickly learned 
+what ③ her teacher had to offer and in time went on to study 
+with Egyptian scholars. Eventually, ④ she became very active 
+in women’s issues and she wrote some pioneering poetry and 
+essays focused on women’s rights. The most famous of ⑤ her 
+essays was The Zaynab Letters.
+27. 다음 글의 밑줄 친 부분 중, 어법상 틀린 것은? [3점]
+Given that music appears to enhance physical and 
+mental skills, are there circumstances where music is 
+① damaging to performance? One domain ② which this is of 
+considerable significance is music’s potentially damaging 
+effects on the ability to drive safely. Evidence suggests an 
+association between loud, fast music and reckless driving, but 
+how might music’s ability to influence driving in this way 
+③ be explained? One possibility is that drivers adjust to 
+temporal regularities in music, and ④ that their speed is 
+influenced accordingly. In other words, just as faster music 
+causes people to eat faster, ⑤ so it causes people to drive at 
+faster speeds, as they engage mentally and physically with 
+ongoing repeated structures in the music.
+28. (A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 
+적절한 것은?
+England’s plan to establish colonies in North America, 
+starting in the late sixteenth century, was founded on a 
+(A) false / valid idea. It was generally assumed that Virginia, 
+the region of the North American continent to which 
+England laid claim, would have the same climate as the 
+Mediterranean region of Europe, since it lay at similar 
+latitudes. As a result, the English hoped that the American 
+colonies, once established, would be able to supply 
+Mediterranean goods such as olives and fruit and reduce England’s 
+(B) dependence / restriction on imports from continental Europe. 
+One prospectus claimed that the colonies would provide “the 
+wines, fruit and salt of France and Spain ... the silks of Persia 
+and Italy.” Similarly, (C) abundant / scarce timber would do 
+away with the need to import wood from Scandinavia. In 
+short, America was mistakenly expected to be a land of plenty 
+that would quickly turn a profit.
+* latitude: 위도  ** prospectus: 사업 설명서, 투자 설명서
+(A) (B) (C)
+① false …… dependence …… abundant
+② false …… dependence …… scarce
+③ false …… restriction …… abundant
+④ valid …… restriction …… scarce
+⑤ valid …… restriction …… abundant
+29. 다음 도표의 내용과 일치하지 않는 것은?
+The above graph shows the comparison between the 
+allocated budget and actual spending for six departments at 
+Triton Ventures in 2012. ① The Customer Service department 
+was allocated 60,000 dollars, which was greater than the 
+amount allocated to any other department. ② On the other 
+hand, in terms of actual spending, the top two departments 
+that spent the most were Marketing and Development. ③ The 
+Customer Service and Information Technology departments 
+spent the same amount of money, which was 20,000 dollars. 
+④ The actual spending by the Administration department was 
+less than half the allocated budget. ⑤ The Sales department 
+showed the largest gap between the allocated budget and its 
+actual spending among the six departments.
+30. Georgia O’Keeffe에 관한 다음 글의 내용과 일치하지 않는 
+것은?
+In her art, Georgia O’Keeffe clearly showed a pioneering 
+spirit and an intensely individual style. At age twenty-seven, 
+while teaching art in South Carolina, O’Keeffe began a series 
+of simple, abstract charcoal drawings that expressed her own 
+ideas and feelings. She sent these drawings to a friend in New 
+York, who showed them to Alfred Stieglitz, the owner of the 
+influential gallery 291. Stieglitz hailed them as the “purest, 
+finest, sincerest things.” O’Keeffe’s greatest source of 
+inspiration was nature. Her best-known paintings are large, 
+extreme close-ups of flowers; the simplified and magnified 
+views compel us to look at them in a new way and to discover 
+their inner essence. At the same time, the paintings become 
+abstract arrangements of color and line, light and shadow. 
+While in New Mexico, she was also fascinated by the simple 
+geometric grace of adobe churches and the majesty of the 
+desert.
+* adobe: 흙을 재료로 한 건축 양식의 일종
+① 27세에 South Carolina에서 미술을 가르쳤다.
+② 자신의 드로잉 작품들을 Stieglitz에게 보냈다.
+③ 영감을 얻은 가장 큰 원천은 자연이었다.
+④ 가장 잘 알려진 그림들은 클로즈업한 꽃 그림이다.
+⑤ New Mexico에서 사막의 장엄함에 매료되었다.
+
+
+35. As the structures of our world and the conditions of 
+certainty have yielded to an avalanche of change, the 
+extent of our longing for stable, definitive leadership 
+. The fault 
+lies not with leadership but rather with ourselves and our 
+expectations. In the old days, leaders were supposed to 
+make sense of chaos, to make certainty out of doubt, and 
+to create positive action plans for the resolution of 
+paradoxes. Good leaders straightened things out. Should 
+chaos rear its ugly head, the leader was expected to restore 
+normality immediately. But chaos is now considered 
+normal, paradoxes cannot be resolved, and certainty is 
+possible only to the level of high probability. Leadership 
+that attempts to deliver in terms of fixing any of these can 
+only fail. And that is exactly what is happening. [3점]
+* an avalanche of: 많은, 쇄도하는
+① can only be measured by our will to establish it
+② has made traditional leadership more irreplaceable
+③ can create viable action plans for restoring normality
+④ has vastly reduced the probability of resolving paradoxes
+⑤ has been exceeded only by the impossibility of finding it
+[36～37] 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 
+것을 고르시오.
+36. When a company comes out with a new product, its 
+competitors typically go on the defensive, doing whatever 
+they can to (A)  the odds that the offering will eat 
+into their sales. Responses might include increasing marketing 
+efforts, offering discounts to channel partners, and even 
+lobbying for regulations that would hinder the rival’s 
+expansion. In many cases, though, such actions are misguided. 
+Although the conventional wisdom that a rival’s launch will 
+hurt profits is often correct, my research shows that 
+companies sometimes see profits increase after a rival’s 
+launch. The underlying mechanism is pretty simple: When a 
+company comes out with a new product, it often raises the 
+prices of its existing products. This might be designed to 
+make the new product look (B)  and thus more 
+attractive by comparison. As that company adjusts its pricing, 
+its competitors can do the same without risking customer 
+defections over price. [3점]
+* defection: 이탈
+(A) (B)
+① calculate …… exceptional
+② calculate …… more striking
+③ eliminate …… more upgraded
+④ reduce …… up-to-date
+⑤ reduce …… cheaper
+37. All human societies have economic systems within which 
+goods and services are produced, distributed, and consumed. 
+In one sense, the economic aspect of culture is simply the sum 
+of the choices people make regarding these areas of their 
+lives. These choices critically determine much of people’s 
+lives. (A) , choosing to become a farmer rather 
+than an insurance broker may determine where you live, who 
+you are likely to meet, the sorts of behaviors you will expect 
+in your spouse and offspring, and so on. However, such 
+choices are not unlimited; rather, they are limited by our 
+cultures, traditions, and technologies. (B) , our 
+environments set the boundaries within which choices about 
+the production, distribution, and consumption of goods and 
+services are made. To the extent that economic systems are 
+part of culture, people in different cultures have different sorts 
+of economic behavior.
+(A) (B)
+① By contrast …… Consequently
+② For example …… Conversely
+③ For example …… Furthermore
+④ Similarly …… Instead
+⑤ Similarly …… Nevertheless
+38. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은? [3점]
+Organic farmers grow crops that are no less plagued by 
+pests than those of conventional farmers; insects generally 
+do not discriminate between organic and conventional as 
+well as we do.
+(A) However, most organic farmers have no choice but to rely 
+on chemicals as necessary supplements to their operations. 
+With pests often consuming up to 40 percent of the crops 
+grown in the United States, they do so as a matter of 
+course. 
+(B) They might refer to these substances as “botanical 
+extracts.” But according to Ned Groth, a senior scientist 
+at Consumers Union, these toxins “are not necessarily 
+less worrisome because they are natural.”
+(C) It is true that they are far more likely than conventional 
+farmers to practice environmentally beneficial forms of 
+biological control, and that they are also more likely to 
+sensibly diversify their crops to reduce infestation. 
+* infestation: 횡행, 만연
+① (A) － (C) － (B) ② (B) － (A) － (C)
+③ (B) － (C) － (A) ④ (C) － (A) － (B)
+⑤ (C) － (B) － (A)
+39. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 
+곳은?
+But the ones in which he could get up and do things like 
+industrial arts, drama, science projects, or P.E. were always 
+his favorites.
+Jason always seemed to have a tough time in classes, except 
+in the ones where he could do something. In the classes in 
+which the teachers just stood and talked, or told everyone to 
+read, he seemed to get bored and restless. ( ① ) He soon 
+realized that he was not a slow or unmotivated learner; he was 
+a kinesthetic learner. ( ② ) Once he figured this out, he 
+started to use this information to his advantage. ( ③ ) He 
+would draw out what he learned from class on notes, posters, 
+and doodles. ( ④ ) He would act out things and work with 
+other students on projects using role play and drama. ( ⑤ ) 
+This helped his learning come alive, and he was less bored. As 
+a result, he not only enjoyed school more, but his grades also 
+went up.
+* kinesthetic: 운동 감각의
+40. 다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A)와 
+(B)에 들어갈 말로 가장 적절한 것은?
+A narrative is not a myth the first time it is told, but only a 
+story or an account. What makes a story a myth is the fact 
+that it is received by a given society and that a given society 
+participates in its transmission. Obviously, it is difficult to 
+determine just when any story becomes a myth, but it is 
+clear that a narrative is not a myth when it is first told. The 
+intentions of the first narrator and the last narrator can be 
+the same, but this still does not give any special status to the 
+creator of a myth. It is far more important to realize that the 
+intentions of a given society in transmitting a narrative may 
+have nothing to do with the purposes of its author. Thus we 
+can never identify any individual creator of a myth. So long 
+as myth is a collective narrative by definition, the only 
+relevant consideration are the mentality and purposes of the 
+society for which the myth is a myth.
+󰀻
+Given the (A)  nature of a myth, a narrative becomes 
+a myth only when a given society accepts and (B)  it, 
+regardless of the intentions of its author.
+(A) (B)
+① collective …… transmits
+② creative …… distributes
+③ mental …… modernizes
+④ primitive …… circulates
+⑤ social …… evaluates
+[41～42] 다음 글을 읽고, 물음에 답하시오.
+Carrying capacity is the number of individuals that the 
+local resources can sustain. Individuals in a population that 
+has exceeded the carrying capacity of its habitat may have 
+poor health and suffer from malnutrition because of the 
+compromised living conditions. When this happens, the 
+weakest individuals may die, or the population as a whole 
+may become more vulnerable to further environmental stress 
+or disease. Sometimes a large number of individuals in a 
+population die as a result of overshooting the carrying 
+capacity of their habitat. This is known as a die-off. 
+Certain animals and plants have a built-in sense of 
+carrying capacity, so that instead of overshooting and having 
+a die-off, they remain within the limits of their habitat’s 
+ability to support them. Lake trout, for instance, stop 
+breeding as prolifically when the population density 
+increases too dramatically. Although this is the result of 
+individual responses to chemical signals from other trout 
+rather than a thought-out response on the part of the trout, 
+the result is that population numbers may  
+for extended periods. The trout will produce more offspring 
+and mature to a reproductive size at a faster rate when 
+populations are threatened, such as when aggressive fishing 
+takes place. When space and food are scarce, such as when a 
+lot of fish are living together in a small pond, the trout 
+remain smaller and reproduce more slowly. Experiments 
+have shown that no matter what number of lake trout a pond 
+is stocked with in the beginning, the population will increase 
+until it reaches a particular density, then level off at about the 
+same number.
+* prolific: 다산(多産)의
+41. 윗글의 주제로 가장 적절한 것은?
+① nature’s way of regulating population density
+② the relationship between nutrition and reproduction
+③ the significance of habitat protection for local ecosystems
+④ the necessity of protecting the lake trout population
+⑤ how to preserve various habitats for lake trout
+42. 윗글의 빈칸에 들어갈 말로 가장 적절한 것은? [3점]
+① rise quickly
+② be countless 
+③ remain steady
+④ be unknown 
+⑤ fall to zero
+[43～45] 다음 글을 읽고, 물음에 답하시오.
+(A)
+In Australia a few years ago, I met a remarkable man 
+named John Walton. He has since become a close friend. He 
+told me that when he started out in life he seemed to be 
+caught in a peculiar failure pattern. Whatever he tried would 
+start out well and then end up badly. As a schoolboy he 
+dropped out of several schools for this reason. He became 
+convinced that it was his destiny in life to make good 
+beginnings and then watch them fade away. 
+(B)
+The speaker also said, “Most of you are letting the fear of 
+failure hold you back. All the ingredients of success are right 
+there inside you, if you’ll just turn your thinking around. 
+Don’t keep telling yourself you can’t do this or you can’t do 
+that. You can do ANYTHING if you think you can!” John 
+had never heard anything like this in his whole life. He 
+realized for the first time that his image of himself as a 
+person who started well and then faded away was all in his 
+head, a state of mind that could be altered any time he made 
+a firm decision to alter it.
+(C)
+At one point, John got a job with the Australian division of a 
+famous American company. The same dreary pattern seemed 
+to be unfolding: He started out well, and then things began to 
+slide. This didn’t surprise him much; it was what he expected 
+to happen. Then the company sent a motivational speaker out 
+to give some talks to their Australian employees, and John 
+was in the audience. The visitor told his listeners to visualize 
+themselves moving up in the company, receiving promotions, 
+gaining energy as they went, right up to the very top.
+(D)
+John went back to work with tremendous enthusiasm and 
+confidence and energy. He received promotions. He became 
+the manager of a branch in New South Wales. Finally he 
+became the head of the company for all of Australia. Where 
+once he had been dogged by failure, now everything he did 
+was crowned by success. He told me, “It was that one talk 
+that changed my self-image by giving it a little twist. It made 
+me see myself differently, and so I was different.”
+43. 주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 
+가장 적절한 것은?
+① (B) － (D) － (C)
+② (C) － (B) － (D)
+③ (C) － (D) － (B)
+④ (D) － (B) － (C)
+⑤ (D) － (C) － (B)
+44. 윗글의 제목으로 가장 적절한 것은?
+① Stir Your Sleeping Creativity!
+② The Cycle of Success and Failure
+③ Failure: A Stepping Stone to Success
+④ Be Positive and Success Will Embrace You
+⑤ Career Development: Investment for Your Life
+45. 윗글의 John Walton에 관한 내용과 일치하지 않는 것은?
+① 호주에서 필자(‘I’)를 만났다.
+② 학창 시절에 여러 학교를 그만두었다.
+③ 유명한 미국 회사의 호주 지사에 일자리를 얻었다.
+④ 동기 부여 강연회의 연설자로 참석하였다.
+⑤ New South Wales에 있는 지사의 매니저가 되었다.
+* 확인 사항
+◦답안지의 해당란에 필요한 내용을 정확히 기입(표기)했는지 확인
+하시오.
+]

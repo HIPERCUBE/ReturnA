@@ -1,0 +1,22 @@
+38. 
+The subjective approach to probability is based mostly 
+on opinions, feelings, or hopes. Therefore, we don’t 
+typically use this approach in real scientific attempts.
+(A) But the probability of an event in either case is mostly 
+subjective, and although this approach isn’t scientific, it 
+sure makes for some great sports talk amongst the 
+fans.
+(B) Although the actual probability that the Ohio State 
+football team will win the national championship is out 
+there somewhere, no one knows what it is. Some fans 
+will have ideas about what that chance is based on how 
+much they love or hate Ohio State.
+(C) Other people will take a slightly more scientific 
+approach―evaluating players’ stats, analyzing all the 
+statistics of the Ohio State team over the last 100 
+years, looking at the strength of the competition, and 
+so on. 
+* probability: 확률
+① (A) － (C) － (B) ② (B) － (A) － (C)
+③ (B) － (C) － (A) ④ (C) － (A) － (B)
+⑤ (C) － (B) － (A)

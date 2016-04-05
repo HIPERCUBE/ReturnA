@@ -1,0 +1,8 @@
+12. 다음 표를 보면서 대화를 듣고, 두 사람이 선택할 책장을 고르시오.
+Bookcases
+Model Price Shelves Color Material
+① A $ 90.. 3 White Wood
+② B $ 100 4 Black Plastic
+③ C $ 120 4 Brown Wood
+④ D $ 130 5 White Plastic
+⑤ E $ 155 5 Brown Wood

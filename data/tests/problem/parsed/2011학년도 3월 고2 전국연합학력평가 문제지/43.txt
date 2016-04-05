@@ -1,0 +1,19 @@
+43. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?
+Babies are immersed in the language that they are 
+expected to learn. They hear family members conversing, 
+conversations in the grocery store, and people talking to 
+them. 
+(A) For example, when Janie says “goo, goo,” her mother 
+rushes over with a cookie and says, “Oh, here’s a cookie.” 
+When Jake shouts, “I want what ball,” his father says, 
+“Here’s that ball,” as he throws it to his son.
+(B) Through exposure to various situations such as these, 
+they speak something that is similar to something else, but 
+not exactly the same. 
+(C) In this way, parents accept and often celebrate their 
+children’s approximations, considering them natural and 
+essential behaviors of language acquisition. 
+* approximation: 근접한 것
+① (A)―(C)―(B) ② (B)―(A)―(C)
+③ (B)―(C)―(A) ④ (C)―(A)―(B)
+⑤ (C)―(B)―(A)

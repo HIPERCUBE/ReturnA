@@ -1,0 +1,25 @@
+38. 다음 글의 제목으로 가장 적절한 것은?
+If you’ve ever driven by a wind farm,
+you may have noticed that the turbines
+most likely have three blades. Not two,
+not four, but three. There are a few
+reasons behind that. If you have too
+many blades on a wind turbine, each
+blade as it moves through the air leaves
+a whirlpool behind it. If these whirlpools
+interfere with one another, that can
+cause problems with efficiency. However,
+if you have a turbine with two blades, it
+can’t capture as much energy from the
+<wind turbines > wind as a three-blade turbine can. It
+also suffers from a dynamic imbalance;
+the two blades may receive higher wind speeds at the top
+than the bottom. This causes a vibration problem and
+vibrations in wind turbines are undesirable. Therefore, we
+come to the three-blade wind turbines, which solve all the
+problems mentioned above. *whirlpool 소용돌이
+① The History of Wind Turbines
+② How Many Blades Are Practical?
+③ Wind: The Best Alternative Energy
+④ Efficient Ways to Generate Electricity
+⑤ What Are the Functions of Wind Turbines?

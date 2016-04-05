@@ -1,0 +1,16 @@
+36. Feynman explains that light always takes the path of least 
+time from point to point, and he uses the analogy of a 
+lifeguard racing along a beach to save a drowning swimmer. 
+The lifeguard could run straight to the water’s edge and then 
+swim diagonally along the coast and out to sea, but this 
+would result in a long time spent swimming, which is slower 
+than running on the beach. ① Alternatively, he could run to 
+the water’s edge at the point nearest to the swimmer, and 
+dive in there. ② But this makes the total distance covered 
+longer than it needs to be. ③ In order to save the drowning 
+swimmer, the lifeguard needs to be mentally and physically 
+prepared to cope with harsh sea conditions. ④ The optimum, 
+if his aim is to reach the swimmer as quickly as possible, is 
+somewhere in between these two extremes. ⑤ Light, too, 
+takes such a path of least time from point to point, which is 
+why it bends when passing between different materials. [3점]

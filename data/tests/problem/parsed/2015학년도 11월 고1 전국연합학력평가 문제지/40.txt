@@ -1,0 +1,26 @@
+40. 다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A)와 (B)에 
+들어갈 말로 가장 적절한 것은? 
+Do animals have a sense of fairness? Researchers decided 
+to test this by paying dogs for “giving their paw.” Dogs were 
+asked repeatedly to give their paw. Researchers measured 
+how fast and how many times dogs would give their paw if 
+they were not rewarded. Once this baseline level of paw 
+giving was established, the researchers had two dogs sit 
+next to each other and asked each dog in turn to give a paw. 
+Then one of the dogs was given a better reward than the 
+other. In response, the dog that was being “paid” less for the 
+same work began giving its paw more reluctantly and 
+stopped giving its paw sooner. This finding raises the very 
+interesting possibility that dogs may have a basic sense of 
+fairness, or at least a hatred of inequality. 
+* paw: 동물의 발
+󰀻
+The dog that was rewarded less than the other for the same 
+act showed (A)  responses, which suggests that 
+dogs may have a sense of (B) .
+(A) (B)
+① willing …… shame
+② willing …… direction
+③ normal …… achievement
+④ unwilling …… belonging
+⑤ unwilling …… equality

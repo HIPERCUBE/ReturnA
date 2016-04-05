@@ -1,0 +1,9 @@
+17. 다음 표를 보면서 대화를 듣고, 여자가 선택한 여행용 가방을
+고르시오.
+Travel Suitcases
+Model Price Size Number(Inches) Material of Wheels
+① A $175 20 softcase 2
+② B $180 20 softcase 4
+③ C $185 20 hardcase 2
+④ D $195 24 softcase 4
+⑤ E $210 24 hardcase 4

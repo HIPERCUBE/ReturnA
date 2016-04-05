@@ -1,0 +1,19 @@
+21. (A), (B), (C)의 각 네모 안에서 어법에 맞는 표현으로 가장
+적절한 것은?
+Ultrasound, an imaging technique, produces an image by
+(A) bounce / bouncing sound waves off an object inside the
+body. A picture is then made using the reflected sound
+waves. The frequency of sound waves used in ultrasound
+imaging (B) range / ranges above human hearing. The choice
+of frequency depends on how deep into the body the sound
+waves are needed to penetrate. Lower frequencies allow
+doctors to see structures deeper inside the body. The lower
+the frequency, however, the less (C) clear / clearly the image
+will become. Doctors use ultrasound to visualize the size and
+structure of internal organs.
+(A) (B) (C)
+① bounce ······ range ······ clear
+② bounce ······ ranges ······ clearly
+③ bouncing ······ ranges ······ clear
+④ bouncing ······ ranges ······ clearly
+⑤ bouncing ······ range ······ clearly

@@ -1,0 +1,17 @@
+37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은? 
+Suppose you come home from school to find a cushion 
+torn apart on the living room floor.
+(A) As she jumps into your arms, you find that she is 
+covered with pieces of the cushion’s stuffing. You know 
+that you were the last person to leave that morning.
+(B) The stuffing has been pulled out, and small pieces of it 
+are everywhere. As you set down your backpack, your 
+dog runs toward you.
+(C) You think about this information and come up with a 
+possible explanation, based on the facts, that she tore 
+apart the cushion. This process is called drawing a 
+conclusion.
+* stuffing: (쿠션에 넣는) 속
+① (A)  (C)  (B) ② (B)  (A)  (C)
+③ (B)  (C)  (A) ④ (C)  (A)  (B)
+⑤ (C)  (B)  (A)

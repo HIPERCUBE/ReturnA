@@ -1,0 +1,21 @@
+38. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은? [3점]
+In April 1997, the U.S. Food and Drug Administration
+ruled that toothpaste manufacturers weren’t adhering
+closely enough to voluntary safety guidelines. As a result,
+all toothpaste tubes now bear a scary­sounding warning.
+(A) In the months following the new warning, toothpaste
+consumer lines fielded hundreds of questions from
+worried parents, and poison control centers were flooded
+with calls as well. They told parents the same thing:
+your child is fine and may vomit, or not.
+(B) It was like this one: “Keep out of the reach of children
+under 6 years of age. If more than used for brushing is
+accidentally swallowed, get medical help or contact a
+poison control center right away.”
+(C) The only reason to see a doctor, however, is if the
+vomiting gets so serious that dehydration becomes an
+issue. That’s right: you can eat your fill of delicious
+toothpaste and not come away with anything more
+serious than nausea and diarrhea.
+① (A)-(C)-(B) ② (B)-(A)-(C) ③ (B)-(C)-(A)
+④ (C)-(A)-(B) ⑤ (C)-(B)-(A)

@@ -1,0 +1,17 @@
+25. 다음 글의 밑줄 친 부분 중, 어법상 틀린 것은? [3점]
+I remember one of the smartest I.T. executives ①for whom 
+I ever worked strongly resisting the movement to measure 
+programmer productivity that was popular at the time. He was 
+fond of saying that the biggest problem with managing 
+computer programmers is that you can never tell ②whether 
+they are working by looking at them. Picture two programmers 
+working side by side. One is leaning back in his chair with his 
+eyes ③closed and his feet on the desk. The other is working 
+hard, typing code into his computer. The one with his feet up 
+could be thinking, and the other one may be too busy typing 
+④ to give it enough thought. In the end, the busy typist could 
+well produce ten times as many lines of code as the thinker, 
+which contain twice as many new problems as the thinker’s. 
+Unfortunately, most of the productivity measurement schemes 
+I have encountered ⑤measuring effort or apparent activity. 
+They would reward him and punish his thoughtful neighbor.

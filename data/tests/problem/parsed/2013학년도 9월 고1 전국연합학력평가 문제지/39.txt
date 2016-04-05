@@ -1,0 +1,18 @@
+39. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한
+곳은?
+Studying families with rare genetic disorders has allowed
+doctors to trace the genetic basis of disease through
+generations.
+Promising advances have been made in the area of human
+genetics. ( ① ) In the 1980s, scientists developed methods to
+compare the DNA sequence of different individuals. ( ② )
+DNA left behind at the scene of a crime has been used as
+evidence in court, both to prosecute criminals and to set
+free people who have been wrongly accused. ( ③ ) DNA
+sequencing techniques are also useful in the field of
+medicine. ( ④ ) This kind of genetic tracking helps doctors
+to predict the likelihood of a person getting a disease and to
+diagnose it ― although not to cure the illness. ( ⑤ )
+However, some genetic diseases can now be treated by
+replacing damaged genes with healthy ones, a practice called
+gene therapy.

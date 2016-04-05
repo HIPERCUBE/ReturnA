@@ -1,0 +1,17 @@
+43. 주어진글다음에이어질글을순서대로바르게배열한것은?
+More and more people are switching to a vegetarian diet,
+and wonder if it’s good for their pets, too.
+(A) Responding to this curiosity, some manufacturers claim that
+their no-meat foods provide all the nutrients animals need,
+but many doctors disagree. An expert says that it is hard to
+create vegetarian diets that are safe for cats.
+(B) In addition, dogs need vitamin D, which may be hard to
+maintain without meat or dairy. “An unbalanced diet can
+lead to nutritional deficiencies,” says vet Andrea Fascetti
+of the University of California.
+(C) In fact, cats are strictly meat-eating animals. They need
+taurine, an amino acid found only in meat. Absence of
+taurine can lead to cats’ blindness and even death.
+① (A)-(B)-(C) ② (A)-(C)-(B)
+③ (B)-(A)-(C) ④ (B)-(C)-(A)
+⑤ (C)-(B)-(A)

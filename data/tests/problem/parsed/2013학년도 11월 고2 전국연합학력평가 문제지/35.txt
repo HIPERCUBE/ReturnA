@@ -1,0 +1,22 @@
+35. There is no frame-free way to evaluate anything. Consider
+this example. College students were asked whether they would
+support a multimillion-dollar safety measure that would save
+150 lives at risk. Is 150 lives a lot or a little? Well, compared
+with what? Other students were asked whether they would
+support a safety measure that would save 98 percent of 150
+lives at risk. These students were more favorable toward it
+than the students who were told it would save 150 lives.
+Obviously, saving 150 lives is better than saving 98 percent of
+150 lives, but a measure that saved 98 percent of the lives
+seems clearly cost-effective. The 98 percent figure provides
+the students with a frame that 150 lives by itself does not.
+Whether the money spent on safety is seen as a wise decision
+or not will depend on . When
+people are told that a safety measure will save 98 percent of
+150 lives, a frame is created between 150 lives and 98 percent
+of 150 lives. [3점]
+① the analysis of the input
+② the context of comparison
+③ the expectation of investors
+④ the effort of risk management
+⑤ the background of respondents 　　　　　　

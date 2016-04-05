@@ -1,0 +1,9 @@
+12. 다음 표를 보면서 대화를 듣고, 여자가 구입할 공기청정기를 
+고르시오.
+Air Purifier
+Model Are(as qc.ofvte.)rage Afunnticvtiirouns W(yareraarnst)y Price
+① A 450 ○ 1 $250
+② B 550 × 3 $300
+③ C 600 ○ 5 $390
+④ D 750 ○ 3 $350
+⑤ E 900 × 1 $500

@@ -1,0 +1,22 @@
+29. In physics, scientists invent models, or theories, to 
+describe and predict the data we observe about the 
+universe. Newton’s theory of gravity is one example; 
+Einstein’s theory of gravity is another. Those theories, 
+though they describe the same phenomenon, constitute 
+very different versions of reality. Newton, (A) , 
+imagined that masses affect each other by exerting a 
+force, while in Einstein’s theory the effects occur through 
+a bending of space and time and there is no concept of 
+gravity as a force. Either theory could be employed to 
+describe, with great accuracy, the falling of an apple, but 
+Newton’s would be much easier to use. (B) , for 
+the calculations necessary for the satellite-based global 
+positioning system (GPS) that helps you navigate while 
+driving, Newton’s theory would give the wrong answer, 
+and so Einstein’s must be used.
+(A) (B)
+① for example …… On the other hand
+② for example …… As a result
+③ therefore …… As a result
+④ moreover …… Likewise  
+⑤ moreover …… On the other hand

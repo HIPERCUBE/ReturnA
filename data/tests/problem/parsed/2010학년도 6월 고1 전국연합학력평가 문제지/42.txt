@@ -1,0 +1,16 @@
+42. Take a small pocket dictionary. Look at five pages at
+random and count the number of words you know. Divide it
+by 5 and calculate how many words you know on one page.
+By multiplying the number by the total number of pages in
+the whole dictionary, you can get an approximation about
+how many words you know in a dictionary. To your
+surprise, you know a small fraction of words in the
+dictionary. You should also take into account that most
+dictionaries contain only a small sample of all the words in
+your language. It means that you probably know an even
+smaller proportion of the total vocabulary of the language.
+① Words: Know a Lot?
+② How to Use a Dictionary
+③ Language: Survive or Not?
+④ Vocabulary: Changes Everyday?
+⑤ The Number of Various Languages

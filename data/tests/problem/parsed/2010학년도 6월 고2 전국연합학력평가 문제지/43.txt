@@ -1,0 +1,21 @@
+43. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?
+There are many units by which to measure the impact of
+climate change: degrees of increasing temperature, feet of
+rising sea level, dollars needed to adapt to a warming
+world.
+(A) As global temperatures rise over the next century, these
+scientists argue, Earth’s habitable climatic zones will start
+moving too, generally away from the Equator and toward
+the poles.
+(B) That means many species of plants and animals will also
+have to move in order to survive. Whether or not they do
+will depend on how fast a species can adjust its habitat
+range, and how quickly that range moves out from under
+it.
+(C) But a group of scientists have put forth an intriguing new
+unit of measurement: kilometers per year. In an article
+published in Nature, scientists describe what they call the
+speed of Earth’s shifting climatic zones.
+① (A) - (C) - (B) ② (B) - (A) - (C)
+③ (B) - (C) - (A) ④ (C) - (A) - (B)
+⑤ (C) - (B) - (A)

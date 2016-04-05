@@ -1,0 +1,23 @@
+37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은? [3점]
+Dieter Rams, a German industrial designer, is driven by the 
+idea that almost everything is noise. He believes very few 
+things are essential. His job is to filter through that noise 
+until he gets to the essence.  
+(A) It took courage, as it always does, to eliminate the 
+non-essential. By the sixties this aesthetic started to 
+become more and more popular. In time it became the 
+design every other record player followed.
+(B) For example, when he was the lead designer at a company, 
+he was asked to collaborate on a record player. The norm 
+at the time was to cover the turntable in a solid wooden lid 
+or even to incorporate the player into a piece of living 
+room furniture. 
+(C) Instead, he and his team removed the clutter and designed 
+a player with a clear plastic cover on the top and nothing 
+more. It was the first time such a design had been used, 
+and it was so revolutionary that people worried it might 
+bankrupt the company because nobody would buy it. 
+* clutter: 불필요한 것
+① (A) - (C) - (B) ② (B) - (A) - (C)
+③ (B) - (C) - (A) ④ (C) - (A) - (B)
+⑤ (C) - (B) - (A)

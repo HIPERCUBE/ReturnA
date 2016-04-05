@@ -1,0 +1,15 @@
+27. 다음글의 밑줄친부분 중, 어법상 틀린것은? [3점]
+An ambiguous term is one which has more than a single
+meaning and ①whose context does not clearly indicate which
+meaning is intended. For instance, a sign posted at a fork in a
+trail which ② reads “Bear To The Right” can be understood in
+two ways. The more probable meaning is that it is instructing
+hikers to take the right trail, not the left. But let us ③ say that
+the ranger who painted the sign meant to say just the opposite.
+He was trying to warn hikers against taking the right trail
+because there is a bear in the area through which it passes.
+The ranger’s language was therefore careless, and open to
+misinterpretation ④what could have serious consequences.
+The only way to avoid ambiguity is to spell things out as
+⑤ explicitly as possible: “Keep left. Do not use trail to the
+right. Bears in the area.”

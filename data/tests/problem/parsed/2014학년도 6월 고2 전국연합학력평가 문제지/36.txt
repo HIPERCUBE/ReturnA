@@ -1,0 +1,21 @@
+36. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은? [3점]
+You may know the classic myth of Icarus and Daedalus. 
+The tale is tragic and it reminds us that our safety 
+requires obedience, especially to our parents when we 
+are not yet adults.
+(A) However, not all of us who pursue our dreams are so 
+reckless as to do something dangerous, just as Icarus 
+flew too close to the sun. As we mature, we know that 
+we must balance courage with caution.
+(B) At the same time, we know that if everyone were motivated 
+by fear, then nothing creative or progressive would ever 
+be achieved. Therefore, we try to respect and keep alive 
+our dreams and aspirations.
+(C) It’s easy to forget that our parents often know better, 
+but they do. Though our parents might seem out of step 
+with the times, they have a great deal more wisdom 
+and experience.
+* reckless: 무모한
+① (A) - (B) - (C) ② (A) - (C) - (B)
+③ (B) - (A) - (C) ④ (C) - (A) - (B)
+⑤ (C) - (B) - (A)

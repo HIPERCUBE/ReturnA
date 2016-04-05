@@ -1,0 +1,22 @@
+25. 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은? [3점]
+There is a    (A)    principle in human perception that 
+affects the way we see the difference between two things 
+that are presented one after another. For example, each 
+student in the psychophysics laboratory takes a turn sitting 
+in front of three buckets of water - one cold, one at room 
+temperature, and one hot. After placing one hand in the cold 
+water and one in the hot water, the student is told to place 
+both in the lukewarm water simultaneously. Then something 
+surprising happens. Even though both hands are in the same 
+bucket, the hand that was in the cold water feels as if it is 
+now in the hot water, while the one in the hot water feels 
+as if it is in cold water. The point is that the same thing 
+can be made to seem very different, depending on the nature of 
+the event that     (B)     it.
+* lukewarm: 미지근한
+(A) (B)
+① contrast  ‥‥‥ precedes
+② contrast  ‥‥‥ follows
+③ similarity  ‥‥‥ precedes
+④ similarity  ‥‥‥ follows
+⑤ consistency  ‥‥‥ causes

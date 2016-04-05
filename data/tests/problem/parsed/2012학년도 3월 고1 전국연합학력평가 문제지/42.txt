@@ -1,0 +1,17 @@
+42. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은? [3점]
+My mother and I are walking to Fanelli’s market. A
+neighbor calls to my mother. As they talk, I wander to the
+backyard of the neighbor’s.
+(A) She makes the best barking sound I have ever heard a
+human make. The dog cries and runs away. My mother
+turns and says, “You have to show them who’s boss!”
+(B) Suddenly, a German shepherd jumps at me. Awowwow! It
+is tied with a chain. I am screaming. My mother runs to
+me and asks, “What is it?” I say, “It’s a dog!” She asks,
+“A dog? Around there?”
+(C) I nod, crying. She marches me around the house. The dog
+yells again. Awowwowow! I jump back. But my mother
+pulls me forward and she barks back at the dog.
+① (A) - (C) - (B) ② (B) - (A) - (C)
+③ (B) - (C) - (A) ④ (C) - (A) - (B)
+⑤ (C) - (B) - (A)

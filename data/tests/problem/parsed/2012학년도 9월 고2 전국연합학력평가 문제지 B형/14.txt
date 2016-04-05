@@ -1,0 +1,8 @@
+14. 다음 표를 보면서 대화를 듣고, 두 사람이 선택할 항공사를
+고르시오.
+A irlin e S e a ts A va ila b le F a re D e p a rtu re T im e
+① A 3 $ 400 5 :3 0 a .m .
+② B 4 $ 350 9 :0 0 a .m .
+③ C 4 $ 250 1 :0 0 p .m .
+④ D 5 $ 200 6 :0 0 p .m .
+⑤ E 1 $ 120 1 2 :0 0 p .m .

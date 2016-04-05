@@ -1,0 +1,16 @@
+43. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은? [3점]
+Renewable energy sources such as sunlight, water, and 
+wind are created continually by nature and can be used 
+repeatedly by people. 
+(A) Today, wind towers much taller than those windmills ―  
+usually about 20 stories high ― are being used to capture 
+the power of wind.
+(B) Among them, wind has been used as an energy source for 
+centuries. For example, windmills helped draw water and 
+grind grain into flour.
+(C) The wind turns giant blades connected to the towers and 
+enables electrical generators to work.
+* generator: 발전기
+① (A)-(B)-(C) ② (A)-(C)-(B)
+③ (B)-(A)-(C) ④ (B)-(C)-(A)
+⑤ (C)-(B)-(A)

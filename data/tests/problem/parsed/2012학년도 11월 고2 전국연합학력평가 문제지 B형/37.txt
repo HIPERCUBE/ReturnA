@@ -1,0 +1,19 @@
+37. 다음 글의 (A), (B)에 들어갈 말로 가장 적절한 것은?
+If you can find a pattern, rule, or underlying principle in the 
+material, you will likely be able to learn it more easily.    
+(A)       , if you arrange the number 376315374264 in four 
+groups of three, it is easier to remember (376-315-374
+-264). The task is even easier if you can see some patterns or 
+relationships among the four groups. The first three groups all 
+start with 3, and the first and third groups both have a 7 next; 
+the second digits in the last two groups are only one digit apart 
+(7 and 6), and the last digit is the same (4). Noticing such 
+patterns helps make the number more meaningful.     (B)      , 
+looking for patterns in phone numbers, addresses, dates, or any 
+other numbers will help you remember them. 
+(A) (B)
+① However …… Otherwise
+② Therefore …… Nevertheless
+③ In contrast …… Moreover
+④ For instance …… Instead
+⑤ For example …… Similarly

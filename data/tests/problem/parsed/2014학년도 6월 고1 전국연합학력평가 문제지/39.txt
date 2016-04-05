@@ -1,0 +1,21 @@
+39. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?
+Many authors feel that scientific papers must use 
+complex language to sound more scientific. 
+(A) Besides these issues of writing style, there are other 
+barriers to clear communication that negatively affect 
+your paper’s chance of publication in a top journal. Most 
+journals ask that you keep the use of non­standard 
+abbreviations to an absolute minimum. 
+(B) They think so because they forget that they are writing 
+for a wide audience, and that they should be using 
+concise language. Don’t use too many words when a 
+few will do, and don’t use an overly complicated word 
+when a simple word will do.
+(C) But many authors ignore this request without realizing 
+that excessive use of abbreviations makes reading 
+difficult. There is nothing wrong with spelling out words 
+completely.
+* abbreviation: 축약어
+① (A) - (C) - (B) ② (B) - (A) - (C)
+③ (B) - (C) - (A) ④ (C) - (A) - (B)
+⑤ (C) - (B) - (A)

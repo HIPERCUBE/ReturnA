@@ -1,0 +1,9 @@
+12. 다음 표를 보면서 대화를 듣고, 두 사람이 선택할 패키지 상
+품을 고르시오.
+Golden Spa Packages
+Package Mud Bath Massage (perP rpiecreson)
+① A × 30 minutes $40
+② B ○ 30 minutes $60
+③ C × 60 minutes $80
+④ D ○ 60 minutes $100
+⑤ E × 90 minutes $120
