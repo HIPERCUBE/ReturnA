@@ -1,9 +1,12 @@
 package com.joowon.returnA.classifier;
 
+import com.joowon.returnA.classifier.cli.ClassifierCliParser;
 import com.joowon.returnA.classifier.cv.PdfPageDivider;
 import com.joowon.returnA.classifier.export.PdfImageExport;
 import com.joowon.returnA.classifier.extractor.PdfTextExtractor;
 import com.joowon.returnA.classifier.parser.HeadlineParser;
+import com.joowon.returnA.classifier.parser.ProblemParser;
+import com.joowon.returnA.classifier.txt.TxtWriter;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.pdmodel.PDPage;
 
@@ -36,17 +39,52 @@ import java.io.IOException;
  */
 public class Classifier {
     public static void main(String[] args) throws IOException {
-        Classifier classifier = new Classifier(PDDocument.load(new File("/Users/Joowon/Documents/Github/ReturnA/data/tests/problem/bnoRiCCI_h3_enga2_mun.pdf")));
-        System.out.println(classifier.getTestName());
-        System.out.println(classifier.getProblemText());
+        ClassifierCliParser cliParser = new ClassifierCliParser(args);
+        cliParser.parse();
+
+        File sourceDirectory = new File(cliParser.getTarget());
+        File destinationParentDirectory = new File(cliParser.getDestination());
+        File[] sourcePdfList = sourceDirectory.listFiles();
+
+        assert sourcePdfList != null;
+        for (File pdfFile : sourcePdfList) {
+            try {
+                Classifier classifier = new Classifier(PDDocument.load(pdfFile), destinationParentDirectory.getAbsolutePath());
+                File destinationDirectory = new File(destinationParentDirectory.getAbsolutePath() + "/" + classifier.getTestName());
+                destinationDirectory.mkdirs();
+
+                String text = ProblemParser.removeExceptionalText(classifier.getProblemText());
+                new TxtWriter(destinationDirectory.getAbsolutePath() + "/" + "test.txt").write(text);
+                for (int i = 1; i <= 45; ++i) {
+                    String group = ProblemParser.parseProblemGroup(text, i);
+                    if (group.length() != 0) {
+                        String fileName = destinationDirectory.getAbsolutePath() + "/" + ProblemParser.parseProblemGroupName(group) + ".txt";
+                        System.out.println(fileName);
+                        new TxtWriter(fileName).write(group);
+                        text = text.replace(group, "");
+                    }
+                }
+                text = ProblemParser.removeExceptionalText(text);
+                for (int i = 1; i <= 45; ++i) {
+                    String problemText = ProblemParser.parseProblem(text, i);
+//                System.out.println(problemText);
+                    String fileName = destinationDirectory.getAbsolutePath() + "/" + ProblemParser.parseProblemName(problemText) + ".txt";
+                    System.out.println(fileName);
+                    new TxtWriter(fileName).write(problemText);
+                }
+            }catch (Exception e){
+                e.printStackTrace();
+            }
+        }
     }
 
     private PDDocument document;
 
-    public Classifier(PDDocument document) {
+    public Classifier(PDDocument document, String path) {
         // Export images from PDF
         this.document = document;
-        PdfImageExport.export(document, System.getProperty("user.dir"), "image");
+        System.out.println(path);
+        PdfImageExport.export(document, path, "image");
     }
 
     public String getProblemText() throws IOException {
@@ -86,6 +124,10 @@ public class Classifier {
         String text = new PdfTextExtractor(page)
                 .addRegion(0, 0, width, endY)
                 .extract().toString();
-        return HeadlineParser.parseTestName(text);
+        String testName = HeadlineParser.parseTestName(text);
+        String testType = HeadlineParser.parseTestType(text);
+        if (testType.length() != 0)
+            testName += " " + testType;
+        return testName;
     }
 }
