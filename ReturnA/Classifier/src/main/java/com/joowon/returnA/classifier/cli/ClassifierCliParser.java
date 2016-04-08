@@ -60,6 +60,7 @@ public class ClassifierCliParser {
     }
 
     public void parse() {
+        // Check all necessary option is exist
         if (!commandLine.hasOption("t")
                 | !commandLine.hasOption("d")
                 | commandLine.hasOption("h")) {
