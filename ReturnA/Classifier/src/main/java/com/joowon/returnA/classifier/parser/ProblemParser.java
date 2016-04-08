@@ -64,7 +64,7 @@ public class ProblemParser extends Parser {
     }
 
     public static String parseProblemGroup(String data, int problemNumber) {
-        String regex = "(^\\[" + problemNumber + ")(()|( ))(～|~)(()|( ))((\\d{2}\\])|(\\d\\]))(()|(.))+(()|(\\n.+))+(?=(\\n" + problemNumber + "\\.))";
+        String regex = "(^\\[" + problemNumber + ")(()|( ))(～|~|-)(()|( ))((\\d{2}\\])|(\\d\\]))(()|(.))+(()|(\\n.+))+(?=(\\n" + problemNumber + "\\.))";
         return regexFind(Pattern.compile(regex, Pattern.MULTILINE), data);
     }
 
@@ -74,17 +74,17 @@ public class ProblemParser extends Parser {
     }
 
     public static String parseProblemGroupName(String data) {
-        String regex = "((\\[(()|( ))\\d{2})|(\\[(()|( ))\\d))(()|( ))(～|~)(()|( ))((\\d{2}(()|( ))\\])|(\\d(()|( ))\\]))";
+        String regex = "((\\[(()|( ))\\d{2})|(\\[(()|( ))\\d))(()|( ))(～|~|-)(()|( ))((\\d{2}(()|( ))\\])|(\\d(()|( ))\\]))";
         return regexFind(Pattern.compile(regex), data);
     }
 
     public static String parseProblemGroupNameStartNumber(String data) {
-        String regex = "([^\\[]\\d(()|(.+))(?=(～|~)))";
+        String regex = "([^\\[]\\d(()|(.+))(?=(～|~|-)))";
         return regexFind(Pattern.compile(regex), data);
     }
 
     public static String parseProblemGroupNameEndNumber(String data) {
-        String regex = "(?<=(～|~))\\d(()|(.+))(?=\\])";
+        String regex = "(?<=(～|~|-))\\d(()|(.+))(?=\\])";
         return regexFind(Pattern.compile(regex), data);
     }
 
