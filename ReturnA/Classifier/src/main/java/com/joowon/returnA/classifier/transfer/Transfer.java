@@ -1,7 +1,7 @@
-package com.joowon.returnA.classifier.db.dto;
+package com.joowon.returnA.classifier.transfer;
 
 /**
- * Copyright (c) 3/29/16 Joowon Ryoo
+ * Copyright (c) 4/6/16 Joowon Ryoo
  * <p>
  * Permission is hereby granted, free of charge, to any person
  * obtaining a copy of this software and associated documentation
@@ -24,6 +24,6 @@ package com.joowon.returnA.classifier.db.dto;
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
  * OTHER DEALINGS IN THE SOFTWARE.
  */
-public enum Type {
-
+public interface Transfer {
+    void transfer();
 }
