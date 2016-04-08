@@ -30,44 +30,32 @@ import java.util.regex.Pattern;
  */
 public class ProblemParser extends Parser {
     public static void main(String[] args) throws InterruptedException {
-//        String reformedText = removeExceptionalText(text);
-//        for (int i = 1; i <= 45; ++i) {
-//            String group = parseProblemGroup(reformedText, i);
-//            System.out.println(group);
-//            if (group.length() != 0)
-//                reformedText = reformedText.replace(group, "");
-//            System.out.println("= = = = = = = = = = = = = = = = = = = = = = = = = = =\n");
-//            System.out.println("= = = = = = = = = = = = = = = = = = = = = = = = = = =");
-////            Thread.sleep(300);
-//        }
-//        reformedText = removeExceptionalText(reformedText);
-//        for (int i = 1; i <= 45; ++i) {
-//            System.out.println(parseProblem(reformedText, i));
-//            System.out.println("= = = = = = = = = = = = = = = = = = = = = = = = = = =\n");
-//            System.out.println("= = = = = = = = = = = = = = = = = = = = = = = = = = =");
-////            Thread.sleep(300);
-//        }
+        System.out.println(parseProblemGroupNameStartNumber("[27~41]"));
     }
 
     public static String removeExceptionalText(String text) {
-        Map<String, String> replaceMap = new HashMap<>();
-        replaceMap.put("\\n\\]\\[", "\n");
-        replaceMap.put("^( )+", "");
-        for (int i = 1; i <= 45; ++i) {
-            replaceMap.put("\\n+(?=" + i + "\\.)", "\n");
-        }
-        for (String key : replaceMap.keySet()) {
-            text = Pattern.compile(key, Pattern.MULTILINE).matcher(text).replaceAll(replaceMap.get(key));
+        try {
+            Map<String, String> replaceMap = new HashMap<>();
+            replaceMap.put("\\n\\]\\[", "\n");
+            replaceMap.put("^( )+", "");
+            for (int i = 1; i <= 45; ++i) {
+                replaceMap.put("\\n+(?=" + i + "\\.)", "\n");
+            }
+            for (String key : replaceMap.keySet()) {
+                text = Pattern.compile(key, Pattern.MULTILINE).matcher(text).replaceAll(replaceMap.get(key));
+            }
+        } catch (StackOverflowError ignored) {
         }
         return text;
     }
 
     public static String parseProblem(String data, int problemNumber) {
-        String regex = "(^" + problemNumber + "\\.)(()|(.))+(\\n.+)+";
-        if (problemNumber != 45) {
-            regex += "(?=(\\n" + (problemNumber + 1) + "\\.))";
-        }
-        return regexFind(Pattern.compile(regex, Pattern.MULTILINE), data);
+        String regex = "(^" + problemNumber + "\\.)(()|(.))+(\\n.+)+(?=(\\n" + (problemNumber + 1) + "\\.))";
+        String regexLast = "(^" + problemNumber + "\\.)(()|(.))+(\\n.+)+";
+        String result = regexFind(Pattern.compile(regex, Pattern.MULTILINE), data);
+        if (result.length() != 0)
+            return result;
+        else return regexFind(Pattern.compile(regexLast, Pattern.MULTILINE), data);
     }
 
     public static String parseProblemName(String data) {
@@ -80,8 +68,53 @@ public class ProblemParser extends Parser {
         return regexFind(Pattern.compile(regex, Pattern.MULTILINE), data);
     }
 
+    public static String parseProblemGroupWithoutName(String problemGroupText) {
+        String regex = "(?<=\\])(.|\\n)+";
+        return regexFind(Pattern.compile(regex), problemGroupText);
+    }
+
     public static String parseProblemGroupName(String data) {
-        String regex = "((\\[\\d{2})|(\\[\\d))(()|( ))(～|~)(()|( ))((\\d{2}\\])|(\\d\\]))";
+        String regex = "((\\[(()|( ))\\d{2})|(\\[(()|( ))\\d))(()|( ))(～|~)(()|( ))((\\d{2}(()|( ))\\])|(\\d(()|( ))\\]))";
         return regexFind(Pattern.compile(regex), data);
+    }
+
+    public static String parseProblemGroupNameStartNumber(String data) {
+        String regex = "([^\\[]\\d(()|(.+))(?=(～|~)))";
+        return regexFind(Pattern.compile(regex), data);
+    }
+
+    public static String parseProblemGroupNameEndNumber(String data) {
+        String regex = "(?<=(～|~))\\d(()|(.+))(?=\\])";
+        return regexFind(Pattern.compile(regex), data);
+    }
+
+    public static String parseQuestion(String problemText) {
+        String regex = "((?<=\\d\\.)|(?<=\\d{2}\\.)).+((\\n.+)|())((은\\?)|(는\\?)|(오\\.))";
+        return regexFind(Pattern.compile(regex), problemText);
+    }
+
+    public static String parseOption1(String problemText) {
+        String regex = "(?<=①)(.|\\n)+?(?=②)";
+        return regexFind(Pattern.compile(regex), problemText);
+    }
+
+    public static String parseOption2(String problemText) {
+        String regex = "(?<=②)(.|\\n)+?(?=③)";
+        return regexFind(Pattern.compile(regex), problemText);
+    }
+
+    public static String parseOption3(String problemText) {
+        String regex = "(?<=③)(.|\\n)+?(?=④)";
+        return regexFind(Pattern.compile(regex), problemText);
+    }
+
+    public static String parseOption4(String problemText) {
+        String regex = "(?<=④)(.|\\n)+?(?=⑤)";
+        return regexFind(Pattern.compile(regex), problemText);
+    }
+
+    public static String parseOption5(String problemText) {
+        String regex = "(?<=⑤)(.|\\n)+";
+        return regexFind(Pattern.compile(regex), problemText);
     }
 }

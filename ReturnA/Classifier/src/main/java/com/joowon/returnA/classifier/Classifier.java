@@ -2,10 +2,12 @@ package com.joowon.returnA.classifier;
 
 import com.joowon.returnA.classifier.cli.ClassifierCliParser;
 import com.joowon.returnA.classifier.cv.PdfPageDivider;
+import com.joowon.returnA.classifier.db.MongoDbManager;
 import com.joowon.returnA.classifier.export.PdfImageExport;
 import com.joowon.returnA.classifier.extractor.PdfTextExtractor;
 import com.joowon.returnA.classifier.parser.HeadlineParser;
 import com.joowon.returnA.classifier.parser.ProblemParser;
+import com.joowon.returnA.classifier.transfer.TxtToMongoTransfer;
 import com.joowon.returnA.classifier.txt.TxtWriter;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.pdmodel.PDPage;
@@ -44,18 +46,21 @@ public class Classifier {
 
         File sourceDirectory = new File(cliParser.getTarget());
         File destinationParentDirectory = new File(cliParser.getDestination());
+        if (!destinationParentDirectory.exists())
+            destinationParentDirectory.mkdirs();
         File[] sourcePdfList = sourceDirectory.listFiles();
 
         assert sourcePdfList != null;
         for (File pdfFile : sourcePdfList) {
             try {
+                System.out.println(pdfFile);
                 Classifier classifier = new Classifier(PDDocument.load(pdfFile), destinationParentDirectory.getAbsolutePath());
                 File destinationDirectory = new File(destinationParentDirectory.getAbsolutePath() + "/" + classifier.getTestName());
                 destinationDirectory.mkdirs();
 
                 String text = ProblemParser.removeExceptionalText(classifier.getProblemText());
                 new TxtWriter(destinationDirectory.getAbsolutePath() + "/" + "test.txt").write(text);
-                for (int i = 1; i <= 45; ++i) {
+                for (int i = 1; i <= 50; ++i) {
                     String group = ProblemParser.parseProblemGroup(text, i);
                     if (group.length() != 0) {
                         String fileName = destinationDirectory.getAbsolutePath() + "/" + ProblemParser.parseProblemGroupName(group) + ".txt";
@@ -65,25 +70,31 @@ public class Classifier {
                     }
                 }
                 text = ProblemParser.removeExceptionalText(text);
-                for (int i = 1; i <= 45; ++i) {
+                for (int i = 1; i <= 50; ++i) {
                     String problemText = ProblemParser.parseProblem(text, i);
 //                System.out.println(problemText);
                     String fileName = destinationDirectory.getAbsolutePath() + "/" + ProblemParser.parseProblemName(problemText) + ".txt";
                     System.out.println(fileName);
                     new TxtWriter(fileName).write(problemText);
                 }
-            }catch (Exception e){
+                classifier.close();
+            } catch (Exception e) {
                 e.printStackTrace();
             }
         }
+
+        new TxtToMongoTransfer(destinationParentDirectory.getAbsolutePath(),
+                "localhost:" + MongoDbManager.DEFAULT_PORT)
+                .transfer();
     }
 
     private PDDocument document;
+    private String destinationParentPath;
 
     public Classifier(PDDocument document, String path) {
         // Export images from PDF
         this.document = document;
-        System.out.println(path);
+        this.destinationParentPath = path;
         PdfImageExport.export(document, path, "image");
     }
 
@@ -92,7 +103,7 @@ public class Classifier {
 
         String text = "";
         for (int i = 1; i <= numberOfPages; ++i) {
-            double[] bodyPosition = new PdfPageDivider(System.getProperty("user.dir") + "/image_" + i + ".png")
+            double[] bodyPosition = new PdfPageDivider(destinationParentPath + "/image_" + i + ".png")
                     .divide()
                     .findBody();
             PDPage page = document.getPage(i - 1);
@@ -113,7 +124,7 @@ public class Classifier {
     }
 
     public String getTestName() throws IOException {
-        double[] bodyPosition = new PdfPageDivider(System.getProperty("user.dir") + "/image_" + 1 + ".png")
+        double[] bodyPosition = new PdfPageDivider(destinationParentPath + "/image_" + 1 + ".png")
                 .divide()
                 .findHeadLine();
         PDPage page = document.getPage(0);
@@ -129,5 +140,13 @@ public class Classifier {
         if (testType.length() != 0)
             testName += " " + testType;
         return testName;
+    }
+
+    public void close() {
+        try {
+            document.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 }
