@@ -34,7 +34,7 @@ public class PdfPageDivider {
     public static void main(String[] args) {
         for (int i = 1; i < 8; ++i) {
             System.out.println(Arrays.toString(
-                    new PdfPageDivider("/Users/Joowon/Documents/Github/ReturnA/image_" + i + ".png")
+                    new PdfPageDivider("/Users/Joowon/Documents/Github/ReturnA/data/tests/problem/parsed/image_" + i + ".png")
                             .divide()
                             .findHeadLine()));
         }
