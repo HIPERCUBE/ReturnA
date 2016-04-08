@@ -1,7 +1,7 @@
-package com.joowon.returnA.classifier.db.dto;
+package com.joowon.returnA.classifier.transfer;
 
 /**
- * Copyright (c) 3/29/16 Joowon Ryoo
+ * Copyright (c) 4/6/16 Joowon Ryoo
  * <p>
  * Permission is hereby granted, free of charge, to any person
  * obtaining a copy of this software and associated documentation
@@ -24,7 +24,23 @@ package com.joowon.returnA.classifier.db.dto;
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
  * OTHER DEALINGS IN THE SOFTWARE.
  */
-public enum Mode {
-    Listening,
-    Reading,
+public class TransferException extends RuntimeException {
+    public TransferException() {
+    }
+
+    public TransferException(String message) {
+        super(message);
+    }
+
+    public TransferException(String message, Throwable cause) {
+        super(message, cause);
+    }
+
+    public TransferException(Throwable cause) {
+        super(cause);
+    }
+
+    public TransferException(String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) {
+        super(message, cause, enableSuppression, writableStackTrace);
+    }
 }
