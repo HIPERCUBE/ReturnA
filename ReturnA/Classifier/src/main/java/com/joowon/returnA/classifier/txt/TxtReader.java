@@ -1,7 +1,9 @@
-package com.joowon.returnA.classifier.db.dto;
+package com.joowon.returnA.classifier.txt;
+
+import java.io.*;
 
 /**
- * Copyright (c) 3/29/16 Joowon Ryoo
+ * Copyright (c) 4/7/16 Joowon Ryoo
  * <p>
  * Permission is hereby granted, free of charge, to any person
  * obtaining a copy of this software and associated documentation
@@ -24,10 +26,27 @@ package com.joowon.returnA.classifier.db.dto;
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
  * OTHER DEALINGS IN THE SOFTWARE.
  */
-public class Problem {
-    private int number;
-    private Mode mode;
-    private Type type;
-    private String question;
+public class TxtReader {
+    private BufferedReader reader;
 
+    public TxtReader(File file) {
+        try {
+            reader = new BufferedReader(new FileReader(file));
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public String read() {
+        String temp, text = "";
+        try {
+            while ((temp = reader.readLine()) != null) {
+                text += temp + "\n";
+            }
+            reader.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return text;
+    }
 }
