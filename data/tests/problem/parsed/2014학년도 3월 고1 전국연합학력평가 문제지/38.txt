@@ -11,3 +11,4 @@ it’s buried? ( ④ ) The turtle stops breathing air through its
 nose and mouth. ( ⑤ ) And when spring comes and the 
 ground warms up, the turtle digs itself out and starts 
 breathing normally again.
+* mammal: 포유류

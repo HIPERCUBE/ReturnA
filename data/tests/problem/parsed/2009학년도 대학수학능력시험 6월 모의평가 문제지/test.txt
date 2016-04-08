@@ -1,5 +1,4 @@
-[성명 수험 번호
-1번부터 17번까지는 듣고 답하는 문제입니다. 방송을 잘 
+[  1번부터 17번까지는 듣고 답하는 문제입니다. 방송을 잘 
 듣고 답을 하기 바랍니다. 듣는 내용은 한 번만 방송됩니다.
 1. 대화를 듣고, 두 사람이 구입할 toy tent를 고르시오. [1점]
 ① ②
@@ -310,6 +309,96 @@ he felt as if she lit up the world around her.
 ① lonely → pleased ② indifferent → worried 
 ③ annoyed → fascinated ④ frightened → ashamed
 ⑤ discouraged → confident 
+31. 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은? 
+We’re always seeking the next opportunity for something 
+big. If you talk to a cab driver in Manhattan, you’re likely to 
+find that he’s going to school to get a better job.    (A)   , 
+if you meet a waitress in Southern California, she’s likely 
+to tell you that she has an audition for a movie next week. 
+The cab driver might never get out of his cab and the 
+waitress might be serving food for the next twenty years, but 
+the sense that they’re moving toward something more 
+glamorous is very important to them personally.     (B)    , 
+those who fail to act, who accept the limitations of their 
+work without complaining, are likely to feel miserable 
+about their lives. The hopelessness of their jobs has done 
+critical damage to their identities.
+(A)       (B)
+① Likewise …… On the other hand
+② Likewise …… To begin with
+③ On the contrary …… At the same time
+④ On the contrary …… Therefore
+⑤ As a result …… In other words
+[32~33] 다음 글의 주제로 가장 적절한 것을 고르시오.
+32. It is around the age of ten or eleven that most children 
+take on music as a real interest. By the age of eighteen or 
+twenty, most people form their tastes for music. We seek 
+out different kinds of music, and the choice of music has 
+important social consequences. We listen to the music that 
+our friends listen to. In search of our identity, we form 
+bonds or social groups with people whom we want to be 
+like. As a way of externalizing the bond, we listen to the 
+same kind of music, and music becomes a mark of 
+personal and group identity and of distinction.
+① the relation of music to social identity
+② the use of music for emotional therapy
+③ the effect of music on intelligence
+④ the necessity of music education
+⑤ the classification of pop music
+33. In recent years, knitting has become increasingly popular 
+with the younger generation. Why are so many young 
+people taking up knitting as a hobby? Knitting is 
+skill-oriented with the chance for them to take on 
+increasingly harder challenges and to get intense 
+satisfaction from accomplishing them. And in today’s 
+world, where teenagers are looking for unique ways to 
+express themselves, handmade clothes and accessories can 
+be a smart, creative way for them to express their 
+individual personalities. Despite what most people believe, 
+many of today’s kids have longer attention spans than we 
+think; and they are passionate about creating not just 
+personal websites, but also attractive, useful knit products 
+that mark their presence in the world.
+① 뜨개질과 학습 효과의 연관성 
+② 청소년의 효과적인 여가 활용 방법
+③ 뜨개질을 통한 양성 평등 교육의 효과
+④ 컴퓨터를 활용한 뜨개질 교육의 필요성
+⑤ 뜨개질이 청소년에게 인기 있는 이유
+34. 다음 글에서 필자가 주장하는 바로 가장 적절한 것은? 
+Sometimes you work as hard as you can on something, 
+and it doesn’t work out. I usually persist longer than most 
+people would in a similar situation―which is why I often 
+succeed where others have failed. I also know that 
+sometimes you have to throw in the towel. I remember 
+one project I spent weeks working on at my architecture 
+firm. I spent many late nights trying to perfect my design, 
+but it just wasn’t coming together. I finally realized that I 
+had to start over from scratch. Maybe you have failed in 
+similar situations, but you probably learned something 
+valuable. Add it up to experience, don’t take it personally, 
+and go find your next challenge!  
+① 할 일에 대한 사전 분석을 철저히 하라.
+② 실패하더라도 좌절하지 말고 다시 시작하라.
+③ 난관에 부딪쳤을 때 타인의 조언을 받아들여라.
+④ 거절해야 할 때는 그 이유를 명확히 밝혀라.
+⑤ 사소한 일이라도 완벽을 추구하라.
+35. 유전자 변형 작물(transgenic crop)의 이점에 대한 다음 
+도표의 내용과 일치하지 않는 문장은?
+The above chart shows the economic advantage of 
+transgenic cotton farming over conventional farming in four 
+countries in 2003. ① In all the countries, the seed cost for 
+the transgenic crop was higher than that for the conventional 
+one. However, lower pesticide costs, higher yields, and 
+higher revenues made the transgenic crop more profitable. 
+② The profit ratio varied from country to country. ③ In 
+Argentina, the ratio of the transgenic seed cost to the cost of 
+the conventional one was higher than that of the other 
+countries. ④ In South Africa, the profit ratio of the transgenic 
+crop to the conventional one was the highest, followed by 
+China. ⑤ Among the nations, Mexico’s crop produced the 
+lowest ratios in yield and prof it as compared to the 
+conventional one.
+* pesticide: 살충제 ** revenue: 총수익
 36. “Primitive people”의 언어에 관한 다음 글의 내용과 일치하는 것은? 
 Some people think the languages of so-called primitive 
 peoples are so simple that they have limited vocabularies 
@@ -363,6 +452,7 @@ circulation. Therefore, high prices must be attributed to
 market distortions. The real problem is not the euro 
 currency but the profiteers who are left unchecked.
 * drachma: 그리스의 화폐 명칭
+① 유럽연합 가입으로 그리스 경제가 활성화되었다.
 ② 그리스의 복잡한 시장 구조는 오랜 전통을 가지고 있다.
 ③ 그리스의 물가 상승은 유로화 도입보다는 시장 왜곡 때문이다.
 ④ 물가 안정을 위해 유럽국가의 새로운 경제 협의체가 필요하다.

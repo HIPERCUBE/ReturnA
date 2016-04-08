@@ -1,5 +1,4 @@
-[성명 수험번호
-◦문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
+[◦문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
 ◦답안지의 해당란에 성명과 수험 번호를 쓰고, 또 수험 번호와
 답을 정확히 표시하시오.
 ◦문항에 따라 배점이 다르니, 각 물음의 끝에 표시된 배점을
@@ -25,7 +24,6 @@
 3. 대화를 듣고, 여자가 구입할 모빌을 고르시오.
 ① ② ③
 ④ ⑤
-2
 4. 대화를 듣고, 남자의 심정으로 가장 적절한 것을 고르시오.
 ① lonely ② jealous ③ pleased
 ④ relaxed ⑤ annoyed
@@ -297,8 +295,83 @@ exotic earthworms may . [3점]
 ③ decompose into soil in hardwood forests
 ④ reach the peak of their activity in spring
 ⑤ make the soil more fertile than any other species
-
-
+31. Every person has his or her own phobias or fears. Most fears
+are harmless, but, if they actually stop you from having fun and
+becoming successful, you should start learning how to stop
+being scared. In this way, you can make yourself braver, and be
+able to live a more relaxed life. Here is a tip. You can overcome
+your phobias effectively if you .
+For example, if you are frightened of roaches, it is a good
+idea to start staring at pictures of roaches and watch movies
+that show you some roaches. Next, you can try sweeping
+dead roaches off your floor, and then eventually look at one
+or two crawling cockroaches first before actually stepping on
+them or killing them. This process is more effective for
+‘objects and animal fears’ rather than fear of failure or being
+afraid of rejection.
+① focus intensively on your current work
+② recall pleasant memories of your childhood
+③ ask for advice from a counsellor on the Web
+④ share your terrifying experiences with your friends
+⑤ gradually make yourself less sensitive to what scares you
+32. 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?
+An animal’s hunting behavior is innate and further refined
+through learning. Each species has a characteristic strategy.
+Fo (A)exal, wolves and jackals are chasing predators; they
+run after their prey in packs until the victim gets tired, then
+they surround the exhausted prey while several pack
+members attack it simultaneously. Wolves coordinate their
+hunting through body movements, ear positioning, and
+vocalization, and the leader of the group has the privilege of
+eating first. Cats are, For (B)exle,, sneaky hunters. Whether
+they are small cats or large lions, felines approach their prey
+with quiet steps and then suddenly attack, using their claws
+to bring their victim down. A bite to the throat or back of the
+neck usually kills the victim. *feline : 고양이과 동물
+(A) (B)
+① For example …… in contrast
+② For example …… therefore
+③ In addition …… however
+④ Above all …… consequently
+⑤ Above all …… similarly
+33. 다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지
+않은 것은? [3점]
+Even if you expect the ①majority of your readers to
+understand your native language, you may be tempted to use
+English when writing about research work. Usually
+researchers all over the world know English and use it a lot,
+and often the relevant terminology is more ②well-known in
+English than in your own language. Thus, to ③maximize the
+number of interested people that can understand your text,
+you often select English even if a great number of your
+readers have the same native language as you. Alternatively,
+you might write your texts both in your native language and
+in English, and this ④ reduces the work needed for writing
+your document and possibly maintaining it. The maintenance
+problem is especially important for documents on the Web―the
+information system where one crucial feature is the ability to
+keep things really ⑤ up-to-date. Consequently, the use of
+English in essentially national environments tends to grow.
+34. 다음 글의 주제로 가장 적절한 것은?
+There’s a lot of evidence that strong communities have less
+crime and survive disasters better. Here’s an example: the
+environmentalist film maker Judith Helfand is making a film
+about a massive heat wave in Chicago in 1995 that killed
+about six hundred people. She explains that the victims had
+one thing in common: they were socially isolated. They didn’t
+have friends or family or trusted neighbors to notice that
+they hadn’t been out of their house lately, or to check that
+their air conditioners were working well. In fact,
+three-quarters of Americans don’t know their neighbors.
+Judith argues that the best way to prevent deaths from future
+heat waves is not having a policy of handing out discount air
+conditioner coupons, but providing community-building
+activities that strengthen social ties throughout the year.
+① ways to take care of victims of crime
+② the necessity of building strong social bonds
+③ the relationship of one’s social status and health
+④ factors that affect the occurrence of natural disasters
+⑤ the importance of raising funds for the socially isolated
 35. 다음 도표의 내용과 일치하지 않는 문장은?
 This bar chart demonstrates the percentage of Americans
 over the age of 12 who used various digital devices in 2001

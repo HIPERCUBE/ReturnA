@@ -1,5 +1,4 @@
-[제 3 교시 성명 수
-◦ 문제지의해당란에성명과수험번호를정확히기입하시오.
+[◦ 문제지의해당란에성명과수험번호를정확히기입하시오.
 ◦ 답안지의 해당란에 성명과 수험번호를 쓰고, 또 수험번호와 답을
 정확히표시하시오.
 ◦ 문항에따라배점이다르니, 각물음의끝에표시된배점을참고하시오.
@@ -26,7 +25,6 @@
 ⑤서류작성하기
 5. 대화를듣고, 여자가지불할총금액을고르시오.
 ① $35 ② $50 ③ $65 ④ $70 ⑤ $85
-험번호 2
 6. 다음을듣고, 남자가하는말의목적으로가장적절한것을고르시오.
 ①교내식당이용을권장하려고
 ②학부모회의일정을알리려고
@@ -302,8 +300,88 @@ social life of the family.
 ③ opposite …… disconnection …… ignored
 ④ opposite …… connection …… ignored
 ⑤ opposite …… connection …… respected
-
-
+32. 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?
+A research on the ways people personalize their workspaces
+suggests that personalization is generally good for both
+employees and employers. People who decorate their offices
+tend to have ① lower levels of job satisfaction. So companies
+that allow their employees to personalize their workspaces
+should be ② rewarded with faithful employees. Indeed, the
+research showed that the degree of personalization in an office
+is a signal of how ③ loyal an occupant is to the organization.
+Particularly committed workers tend to ④ display items related
+to their family and friends. In other words, these dedicated
+workers ⑤ combine their private selves with their work lives,
+rather than keeping the two strictly separate.
+33. 다음글의 (A), (B)에 들어갈 말을바르게짝지은것은?
+Acronyms are words created from the first letters of each
+word in a series of words. In business, industry, education, and
+government, they are often used by people working within the
+same fields. That’s fine, as long as everyone involved
+understands what the acronyms stand for. (A) , such
+acronyms may not be comprehensible to those outside your
+field. And certain acronyms can mean different things to
+different people, sometimes causing misunderstanding if the
+contexts are not considered. (B) , if a banker overhears
+a stranger saying ABA in a public place, the banker would take
+him as another banker thinking the word means the American
+Banking Association; a bowler in the same situation would think
+of it as the American Bowling Association.
+(A) (B)
+① However …… In contrast
+② However …… For example
+③ Besides …… Likewise
+④ Therefore …… In addition
+⑤ Therefore …… Otherwise
+[34 ~ 35]다음글의주제로가장적절한것을고르시오.
+34. Often, people report that a good cry can make them feel better
+and more at peace. In one survey, 85% of women and 73% of
+men reported feeling less sad or angry after crying. As a result of
+this kind of information, a scientist conducted a research to
+discover the chemical makeup of tears. He found that the tears
+caused by sadness contained more total protein than those caused
+by cutting a raw onion. He proposes that the emotionally based
+tears contained high levels of cortisol, which is the primary
+hormone released during stressful situations. This suggests that
+we may be literally releasing toxins from our system when we
+cry, and that crying itself may support our overall wellbeing.
+① how to control tears
+② the various causes of tears
+③ the proper procedure of a survey
+④ how to deal with others’ emotions
+⑤ the healing power of emotional tears
+35. Doing some amount of engaging work offers a comfortable
+transition between full work mode and full retirement mode,
+making early semi-retirement a good fit for middle-aged
+people and their families. With a modest income from part-time
+work, early semi-retirees may not have to face the dramatic
+downshifting in spending and lifestyle. Early semi-retirees
+learn that a bit of work, even unpaid work, keeps them
+energized, contributing, and sharp. For those who are mentally
+and financially ready, early semi-retirement can be the ideal
+course for navigating a long, healthy, and happy life.
+① the effects of early retirement on society
+② the benefits of working as a semi-retiree
+③ the raised awareness of old people’s welfare
+④ the necessity of proper income for a happy life
+⑤ the way of overcoming loneliness after retirement
+36. chambered nautilus에 대한다음글의내용과일치하는것은?
+The curious-looking chambered nautilus is considered to be a
+living fossil. This animal reproduces by laying eggs. When a
+young chambered nautilus first hatches from its egg, it is about
+an inch in diameter and has a shell with seven chambers. The
+average lifespan of the chambered nautilus is believed to be
+about 20 years. It is thought to rely mainly on its sense of
+smell when searching for food. Their eyesight is very poor
+because their eyes contain no lenses. Instead, there is only a
+tiny hole to allow light into the eye. Unfortunately, its
+population is on the decline due to the harvesting of their
+beautiful shells.
+①부화했을 때의 지름은 약 7인치이다.
+②최대수명은 20년으로 알려져있다.
+③먹이를 찾을 때 주로 촉각을 사용한다.
+④눈에 빛이 들어오는 작은 구멍이 있다.
+⑤개체수가 점점 늘어나는 추세이다.
 37. SOFIA에 대한 다음글의내용과일치하지않는것은?
 The SOFIA is a Boeing 747 jet developed jointly by NASA
 and the German Aerospace Center. Instead of passenger seats,

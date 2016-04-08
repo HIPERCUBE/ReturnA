@@ -325,8 +325,95 @@ because you will be punished if you don’t.’ I realized ⑤what I
 had wanted a reward: If I do this nice thing for you, you (or 
 someone else) will do an equally nice thing for me.
 * stew: 안달하다
-
-
+29. 밑줄 친 부분이 가리키는 대상이 나머지 넷과 다른 것은? 
+Igor Cerc went to a store to have a clock engraved. It 
+was a gift he was taking to a wedding the day he was 
+picking it up. However,　when he arrived at the store, ① he 
+found that the technician had broken the glass of the clock 
+during the engraving process. They offered to replace the 
+entire clock, after they got money from their insurance 
+company, but Igor needed the clock now. He realized that it 
+would not serve ② his goals to get upset. He calmly said 
+that he needed to　 go to a wedding in thirty minutes; the 
+clock was ③ his wedding gift. He noted that there was 
+similar glass in other clocks in the store. Couldn’t the store 
+take apart another clock to fix his? He was calm and polite 
+throughout. “The clerk thanked me for not yelling at ④ him 
+as other customers do,” said Igor. “I realized that he would 
+do everything he could for me as long as I remained polite.” 
+The clerk took apart another clock and quickly replaced the 
+glass, and Igor went on ⑤ his way.
+30. (A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적
+절한 것은? [3점]
+It is often believed that an active person can make friends 
+more easily than a shy person, and that a conscientious 
+person may meet more deadlines than a person who is not 
+conscientious. Walter Mischel found, however, that the 
+typical correlation between personality traits and behavior 
+was quite (A) apparent / modest . This news was really 
+shocking, because it essentially said that the traits 
+personality psychologists were measuring were just slightly 
+better at predicting behavior than astrological signs. Mischel 
+did not simply point out the problem; he diagnosed the 
+reasons for it. He argued that personality psychologists had 
+(B) overestimated / underestimated  the extent to which the 
+social situation shapes people’s behavior, independently of 
+their personality. To predict whether a person will meet a 
+deadline, for example, knowing something about the situation 
+may be more useful than knowing the person’s score on a 
+measure of conscientiousness. Situational influences can be 
+very powerful, sometimes (C) emphasizing / overwhelming
+individual differences in personality.
+* conscientious: 성실한 ** astrological sign: 점성술의 별자리
+(A) (B) (C)
+① apparent ······ overestimated ······ emphasizing 
+② apparent ······ underestimated ······ emphasizing
+③ modest ······ overestimated ······ emphasizing 
+④ modest ······ overestimated ······ overwhelming 
+⑤ modest ······ underestimated ······ overwhelming
+[31 ~ 33] 다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오. 
+31. When the navigation app on your smartphone is telling you 
+the best route to the airport based on current traffic 
+patterns, how does it know where the traffic is? Navigation 
+systems are tracking your cell phone and the cell phones of 
+thousands of other users of the applications to see how 
+quickly those cell phones move through traffic. If you’re 
+stuck in a traffic jam, your cell phone reports the same GPS 
+coordinates for several minutes; if traffic is moving swiftly, 
+your cell phone moves as quickly as your car and these 
+apps can recommend routes based on that. The quality of 
+the overall system depends crucially on there being a large 
+number of users. In this respect they’re similar to 
+telephones, fax machines, and e­mail: If only one or two 
+people have them, they are not much good ― their utility 
+increases with _____________.
+* coordinate: 좌표
+① inventors’ ideas
+② the number of users
+③ the design of devices 
+④ the cost of production
+⑤ geographical conditions
+32. When scientists describe tool use by human beings, it is 
+usually in terms of mechanical tools. This may apply to 
+tools such as a sharpened flint blade or an electric drill. The 
+key point is that the tool is thought of as passive and with 
+a small number of predetermined uses. The digital revolution 
+has begun to change this landscape in a significant way. 
+Tools are now being developed with a general function in 
+mind, but they are not predetermined in their operations. As 
+a result, ___________________. For example, the personal 
+computer is designed for the general function of handling 
+and processing information, but exactly how the PC is used 
+is not predetermined. Therefore, for some, it may offer a 
+means of communication; for others, a sophisticated means 
+of managing accounts; and for yet others, an entertainment 
+platform. [3점]
+* flint: 부싯돌
+① you should find the merits of old inventions
+② it is not possible to predict the outcome of their use
+③ individual digital devices have grown smaller and cheaper
+④ you should follow ethical rules when designing tools
+⑤ they are not associated with mutual communication
 33. The human brain cannot completely comprehend or 
 appreciate all that it encounters in its lifespan. Even if a 
 music lover kept his headphones on for every minute of 

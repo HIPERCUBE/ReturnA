@@ -1,0 +1,14 @@
+30. 용수철 저울 그림에 대한 다음 글의 내용 중, 밑줄 친 낱말의
+쓰임이 적절하지 않은 것은?
+The above figure shows how a spring scale measures the
+weight of an object, using a rack and pinion gear system. The
+rack is the series of evenly spaced teeth attached to the ①bottom
+end of the spring; the pinion is the ② toothed wheel attached to
+the dial needle. This system converts the small linear motion of
+the stretching spring into a much more visible ③rotary motion of
+the dial needle. When you place an object in the basket, the
+basket starts ④descending and as it does, the spring stretches.
+As the spring stretches, the rack moves downward, and its teeth
+cause the pinion to rotate. The farther the rack moves, the more
+the pinion turns, and the ⑤ lower the weight indicated by the
+needle.

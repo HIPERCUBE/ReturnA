@@ -1,5 +1,4 @@
-[성명 수험번호
-◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
+[◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
 ◦ 답안지의 해당란에 성명과 수험 번호를 쓰고, 또 수험 번호와
 답을 정확히 표시하시오.
 ◦ 문항에 따라 배점이 다르니, 각 물음의 끝에 표시된 배점을
@@ -26,7 +25,6 @@
 ⑤ to reserve tickets for the concert
 5. 대화를 듣고, 여자가 남자에게 지불할 총 금액을 고르시오.
 ① $234 ② $260 ③ $270 ④ $300 ⑤ $600
-1 1
 6. 다음을 듣고, 남자가 하는 말의 목적으로 가장 적절한 것을
 고르시오.
 ① 주택 마련의 필요성을 강조하려고
@@ -289,6 +287,84 @@ You can see a ④ curved line on the right side of the
 package. ⑤ Tear the package open following the line
 using both of your hands. Now enjoy this snack with
 coffee.
+31. 다음 글의 상황에 나타난 분위기로 가장 적절한 것은? [1점]
+The sound was coming closer; he could hear the whisper
+of leaves clearly off to his left. On the ground before him
+was a stick. It was only a small branch, but he reached for
+it anyway. He stripped the leaves from it and grasped it
+tightly. Perhaps, he thought wildly, he could blind the beast
+as it scratched him, trying to drag him from between the
+rocks. How long would he have to wait? At last, without
+further warning, the creature came into view. He felt his
+pulse hammering in his throat. His thoughts seemed to be
+running a desperate race with each other.
+① funny ② urgent ③ festive
+④ peaceful ⑤ monotonous
+32. 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?
+[3점]
+One of the best ways to help someone save face is to let
+them come to the conclusion that they’re wrong all by
+themselves. By asking a few simple questions, we can give
+people the chance to explain themselves or admit they need
+to go back to the drawing board. (A) , your best friend
+wants to get her tongue pierced. You could say, “Yuck, not
+only is it disgusting, but piercing is so old.” (B) , why
+not ask a few leading questions, like, “Do you think it will
+hurt? What happens if it gets infected? I hear that can be
+pretty serious.” She may realize on her own she has some
+more thinking to do.
+* pierce: 구멍을 뚫다
+(A) (B)
+① In addition ‥‥‥ Instead
+② For example ‥‥‥ Instead
+③ In addition ‥‥‥ Thus
+④ For example ‥‥‥ Similarly
+⑤ By contrast ‥‥‥ Thus
+[33~34] 다음 글의 주제로 가장 적절한 것을 고르시오.
+33. Why are people in a certain area suffering from malaria
+more often than others? Mountain people build their houses
+raised above the ground. They also keep their animals below
+the house and have their cooking fire inside the house.
+Mosquitoes fly close to the ground, preferring to bite
+animals instead of people and seldom enter the smoke­filled
+house of the mountain people. On the other hand, lowland
+people build their houses right on the ground, keeping their
+domestic animals away from the house and cook outside.
+Mosquitoes easily enter the ground­level houses and bite the
+people in their houses because there are no animals to
+attract them away.
+① 모기가 유발하는 질병의 종류
+② 고도에 따른 가축 분포의 차이
+③ 문화에 따른 다양한 가옥 구조
+④ 고산지대 사람들의 독특한 요리법
+⑤ 주거 환경과 말라리아 감염의 관계
+34. I knew I ate the wrong foods: sweets for breakfast, soda
+and chips for lunch and second helpings at dinner. I didn’t
+really know what the right foods were. I just knew I needed
+to eat less. So I ate the smallest portions I could. Not
+surprisingly, I lost weight but I had so little energy. By
+reading health magazines I learned food wasn’t my enemy. I
+just had to make better choices: a banana, cereal, and
+fat­free milk every morning; grilled chicken and a piece of
+fruit for lunch; and a turkey sandwich on whole wheat for
+dinner. My energy returned, and I continued to drop weight.
+① The danger of gaining weight
+② The importance of eating right
+③ The consequences of eating less
+④ The tips for selecting dairy foods
+⑤ The side effects of dropping weight
+35. 다음 도표의 내용과 일치하지 않는 문장은?
+The above graph shows the number of responses to the
+survey of reasons for students’ lack of sleep at North
+Carolina State University. ①The graph clearly displays that
+‘homework’ was the number one reason among college
+students. ② Surprisingly, ‘going out with friends’ received
+less than forty responses, which had been expected to be
+higher as college students have parties often. ③The second
+reason for lack of sleep was ‘trouble falling asleep.’ ④More
+than 40 students said they couldn’t sleep enough because
+they spent their time on computers. ⑤And computers
+caused more students to have sleepless nights than TV did.
 36. Star Wreck에 관한 다음 글의 내용과 일치하는 것은?
 Finnish filmmaker Timo Vuorensola came up with the idea
 for his movie Star Wreck, whose original was Star Trek. He

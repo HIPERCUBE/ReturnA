@@ -11,8 +11,15 @@ Be selective, include the strong elements that characterize that
 particular landscape. Use the landscape as a reference, to provide 
 you with the information you need to paint the elements, but 
 don’t just copy it completely.
-① 원근법을 잘 살려야 한다.
-② 풍경을 실제와 가깝게 그려야 한다.
-③ 화려한 색상을 사용하지 말아야 한다.
-④ 사물과 배경이 조화를 이루어야 한다.
-⑤ 특징적인 것을 선택하여 그려야 한다.
+Carothers had developed the first synthetic fiber, called         
+nylon. As it turned out, the development of nylon had a          
+surprisingly profound effect on world affairs. 
+(B) But they disappeared with the coming of World War II, as       
+nylon became essential to the war effort. It was used in         
+everything from parachutes and ropes, to insulation and         
+coat linings.
+(C) True, its first use was in fashion, the Dupont company began  
+marketing sheer nylon hose for women. Nylons were a           
+spectacular hit and sold off the shelves almost immediately.
+① (A) - (B) - (C) ② (A) - (C) - (B) ③ (B) - (C) - (A)
+④ (C) - (A) - (B) ⑤ (C) - (B) - (A)

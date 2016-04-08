@@ -1,14 +1,22 @@
-29. 다음 도표의 내용과 일치하지 않는 것은?
-The above graph shows the comparison between the 
-allocated budget and actual spending for six departments at 
-Triton Ventures in 2012. ① The Customer Service department 
-was allocated 60,000 dollars, which was greater than the 
-amount allocated to any other department. ② On the other 
-hand, in terms of actual spending, the top two departments 
-that spent the most were Marketing and Development. ③ The 
-Customer Service and Information Technology departments 
-spent the same amount of money, which was 20,000 dollars. 
-④ The actual spending by the Administration department was 
-less than half the allocated budget. ⑤ The Sales department 
-showed the largest gap between the allocated budget and its 
-actual spending among the six departments.
+29. Laketown Sports Camp 2013에 관한 다음 안내문의 내용과 
+일치하는 것은?
+Laketown Sports Camp 2013
+June 24th - August 23rd
+(Monday - Friday, 9:00 a.m. - 4:00 p.m.)
+The city of Laketown offers a sports camp for all children 
+seven and older.
+∙Campers take swimming lessons every afternoon.
+∙Our weekly activities include basketball, soccer, tennis, 
+badminton, and much more.
+∙Campers have the option to bring their own lunch from 
+home or purchase lunch from the snack bar.
+Registration Information
+Period May 27th － June 7th
+Fee $125 for a week (insurance fee included)
+For more information, visit www.laketowncamp.com or 
+call (310) 555-2211.
+① 참가자의 연령 제한이 없다.
+② 참가자는 매일 오전에 수영 강습을 받는다.
+③ 점심은 캠프에서 무료로 제공한다.
+④ 등록 기간은 5월 말까지이다.
+⑤ 보험료는 등록비에 포함되어 있다.

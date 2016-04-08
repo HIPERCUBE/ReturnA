@@ -1,5 +1,4 @@
-[성명 수험번호
-◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
+[◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
 ◦ 답안지의 해당란에 성명과 수험 번호를 쓰고, 또 수험 번호와
 답을 정확히 표시하시오.
 ◦ 문항에 따라 배점이 다르니, 각 물음의 끝에 표시된 배점을
@@ -29,7 +28,6 @@
 ③ 통학 기차 이용을 권장하려고
 ④ 임시 셔틀버스 운행을 알리려고
 ⑤ 수업 시작 시간 지연을 안내하려고
-2 1
 7. 대화를 듣고, 여자가 남자에게 부탁한 일로 가장 적절한 것을
 고르시오.
 ① 어학원 추천하기 ② 저칼로리 음식 알려주기
@@ -334,8 +332,96 @@ maintain my integrity.”
 ③ declared ‥‥‥ occurrence ‥‥‥ cheats
 ④ denied ‥‥‥ preference ‥‥‥ disqualifies
 ⑤ denied ‥‥‥ preference ‥‥‥ cheats
-
-
+32. 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?
+Jealousy is one of those unnecessary evils we burden
+ourselves with. None of us could honestly say that we have
+not ever been jealous of more fortunate and superior ones.
+(A) , jealousy is generally found among equals or
+near equals like friends of equal social status, colleagues in
+the office and relatives. We are not jealous of someone who
+is either too highly placed or too distantly connected with
+us. Jealousy keeps us under a sense of frustration and
+disappointment. It is such a depressing feeling that we
+cannot tell about it to even our best friends nor can we
+contain it within ourselves. (B) , it leaves us with
+an inconvenience of an unusual misery and if not controlled,
+it works like a slow poison to our healthy nature.
+(A) (B)
+① However …… Consequently
+② In other words …… Nevertheless
+③ However …… Otherwise
+④ In other words …… Consequently
+⑤ For instance …… Otherwise
+[33~34] 다음 글의 주제로 가장 적절한 것을 고르시오.
+33. Sports’ economic power is now well established, global and
+growing. Many cities make huge efforts when bidding to
+stage major sporting events, not just for their commercial
+worth but for the long­term social benefits that are the
+legacy of such events. But this isn’t only a question of
+economics. Sports also have enduring qualities. They show
+us how to participate in something bigger than ourselves,
+and teach us how to demonstrate respect for teammates and
+opponents. They help us learn how to win with humility and
+lose with grace; how to set a goal and fulfill it. Sports bring
+people together; the self­worth and self­belief that they
+teach are values that can last a lifetime.
+① 스포츠의 상업적 파급 효과
+② 스포츠 경기 유치의 필요성
+③ 스포츠를 통한 협동심 함양
+④ 도시 발전과 스포츠 산업의 관계
+⑤ 경제적 효과를 넘어선 스포츠의 가치
+34. In my economics classes, about 15 percent of my students
+get A’s, and about 15 percent fail the class. I could
+announce that no matter what their performance, everyone
+will receive the same grade: A. I would expect a huge drop
+in the effort and therefore in the efficiency of the whole
+learning process. Alternatively, I could announce that
+students in the bottom 50 percent of the class will fail, and
+only the top 5 percent will get an A. Would I get more
+effort? Some individuals― those on the edge of those
+extreme alternatives―would probably hustle. But a lot of
+others would drop out or give up. Not enough competitive
+pressure may result in students becoming lazy. But too much
+may encourage them to become obsessed with test
+performance at the cost of developing their capabilities for
+learning.
+① the traits of successful learners
+② the benefits of economics classes
+③ the gap between ability and performance
+④ the effects of teachers’ positive thinking
+⑤ the influence of grading on learners’ attitudes
+35. 다음 도표의 내용과 일치하지 않는 문장은?
+The above graph shows the prevalence of
+undernourishment and the average school attainment by
+region in 2000. ① Sub­Saharan Africans completed 3.5
+years of school while over 30% of them were
+undernourished. ② The percentage of undernourishment in
+South Asia was around 22% and the people in the region
+completed more than 5 years of school. ③ The percentage
+of undernourishment in the Near East was the same as that
+in the Caribbean. ④ People in the Caribbean completed
+about half a school year longer than those in the Near
+East. ⑤ The undernourishment percentage of East Asia was
+about one third that of Sub­Saharan Africa, but East Asia
+had the longest school years among the regions.
+36. Lost objects에 관한 다음 글의 내용과 일치하는 것은?
+According to a study conducted by an opinion research
+institute, ninety percent of all people regularly have to
+search for lost objects. The item people search for most is
+keys. Ballpoint pens take second place on the list of missing
+things. Third come eyeglasses, while purses take fourth
+place. The object most commonly lost by people over 50 is
+glasses. There are no great differences between men and
+women. Women have a bit more trouble finding their purses,
+but they look after their keys a little better than men. In
+any case, it’s a waste of time and has a negative effect on
+our moods if we create stress by searching for lost objects.
+Forgetfulness with small things is not some unchangeable
+natural phenomenon.
+① 90퍼센트의 사람들이 분실물을 되찾는다.
+② 셋째로 흔한 분실물은 볼펜이다.
+③ 50세 이상의 사람들의 가장 흔한 분실물은 지갑이다.
+④ 여성이 남성보다 열쇠 관리를 좀 더 잘한다.
 37. Method acting에 관한 다음 글의 내용과 일치하지 않는 것은?
 Method acting, a technique used by actors, is thought to
 have revolutionized acting as we know it today. It uses

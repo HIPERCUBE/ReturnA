@@ -1,5 +1,4 @@
-[성명 수험
-◦먼저 문제지에 성명과 수험 번호를 정확히 기입하시오.
+[◦먼저 문제지에 성명과 수험 번호를 정확히 기입하시오.
 ◦답안지에 수험 번호 및 답을 표기할 때는 반드시 ‘수험생이
 지켜야 할 일’에 따라 표기하시오.
 ◦문항에 따라 배점이 다르니, 각 물음의 끝에 표시된 배점을
@@ -21,7 +20,6 @@
 ① 신문을 보여 달라 ② 고양이를 사 달라
 ③ 동화를 읽어 달라 ④ 팝콘을 튀겨 달라
 ⑤ 쿠키를 구워 달라
-번호 1 1
 5. 대화를 듣고, 남자가 내일 오후에 할 일을 고르시오.
 ① 스케이트를 타러 간다. ② 동생 방을 청소한다.
 ③ 동생 숙제를 도와준다. ④ 자전거를 고친다.
@@ -232,8 +230,79 @@ natural disaster.
 ① (A) - (B) - (C) ② (A) - (C) - (B)
 ③ (B) - (C) - (A) ④ (C) - (A) - (B)
 ⑤ (C) - (B) - (A)
-
-
+30. 글의 흐름으로 보아, 밑줄 친 단어들 중에서 의미상 그 쓰임이
+적절하지 않은 것은?
+Being skinny does not make a person happy. You can be
+the prettiest, skinniest, richest person in the world, and still
+not be ① happy. So I think happiness is a state of ②mind.
+Whether you’re fat or skinny, the way you think can make
+your life ③ happy. And most people aren’t fat; they just
+have a ④ healthy weight. But they think they are ⑤ skinny
+and feel unhappy.
+31. (A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말을 골라
+짝지은 것으로 가장 적절한 것은?
+By 1929, America produced more than it needed.
+Americans could not buy all of the (A) good / goods . So
+factories had to cut down on their production. Many workers
+(B) lost / gained their jobs. They became very poor. Many
+of them (C) owed / owned money. And few of them could
+pay their bills.
+(A) (B) (C)
+① good ……… lost ……… owed
+② good ……… gained ……… owned
+③ good ……… gained ……… owed
+④ goods ……… lost ……… owed
+⑤ goods ……… lost ……… owned
+32. 다음 글의 분위기로 가장 적절한 것은?
+Daphne knew she could not escape. But she had lived free
+all her life and would not give up her freedom now. So she
+ran faster still. But Daphne couldn’t run faster than Apollo,
+and soon she felt her legs weakening and her breath growing
+short. Just when she could run no farther, she reached the
+river that ran through her father’s forest. “Father, oh,
+Father, help me!” she cried.
+*Daphne: 그리스 신화에 나오는 요정의 이름
+① 흥겹다 ② 긴박하다 ③ 평화롭다
+④ 우울하다 ⑤ 낭만적이다
+33. 다음 글에 드러난 ‘I’의 심경을 가장 잘 나타낸 것은?
+Last Wednesday afternoon I was in my school library and
+had been sitting on the sofa for forty minutes. When the
+bell rang, I got up, but my foot was asleep from sitting
+there for so long and I fell down! When I fell, I twisted my
+ankle, but I didn’t know that. So I stumbled again and fell
+over the sofa when I tried to get up. Unluckily, there were
+two really handsome boys in the library at the time. They
+started laughing and pointing at me. At the moment I really
+didn’t know what to do.
+*asleep: 저린, 마비된
+① 쓸쓸하다 ② 기쁘다 ③ 따분하다
+④ 창피하다 ⑤ 자랑스럽다
+34. 다음 글에서 필자의 주장으로 가장 적절한 것은?
+Can you see without your eyes? There is a way of seeing
+well in a different way. Close your eyes and try to feel
+everything that is touching your skin. Feel the shoes on
+your feet, the clothes on your body, the air on your skin.
+You can see more. Go to museums. Most museums are just
+for looking, but today some museums have many things to
+touch. Their signs say, “Do touch!” There you can feel
+everything on show. If you want to see better, reach out
+and touch. Then you will really see!
+① 관람 규칙을 지켜야 한다.
+② 만져 보면 더 잘 알 수 있다.
+③ 다른 사람을 배려해야 한다.
+④ 듣는 것보다 보는 것이 낫다.
+⑤ 역사에 관한 지식을 늘려야 한다.
+35. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한
+곳은?
+Then water is turned into it.
+Rice is one of the most important food crops in Asia. (① )
+Much of it is grown in the warm lowlands. (② ) The first
+step in planting rice is to make the field even. (③ ) Next,
+a bank of earth about 30 centimeters high is made around
+the field. (④ ) Farmers walk into the water and put small
+rice plants into the field. (⑤ ) While the rice grows, the
+fields must keep water.
+*even: 평평한
 【 36 - 37】다음 글의 주제로 가장 적절한 것을 고르시오.
 36. In everyday conversation, there are different ways to say
 what we want. When we are with a group of friends, we

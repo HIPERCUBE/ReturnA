@@ -1,5 +1,4 @@
-[제 3 교시 성명 수
-◦ 문제지의해당란에성명과수험번호를정확히기입하시오.
+[◦ 문제지의해당란에성명과수험번호를정확히기입하시오.
 ◦ 답안지의 해당란에 성명과 수험번호를 쓰고, 또 수험번호와 답을
 정확히표기하시오.
 ◦ 문항에따라배점이다르니, 각물음의끝에표시된배점을참고하시오.
@@ -26,7 +25,6 @@
 ⑤공연티켓구매하기
 5. 대화를듣고, 여자가 지불할 총 금액을고르시오.
 ① $51 ② $54 ③ $57 ④ $60 ⑤ $63
-험번호 1
 6. 다음을듣고, 여자가하는말의목적으로가장적절한것을고르시오.
 ①여행일정변경을공지하려고
 ②섬의역사적의미를설명하려고
@@ -305,6 +303,91 @@ you want to say and then say it calmly. Be ready to
 compromise. If these strategies are not ⑤ effective, the ideal
 solution may be to ask another neighbor to help you solve the
 problem.
+33. 다음글의 (A), (B)에 들어갈 말을 바르게 짝지은것은?
+In 1793, young Yale graduate Eli Whitney was journeying to a
+teaching job in South Carolina when he was invited to the
+plantation near Savannah. Whitney was disturbed by his
+glimpse of slavery and the backbreaking demands of cotton
+plantation life. He wanted to relieve some of the tiring work.
+(A) , he built a cotton gin, a simple machine that
+quickly and efficiently removed the seed from the cotton fiber.
+In one hour, his gin processed the same amount that required
+ten hours of slave labor. He submitted his patent, returned to
+Connecticut, and began taking orders. (B) , his
+innovative invention had a reverse effect. The gin required
+more slaves as cotton culture expanded.
+(A) (B)
+① Therefore …… However
+② Therefore …… Likewise
+③ Conversely …… However
+④ For example …… Likewise
+⑤ For example …… Moreover
+[34 ~ 35] 다음글의주제로가장적절한것을고르시오.
+34. We all have courtesy in our hearts. All you have to do is
+cultivate it. It’s a little like riding a bike: Once you learn, it
+stays with you because the ability is natural. If you never get
+on the bike, however, you will never make use of that innate
+ability. It is often said that Latinos are friendly people. When
+people come back from visiting Mexico or Latin America, they
+always comment on the friendliness they experienced. I think
+it’s more than friendliness. Latinos are courteous by nature and
+by custom. This is something we must continue to teach our
+children, and continue to pass on to everyone we meet.
+① the outcome of reckless behaviors
+② the significance of cultivating courtesy
+③ the influence of good manners on the mind
+④ the necessity of teaching cultural differences
+⑤ the importance of being friendly to foreigners
+35. Experts say that you only need 20 to 30 minutes of modest
+physical activity three times a week to shape up your body.
+You can do it easily and you don’t need to go to the gym.
+Climbing the stairs instead of riding the escalator counts.
+Briskly walking 10 minutes around the neighborhood, three
+times a day, satisfies your daily exercise requirement.
+Anything you do with pleasure that works up even a light
+sweat is exercise. Remember, if an activity is easy to perform,
+easy to fit into your schedule, and easy to love, you’re more
+likely to stick with it.
+① the difficulty of keeping in shape
+② effects of exercise on schoolwork
+③ the need for the effective exercise plan
+④ easy ways to do exercise in our daily lives
+⑤ tips for working out without hurting oneself
+36. strawberry poison arrow frog에 대한 다음 글의 내용과일치하지
+않는 것은?
+The strawberry poison arrow frog is found in the rain forests
+of Central America. It has bright red coloring that warns
+predators that it is toxic. Frogs are not usually known for their
+parenting skills, but strawberry poison arrow frog mothers go
+to great lengths for their offspring. Once her tadpoles hatch on
+the forest floor, the mother carries her offspring one by one
+into the treetops. Her trips often take her 100 feet off the
+ground. She places each tadpole into a pool of rain water that
+gathers in a leaf. The mother returns to each pool every few
+days to bring food. After three weeks, the tadpoles develop
+into tiny frogs and leave the water for land.
+①중앙아메리카의우림지역에서발견된다.
+②포식자에게독성이있음을경고하는붉은색을띤다.
+③얕은강물속에서부화하여올챙이가된다.
+④어미는올챙이를나뭇잎에고인빗물에둔다.
+⑤올챙이가개구리로성장하기까지 3주걸린다.
+37. Uppsala에 대한 다음 글의 내용과일치하는것은?
+Uppsala is the fourth largest city of Sweden. Lying 70 km
+north of the capital city of Stockholm, this city has a population
+of less than 150,000. The transportation system for the
+travelers is developed quite well. Those who have the taste for
+ancient architecture can visit the Uppsala castle, which has an
+array of old paintings. Uppsala is the birthplace of Ingmar
+Bergman, a famous director, who used this beautiful city as a
+film setting. This attractive city invites you to participate in
+the Uppsala Reggae Festival happening every year in the month
+of March. Uppsala also gives you an adventurous experience with
+its chilly climate and rugged landscape.
+①스톡홀름남쪽 70km 지점에위치해있다.
+②관광객을위한교통체계가미비하다.
+③현대미술작품이전시되어있는성이있다.
+④유명한영화감독이태어난곳이다.
+⑤ Reggae 축제가 3년에한번씩열린다.
 38. 도표의내용과일치하지 않는 것은?
 The graph above shows the average rainfall for spring and fall
 in Korea from 2006 to 2010. ① Over the given period of time,

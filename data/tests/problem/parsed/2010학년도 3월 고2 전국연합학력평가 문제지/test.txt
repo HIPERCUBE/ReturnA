@@ -1,5 +1,4 @@
-[성명 수험번호
-◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
+[◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
 ◦ 답안지의 해당란에 성명과 수험 번호를 쓰고, 또 수험 번호와
 답을 정확히 표시하시오.
 ◦ 문항에 따라 배점이 다르니, 각 물음의 끝에 표시된 배점을
@@ -23,7 +22,6 @@
 5. 대화를 듣고, 여자가 지불할 총 금액을 고르시오.
 ① $2.00 ② $2.50 ③ $3.00
 ④ $3.50 ⑤ $4.00
-2 1
 6. 다음을 듣고, 남자가 하는 말의 목적으로 가장 적절한 것을
 고르시오.
 ① 영화관 이전을 안내하려고
@@ -220,88 +218,89 @@ prevents you from thinking clearly.
 ① poor decisions ② wise shopping
 ③ quick calculation ④ full satisfaction
 ⑤ unnecessary purchases
-26. Marilyn Monroe, James Dean, and Elvis Presley are dead
-and now, so is Michael Jackson. But they are very much
-alive when it comes to . Even
-though Elvis has been dead for over 30 years, he still pulls
-in about $50 million a year. When Michael Jackson died last
-year, he had nearly half a billion dollars in debt. Since then,
-it has been a great year for his career: his lawyers say
-they have lined up merchandising deals worth $100 million,
-and record sales and other income will produce another $100
-million. This is not unusual. Decades after their death, some
-departed stars continue to be in the media and draw more
-income than they ever made while they were alive.
-① earning money ② spreading love
-③ making donations ④ causing troubles
-⑤ solving their mysteries
-27. Teenagers who are more likely
-to have difficulty falling asleep and staying asleep at night.
-Dr. Gaby Badre of Sahlgren’s Academy in Sweden studied 21
-healthy teens, aged 14 to 19, with regular working or
-studying hours and no sleep problems. Ten of them were
-light cell phone users, making or sending fewer than five
-calls or text messages a day. The 11 heavy users made or
-sent more than 15 calls or text messages a day. Four of
-them sent more than 30 text messages a day, and one sent
-more than 200. Results showed that compared with light
-users, teens who were heavy users woke up more often
-during the night, and spent more time tossing and turning
-before falling asleep.
-① stay up late at night
-② don’t exercise regularly
-③ play computer games a lot
-④ use their cell phones excessively
-⑤ take too much nap during the day
-28. 다음 글에서 필자가 주장하는 바로 가장 적절한 것은?
-It’s clear that giving young drivers more time behind the
-wheel under guidance makes a big difference. They don’t
-suddenly become good drivers when they turn 16. We need
-to ease teens into a lifelong habit of good driving. That’s
-the goal of graduated driver licensing laws, which impose
-restrictions before teens earn a full license. An ideal law
-would set the minimum age for a permit at 16, ban cell
-phones, prohibit driving between 10 p.m. and 5 a.m., and not
-allow a full license until age 18. These regulations make
-sense. A recent study by Johns Hopkins University found
-that a tough law could decrease deaths among 16­year­old
-drivers by 38 percent. * graduated: 단계적인
-① 학생들의 자가 운전 등교를 규제하라.
-② 십대를 위한 교통 안전 교육을 실시하라.
-③ 십대의 운전면허 취득 과정을 더 엄격히 하라.
-④ 십대가 운전하는 경우에는 보호자가 동승하라.
-⑤ 운전 중 휴대전화 사용에 대한 처벌을 강화하라.
-29. 다음 글에 드러난 ‘I’의 심정으로 가장 적절한 것은?
-The street was jammed with cheerful and happy crowds―
-scenes that brought back memories of happy years that were
-gone. I just couldn’t bear the thought of going home to an
-empty apartment. I didn’t know what to do. I couldn’t keep
-the tears back when I thought of the good times I had had
-with my husband. After walking aimlessly for an hour or
-so, I found myself in front of a bus terminal. I
-remembered that my husband and I had often boarded an
-unknown bus for adventure, so I boarded the first bus I
-saw. I absent­mindedly looked out the window without
-knowing where the bus was taking me.
-① sad and lonely ② angry and upset
-③ nervous and tense ④ proud and satisfied
-⑤ relaxed and comfortable
-30. 다음 그림에 대한 글의 내용 중, 밑줄 친 낱말의 쓰임이 적절하지
-않은 것은?
-hijab chador burqa mesh screen
-headscarf
-shayla
-pin
-khimar
-There are many types of outdoor wear for Islamic women.
-The hijab is a scarf that covers the head and neck but
-leaves the face ① clear. The shayla is a long scarf wrapped
-around the head and pinned in place at the ② shoulder. The
-khimar is a cape­like veil that hangs down to just above the
-③waist. The chador is a full­body cloak, often accompanied
-by a smaller headscarf ④ underneath. The burqa is the most
-⑤ revealing of all Islamic veils. It is unique in that it has a
-mesh screen to see through.
+
+
+31. (A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장
+적절한 것은?
+It’s well known that washing your hands with good
+old­fashioned soap and water is a great way to help prevent
+disease. What do you do when that’s just not an option? There
+are plenty of wipes, creams, and sprays on store shelves that
+promise to (A) remove / reproduce germs without the addition
+of running water. While they’re not a substitute for regular
+hand washing, they can be a (B) valuable / valueless second
+line of defense. Most of these products are alcohol­based.
+Alcohol is generally safe and effective, according to Sonya
+Lunder, a senior analyst at Environmental Working Group, a
+non­profit (C) organism / organization that has done extensive
+research on personal care products.
+(A) (B) (C)
+① remove …… valuable …… organism
+② remove …… valuable …… organization
+③ remove …… valueless …… organism
+④ reproduce …… valueless …… organism
+⑤ reproduce …… valuable …… organization
+32. 다음 글의 상황에 나타난 분위기로 가장 적절한 것은? [1점]
+It was a little white­painted cottage with a neat garden.
+There was no one at home and Sam waited on the front
+steps. The first real sunshine of the new summer was
+warming the hills and sea. From where he sat he could see
+the ocean gleaming under the sunlight and a few seagulls
+flying freely in the air. The islands near at hand were
+covered with grass. Farther off they went blue into the
+distance, bush­covered and misty. One or two small fishing
+boats were going up towards the port, leaning to the light
+wind. The wind came from behind him, wrinkling the
+blue­green water below.
+① tense and urgent ② dark and gloomy
+③ calm and peaceful ④ busy and crowded
+⑤ exciting and cheerful
+[33～ 34] 다음 글의 주제로 가장 적절한 것을 고르시오.
+33. Airline reservation agents are nearly helpless when their
+reservation system breaks down. Customers can go to
+another airline that can immediately reserve a seat on a
+competitive flight. In case the reservation system breaks
+down, various techniques are used to reduce recovery time
+to the shortest possible interval. One technique includes
+frequently saving database copies to reduce the processing
+time necessary to restore the database. When it is
+economically possible, the entire system is duplicated on a
+standby computer, complete with separate copies of the
+database. It will take over system processing if anything
+goes wrong on the primary computer.
+① 전산 예약 시스템 운용의 장점
+② 항공사들 간의 치열한 서비스 경쟁
+③ 항공사의 예약 시스템 장애에 대한 대비책
+④ 최신 기술을 이용한 항공 화물 검색 방법
+⑤ 컴퓨터 해킹을 방지하기 위한 보안 시스템
+34. Dogs yawn before attacking, Olympic athletes yawn before
+performing, and fish yawn before they change activities.
+Evidence even exists that yawning helps individuals perform
+their tasks with greater accuracy and ease. Indeed, yawning
+may be one of the most important mechanisms for regulating
+the survival­related behavior in mammals. So if you want to
+stay alert and active, it is essential that you yawn. In other
+words, yawn as many times a day as possible: when you
+wake up, when you’re confronting a difficult problem at
+work, when you get ready to go to sleep, and when you feel
+anger, anxiety or stress. [1점]
+① positive effects of yawning
+② ways of preventing yawning
+③ mammals’ behavior for survival
+④ using yawning as a warning signal
+⑤ relationship between yawning and sleeping
+35. 다음 도표의 내용과 일치하지 않는 문장은?
+The graph above shows the percentage of breastfeeding
+mothers from 1975 to 2005. ①As you can see, the greatest
+increase in the percentage of breastfeeding mothers was from
+1975 to 1980. ②But after 1980, the percentage of
+breastfeeding mothers began to decrease and fell to 18 percent
+in 1990. ③The percentage of breastfeeding mothers rose a bit
+in 1995, but it was not as high as that in 1980. ④Notably, the
+percentage rose sharply to 31 percent in 2000, which was
+three times higher than that in 1975. ⑤The percentage gap
+between 2000 and 2005 was just one­fifth of that between
+1995 and 2000.
 36. 다음 글에서 birch에 관한 내용과 일치하는 것은?
 The birch is a tree that grows in the coldest countries and
 thrives in the Highlands of Scotland as well as in Sweden

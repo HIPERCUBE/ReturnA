@@ -13,3 +13,4 @@ goes for complex card games like poker, which computers
 are not good at because they can’t bluff (or even cheat) the 
 way human players do. ( ⑤ ) To play poker or Go well, 
 you need other things like intuition and creativity.
+* bluff: 허세를 부리다

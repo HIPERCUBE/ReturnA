@@ -1,4 +1,4 @@
-[1번부터 22번까지는 듣고 답하는 문제입니다. 1번부터 20
+[1번부터 22번까지는 듣고 답하는 문제입니다. 1번부터 20 5.
 번까지는 한 번만 들려주고, 21번부터 22번까지는 두 번 들 고
 려줍니다. 방송을 잘 듣고 답을 하기 바랍니다. ①
 ②
@@ -33,6 +33,7 @@
 ① ②
 ③ ④
 ⑤
+다음을 듣고, 남자가 하는 말의 목적으로 가장 적절한 것을 
 르시오.
 마술 대회 참가를 권유하려고
 대중교통 생활화를 권장하려고
@@ -65,6 +66,7 @@
 시오.
 ① ②
 ③ ④ ⑤
+11. 대화를 듣고, 남자가 여자를 위해 할 일로 가장 적절한 것을 18.
 고르시오. 적
 ① 치즈 케이크 사다 주기 ② 요리 재료 준비하기 M
 ③ 자동차 열쇠 찾아 주기 ④ 손님들에게 연락하기
@@ -104,6 +106,7 @@ Yellow Creek Outdoor Tents 22.
 ③
 ④  
 ⑤
+대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장 
 절한 것을 고르시오. [3점]
 an:                                                     
 She’ll be waiting for you at the train station.
@@ -139,6 +142,7 @@ I’m sure you’re the very player our coach is looking for.
 축제 ⑤ 봉사 활동
 이제 듣기ㆍ말하기 문제는 다 끝났습니다. 23번부터는 
 문제지의 지시에 따라 답을 하기 바랍니다.
+23. 다음 글의 목적으로 가장 적절한 것은? 25.
 e
 Dear Mayor Stevenson: afa
 I am writing to inform you about the situation of my b
@@ -182,6 +186,7 @@ calorie budget. b
 ③ 다이어트 중에도 단백질 섭취를 충분히 해야 한다. ③
 ④ 음식을 선택할 때 맛보다 영양을 우선 고려해야 한다. ④
 ⑤ 체중 조절을 위해서 운동과 식이요법을 병행해야 한다. ⑤
+ 다음 글의 주제로 가장 적절한 것은?
 Most universities have students fill out an evaluation of 
 very course they take. The results are often made publicly 
 vailable and can be a good guide to the best classes. In 
@@ -218,6 +223,7 @@ Be Strict, Get Your Kid to Succeed
 Don’t Let Your Kid Waste Time
 Safety First, Pleasure Later
 Keep Promises to Your Kid
+27. 다음 글의 밑줄 친 부분 중, 어법상 틀린 것은? [3점] 29.
 Don’t be afraid to move around and try different things, 일
 ① however old you are. The most important thing you want 
 to find out is who you are and what capabilities you have. 
@@ -252,7 +258,7 @@ monkey that no harm is intended.
 ② prevent hostile authority
 ③ prevent hostile indifference
 ④ start hostile indifference
-⑤ start generous authority
+Future Drive Motor Show 2013에 관한 다음 안내문의 내용과 
 치하는 것은?
 FUTURE DRIVE MOTOR SHOW 2013
 Future Drive Motor Show is one of the most popular 
@@ -282,6 +288,65 @@ local food bank.
 매표소는 행사 기간 중 오후 8시에 문을 닫는다.
 62세 이상의 관람객은 무료로 입장한다.
 음식을 기부하면 입장료 할인 쿠폰을 받는 날이 있다.
+30. Winter Theater Camp에 관한 다음 안내문의 내용과 일치하지 31.
+않는 것은? 않
+WINTER THEATER CAMP
+December 9 - 20, 2013
+Learn from outstanding performing and directing 
+professionals in Dramatic Arts, Music, and Technical 
+Support.
+- Acting Concepts
+- Vocal / Physical Expression
+- Audition Skills
+Class One (Ages 8 - 12): Monday - Friday Mornings,
+9 a.m. - Noon
+Class Two (Ages 13 - 18): Monday - Friday Afternoons,
+1 p.m. - 4 p.m.
+Registration Period: October 15 - November 15
+Cost: $450 per person
+- Early Bird Special Price: $425
+(Register by October 31.)
+Parents and friends will be invited to the special show 
+performed by the campers on the last day of the camp.
+Class Size Is Limited!
+Call (540) 370-4300 for Information or Registration.
+① 캠프 참가자는 전문가의 지도를 받는다.
+② 연령에 따라 두 반으로 나뉜다.
+③ 등록 기간은 10월 말까지이다.
+④ 캠프 마지막 날에 캠프 참가자들이 공연을 한다. ①
+⑤ 반의 인원수는 한정되어 있다. ②
+③
+④
+⑤
+Denali’s Flightseeing에 관한 다음 안내문의 내용과 일치하지 
+는 것은?
+DENALI’S FLIGHTSEEING
+Enjoy the view of Alaska’s scenic highlights on a 
+flightseeing tour with Denali’s Flying Service. Fly 
+among the peaks of the Alaska Range with fantastic 
+views and soar over the glaciers.
+- Your tour begins at Anchorage’s Lake Hood.
+- Every passenger gets a window seat.
+- Available to all ages
+What to Bring
+- Please bring sunglasses, as well as comfortable 
+shoes or hiking boots for glacier landings.
+- Due to unpredictable Alaskan weather, Denali’s 
+advises dressing in a light waterproof jacket, 
+which will allow you to stay warm and dry during 
+landings.
+Price and Duration
+- $385 per person
+- 3 hours
+* Notes
+- Special rates for kids aged 12 and under
+- No set departure times ― all tours are by request
+알래스카 산맥 지역을 비행한다.
+모든 승객은 창가 쪽 좌석에 앉게 된다.
+탑승 가능 연령에 제한이 있다.
+방수 재킷을 입는 것이 권장된다.
+미리 정해진 출발 시간은 없다.
+32. 다음 도표의 내용과 일치하지 않는 것은? [34
 34.
 a
 g
@@ -326,7 +391,8 @@ myself. I let out a satisfied laugh. a
 ② bored → curious ②
 ③ hopeful → depressed ③
 ④ relaxed → horrified ④
-⑤ pleased → disappointed ⑤
+⑤ pleased → disappointed
+~ 36] 다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.
 The most persuasive speakers, marketers, and leaders 
 lways frame their messages first in                    to 
 et the “buy in” of the unconscious mind. Only after the 
@@ -362,7 +428,7 @@ what the ideal family size is
 different gender roles in the family
 how parents’ attitude affects children
 what a quality family conversation looks like
-the generation gap between parents and children
+36. The person who relates to certain individuals as family 38.
 members or friends to the exclusion of others does not affirm 
 that those to whom he relates are better persons. He affirms 
 only that they are his relatives or friends. When a new father d
@@ -409,6 +475,7 @@ tone you will use.
 ③ In contrast On the contrary ①
 ④ For example On the contrary ③
 ⑤ Nevertheless Therefore ⑤
+ 다음 글에서 전체 흐름과 관계 없는 문장은?
 Colored flags are used to give important signals to drivers 
 uring auto races. ① The green flag means “start” or 
 ontinue,” and the yellow flag tells drivers to slow down and 
@@ -454,6 +521,7 @@ have to be to survive.
 (A) - (C) - (B) ② (B) - (A) - (C)
 (B) - (C) - (A) ④ (C) - (A) - (B)
 (C) - (B) - (A)
+[41 ∼ 42] 다음 글을 읽고, 물음에 답하시오.
 The economists, Alexander Mas and Enrico Moretti 
 could get access to every detail about the productivity of 
 a supermarket chain’s cashiers. Using the computerized 
@@ -499,7 +567,7 @@ store owner, instructed (a) him to go into the attic of
 the building. “You will find a long, deep box up there,” 
 he said. “I want you to sort through the contents and 
 see what should be saved.”
-8
+(B)
 If (b) he didn’t report finding the money, how could Mr. 
 Peters trust him with the cash register? By finishing the 
 job in the hot attic and giving the money to his boss rather 

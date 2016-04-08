@@ -12,4 +12,4 @@ percentage, while the percentage of Ferrous is the lowest.
 times higher than the percentage of Plastics. ⑤ Diapers 
 and Glass each are less than five percent of Domestic 
 Waste.
-* ferrous: 철(쇠)의
+ferrous: 철(쇠)의

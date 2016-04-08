@@ -360,6 +360,107 @@ refer to the members as workers, comrades, or just people.
 ③ Hence …… however
 ④ Nevertheless …… for example
 ⑤ Also …… for example
+31. (A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 
+적절한 것은?
+The growing season in the Arctic region is short as well 
+as cool, and plants must make the most of what warmth there 
+is. One (A) addiction / adaptation by many arctic plants to 
+the short growing season is wintergreen, or semi-evergreen, 
+leaves. They are leaves that develop late in the summer and 
+survive through winter without drying up and dying. They 
+remain green and can start photosynthesis as soon as the 
+weather is warm enough in spring, before there has been time 
+for the new season’s leaves to expand and start functioning. 
+They finally (B) wither / prosper after the new leaves have 
+taken over. There are many common arctic plants with 
+wintergreen leaves. Among them are arctic poppy, thrift, 
+alpine saxifrage, and several kinds of chickweeds and starworts. 
+Wintergreen leaves are not (C) limited / accustomed to the 
+Arctic; many plants of the northern forests have them, too.
+(A) (B) (C)
+① addiction …… wither …… accustomed
+② addiction …… prosper …… limited
+③ adaptation …… wither …… limited
+④ adaptation …… prosper …… limited
+⑤ adaptation …… prosper …… accustomed
+32. 다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 
+않은 것은?
+Organic food production is growing by leaps and bounds. 
+Many consumers are willing to pay premium prices for organic 
+foods, convinced that they are helping the earth and eating 
+healthier. Some experts say, however, that organic farming has 
+some ① drawbacks. One of the most frequent criticisms is 
+that the crop yields of organic farms are much ② lower than 
+those of traditional farms. That’s because organic fields suffer 
+more from weeds and insects than ③ conventional fields. 
+Another argument often offered by experts is that organic 
+farming can supply food for niche markets of ④ wealthy 
+consumers but cannot feed billions of hungry people around 
+the globe. Only the careful use of chemical inputs, not the 
+costly organic methods, can help ⑤ reduce food production 
+significantly in the countries facing hunger.
+* niche market: 틈새시장
+[33～34] 다음 글의 주제로 가장 적절한 것을 고르시오.
+33. What everyday rules for behavior guide parents’ efforts 
+to socialize their toddlers and preschool-age children? To 
+answer this question, Gralinski and Kopp observed and 
+interviewed mothers and their children in these age groups. 
+They found that for fifteen-month-olds, mothers’ rules and 
+requests centered on ensuring the children’s safety and, to a 
+lesser extent, protecting the families’ possessions from harm; 
+respecting basic social niceties (“Don’t bite”; “No kicking”); 
+and learning to delay getting what they wanted. As children’s 
+ages and cognitive sophistication increased, the numbers and 
+kinds of prohibitions and requests expanded from the original 
+focus on child protection and interpersonal issues to family 
+routines, self-care, and other concerns regarding the child’s 
+independence. By the time children were three, a new quality 
+of rule emerged: “Do not scream in a restaurant, run around 
+naked in front of company, or pick your nose.”
+① changes in maternal rules according to children’s age
+② limitations of discipline for children’s socialization
+③ parents’ concerns about children’s independence
+④ importance of parents’ anger management skills
+⑤ effects of thinking ability on children’s socialization
+34. Ancient Greek and Roman costume is essentially draped, 
+and presents a traditional stability and permanence. While it 
+received certain fashions over the centuries, it never 
+underwent any major transformation. Léon Heuzey, the 
+pioneer of the study of classical costume, set forth with 
+exemplary clarity its two basic principles: the first is that 
+Classical costume has no form in itself, as it consisted of 
+a simple rectangular piece of cloth woven in varying sizes 
+according to its intended use and the height of the customer, 
+without differentiation between the sexes; the second is that 
+this cloth is always draped, never shaped or cut, and was 
+worn round the body in accordance with definite rules. Thus 
+it was always fluid and ‘live.’ It is notable that we find no 
+evidence in Classical times of tailors or dressmakers: the 
+word itself barely exists in Greek or Latin.
+* drape: 주름을 잡아 걸치다
+① basic characteristics of Classical costume
+② significant transformations in Classical costume
+③ the greatness of Léon Heuzey’s study of classical costume
+④ the origin of ancient Greek and Roman costume
+⑤ difficulties in defining Classical costume
+35. 다음 도표의 내용과 일치하지 않는 것은?
+This graph shows the number of U.S. Science and 
+Engineering (S & E) doctoral degrees earned by students 
+from China, India, South Korea, and Taiwan from 1987 to 
+2007. ① In 1987, Taiwan had the largest number of S & E 
+doctoral degree recipients from U.S. institutions while China 
+had the least. ② However, China quickly caught up to the 
+other countries by 1990, and has since produced the most 
+U.S. S & E doctoral degree recipients of the four Asian 
+countries. ③ Between 2001 and 2005, more U.S. S & E 
+doctorates were given to South Korean students than to their 
+Indian peers. ④ What is noticeable is that since the early 
+1990s, all four countries have consistently showed a steady 
+increase in the number of U.S. S & E doctoral degree 
+recipients. ⑤ From 1987 to 2007, none of the four Asian 
+countries broke the barrier of receiving 5,000 U.S. S & E 
+doctorates in a single year, but China came closest when it 
+received 4,500 in 2007.
 36. Patience Lovell Wright에 관한 다음 글의 내용과 일치하는 것은?
 Patience Lovell Wright was a successful artist who specialized 
 in creating wax figures of famous people. Although Patience 
@@ -463,6 +564,7 @@ remained important ever since.
 ③ Greatest Composers of 14th Century Music
 ④ The Innovative Invention of Musical Instruments
 ⑤ Musical Notation: Its Invention and Contributions
+[41～42] 다음 글에서 전체 흐름과 관계 없는 문장을 고르시오.
 41. According to sociologists, one of the most widespread and 
 basic norms of human culture is embodied in the rule for 
 reciprocation. ① The rule requires that one person try to 

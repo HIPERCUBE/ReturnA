@@ -1,5 +1,4 @@
-[성명 수험번호
-◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
+[◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
 ◦ 답안지의 해당란에 성명과 수험 번호를 쓰고, 또 수험 번호와
 답을 정확히 표시하시오.
 ◦ 문항에 따라 배점이 다르니, 각 물음의 끝에 표시된 배점을
@@ -23,7 +22,6 @@
 ⑤ 친구와 함께 식사하기
 5. 대화를 듣고, 남자가 지불할 총 금액을 고르시오.
 ① $20 ② $24 ③ $27 ④ $30 ⑤ $33
-1 1
 6. 다음을 듣고, 남자가 하는 말의 목적으로 가장 적절한 것을
 고르시오.
 ① 체육관 시설 이용을 장려하려고
@@ -283,6 +281,87 @@ away. Because the stack was not moving at the beginning, it
 tends to ⑤ stay that way. Scientists say, A body in one
 position tends to remain in the same position.
 * inertia: 관성
+31. (A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적
+절한 것은?
+There are several things you can do to prevent your child from
+being bitten by insects. The best (A) prediction / protection
+against insect bites is to apply insect repellent to a child’s
+skin and clothing. However, insect repellents should be
+used carefully on babies and young children. Another
+prevention technique involves (B) avoiding / visiting areas
+where insects gather or nest. In addition, when your child
+is doing outdoor activities, dress him in long pants and a
+lightweight long-sleeved shirt. Don’t dress your child in
+clothing with bright colors or flowery prints which are
+known to (C) attack / attract insects.
+* insect repellent: 해충 퇴치제
+(A) (B) (C)
+① prediction ……… avoiding ……… attack
+② prediction ……… visiting ……… attract
+③ protection ……… avoiding ……… attract
+④ protection ……… visiting ……… attack
+⑤ protection ……… avoiding ……… attack
+32. 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?
+People are often under stress. Some are taking exams,
+some are considering moving to another job, and others are
+worried about deadlines. They believe these stressful
+situations give them gray hair. (A) , so far no
+scientific evidence proves a bad day turns your hair silver.
+According to medical doctors, your hair turning gray runs in
+your family. (B) , if your father’s hair becomes gray
+when he is quite young, you are highly likely to be in the
+same situation. Thus, when you get gray hair, it might be
+wise to dye your hair rather than to blame those stressful
+situations.
+(A) (B)
+① However ……… In other words
+② However ……… In contrast
+③ For example ……… In addition
+④ As a result ……… In addition
+⑤ As a result ……… In other words
+[33 ~ 34] 다음 글의 주제로 가장 적절한 것을 고르시오.
+33. Before picking out a souvenir to take home, consider how
+it was made and where it came from. If animal products
+such as animal bone or skin were used to make it, just
+leave it on the shelf. Picking your souvenirs directly from
+nature is another bad idea. That is because sea shells are
+more beautiful on the beach than on your desk. Instead,
+choose something which does not have negative effects on
+the place you visit, such as paintings or crafts produced by
+local artists.
+① 여행지 정보를 얻는 방법
+② 여행 기념품 구매 시 유념할 사항
+③ 멸종 위기 야생동물 보호의 필요성
+④ 공예품 판매를 통한 여행지 홍보 효과
+⑤ 기념품 제작 시 디자인 다양화의 필요성
+34. Collecting can open new worlds for children. Collecting
+stamps, for example, shows them cultures or historical
+events of a country. Plant or animal specimens teach them
+about the natural world. Collecting also gives children
+opportunities to learn skills that can be used every day.
+While playing with collections such as dolls, comic books,
+stickers, and so on, children can organize their treasures by
+size, shape, or color. This will teach them to see the world
+from different points of view. Thinking about the
+relationships among their pieces, they may realize things in
+the world are connected with each other.
+* specimen: 표본
+① how to start collecting
+② why children like collecting
+③ importance of leisure activities
+④ where to keep your collections
+⑤ educational effects of collecting
+35. 다음 도표의 내용과 일치하지 않는 문장은?
+The above graph shows the percentage of population who
+volunteered on an average day. ① In the entire age group,
+the percentage of women who volunteered was higher than
+that of men who did. ② People in age group 25 to 34 were
+the least likely to volunteer of all the age groups. ③Women
+over 65 showed the highest rate of volunteer activities.
+④Men and women in age group 15 to 24 participated in
+volunteer activities at the same rate. ⑤The rate of men
+who volunteered in age group 55 to 64 was twice as high as
+that of men who did in age group 25 to 34.
 36. Susan B. Anthony에 관한 다음 글의 내용과 일치하는 것은?
 Susan B. Anthony, a famous American women’s rights
 movement leader, was born in New York in 1820. Susan’s
@@ -486,7 +565,6 @@ She found out that my father’s parents died when he was
 ② 친자녀들 외에 다른 아이들도 돌봐주었다.
 ③ 필자의 아버지를 설득하여 함께 살았다.
 ④ 필자가 태어나기 전에 이미 돌아가셨다.
-⑤ 필자의 아버지가 다니던 학교의 교사였다.
 [49 ~ 50] 다음 글을 읽고, 물음에 답하시오.
 Scientists in Canada did an interesting experiment with
 jewelweeds, pretty flowers that grow in wet, shady spots.

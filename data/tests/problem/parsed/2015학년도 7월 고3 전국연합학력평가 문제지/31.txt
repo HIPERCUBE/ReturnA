@@ -1,0 +1,22 @@
+31. Customers’ needs are usually expressed as high‒level 
+descriptions of the overall quality of a product or service. 
+They are typically stated as adjectives and inherently do not 
+imply a specific benefit to the customer. For instance, 
+customers commonly say they want a product or service to 
+be “reliable,” “effective,” “robust,” “dependable,” or “resilient.” 
+Razor users may want the product to be “durable and 
+strong.” Although these simple statements provide some 
+indication as to what customers are looking for, they have 
+one major drawback. They are                             
+and present designers, developers, and engineers with the 
+impossible task of figuring out just what customers really 
+mean by “durable” or “strong.” If engineers faced the task of 
+making a razor more “durable,” would they try to make the 
+blade last longer, resist bending, or withstand constant 
+moisture? Would any of these actions satisfy the customer’s 
+true measure of “durable?” [3점]
+① not appealing to female customers
+② irrelevant to customers making purchases          
+③ preferable feedback for manufacturers only
+④ ineffective in drawing consumers’ attention
+⑤ imprecise statements open to interpretation

@@ -33,7 +33,6 @@
 ① 구조대원 - 등산객 ② 의사 - 환자
 ③ 여행가이드 - 관광객 ④ 코치 - 운동선수
 ⑤ 의료기 판매원 - 고객
- 
 6. 대화를 듣고, 그림에서 대화의 내용과 일치하지 않는 것을 
 고르시오.
 ② ⑤
@@ -327,8 +326,91 @@ why it usually does work properly. And anyone who has
 spent time with a five­year­old ⑤ knowing that children this 
 age can test the limits of your patience by trying to get 
 explanations for why everything works as it does. 
+29. 다음 글의 요지로 가장 적절한 것은?
+Many times I have noticed coaches and parents choose the 
+wrong time to explain concepts to children. A perfect example 
+of this is while the children are playing a game. As a coach, 
+the only time I would talk strategy was during a time­out or 
+after the game. This is because it is really difficult for 
+children to play and listen at the same time. I would only say 
+words of encouragement while the children were playing. You 
+might have seen a father watching his son playing a game in a 
+field, yelling at him to point out his errors. The game 
+continues to be played while the child is trying to pay 
+attention to what his father is telling him. Children need to be 
+able to concentrate on the task at hand. Children can play, or 
+they can listen, but like adults, it’s almost impossible for them 
+to do both at once. 
 
+① 칭찬은 아이가 운동을 더 좋아하게 만든다.
+② 지나친 운동은 아이의 집중력을 저하시킨다.
+③ 아이와 대화할 때는 온전히 아이에게 집중해야 한다.
+④ 구체적인 예를 들어 경기 규칙을 설명하는 것이 좋다.
+⑤ 경기 중인 아이에게 설명을 하는 것은 효과적이지 않다.
+30. (A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 
+적절한 것은? [3점]
+The best thing I did as a manager was to make every 
+person in the company responsible for doing just one thing. 
+I had started doing this just to simplify the task of 
+managing people. But then I noticed a deeper result: 
+defining roles (A) increased / reduced  conflict. Most fights 
+inside a company happen when colleagues compete for the 
+same responsibilities. Startup companies face an especially 
+high risk of this since job roles are (B) fluid / solid  at the 
+early stages. Eliminating competition makes it easier for 
+everyone to build the kinds of long­term relationships that 
+transcend mere professionalism. More than that, internal 
+peace is what enables a startup to survive at all. When a 
+startup fails, we often imagine it surrendering to predatory 
+rivals in a competitive ecosystem. But every company is 
+also its own ecosystem, and internal conflict makes it  
+(C) immune / vulnerable  to outside threats.
+* transcend: 초월하다 
+(A) (B)   (C)
+① reduced …… fluid …… vulnerable
+② reduced …… solid …… immune
+③ reduced …… fluid …… immune
+④ increased …… fluid …… immune⑤ increased …… solid …… vulnerable
+[31∼33] 다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.
+31. John Wooden, the great UCLA basketball coach who 
+produced 10 NCAA championship teams in 12 years during 
+the 1960s and 1970s, perfectly exemplified the power of    
+. In the fascinating film documentary The 
+UCLA Dynasty, one player recalled, “There was a way to 
+do everything. You could have taken UCLA people who 
+played in 1955, 1965, 1970, and 1975; put them on the 
+same team; and they would have been able to play with 
+each other, instantly.” Wooden ran his drills with rare 
+modifications over the course of three decades. Drills would 
+start and end like clockwork, the same drills performed 
+before the national championship as at the beginning of the 
+season so that, in the words of a star player, “By the time 
+the games came along, they just became memorized 
+exhibitions of brilliance.” [3점]
+① honesty ② analysis ③ cooperation 
+④ consistency ⑤ encouragement 
+32. Although trust may require a meaningful relationship to 
+satisfy its more demanding analysts, it need not            
+. When A is a person and B is a 
+bank, A may trust B to keep her money safe although she 
+does not imagine for a moment that the bank feels warmly 
+disposed to her, and she may well suspect that it will 
+assert its interests at her expense when it gets a chance 
+to impose charges or manipulate interest rates. If A enters 
+hospital and is examined by Doctor B, she may trust B’s 
+professional expertise and integrity even though B appears 
+indifferent to her as a person. Until relatively recently 
+indifference on the part of medical professionals, or plain 
+rudeness, was if anything regarded as a sign of 
+trustworthiness: it implied the objectivity needed for 
+expertise, and asserted the superior status that medical 
+expertise granted. [3점]
 
+① be permanent
+② require goodwill
+③ rely on objectivity
+④ demand any agreement
+⑤ be in one’s best interest
 33. What distinguishes recycling is not its importance, but 
 rather the ease with which individuals can participate, and 
 the visibility of actions taken to promote the common good. 

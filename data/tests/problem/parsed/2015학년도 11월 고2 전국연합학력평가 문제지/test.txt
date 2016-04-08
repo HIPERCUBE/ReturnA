@@ -100,7 +100,6 @@ Maya: Lucas,
 ⑤ effective ways to start a speech
 17. 언급된 시각 자료가 아닌 것은?
 ① 동영상 ② 사진 ③ 지도
-④ 포스터 ⑤ 그래프
 이제 듣기 문제가 끝났습니다. 18번부터는 문제지의 지시에 따라 
 답을 하시기 바랍니다.
 18. 다음 글의 목적으로 가장 적절한 것은? 
@@ -289,8 +288,100 @@ or by calling 717-123-5678.
 ③ 참가 연령은 12세부터 17세까지이다.
 ④ 등록비에는 장비 대여료가 포함되어 있다.
 ⑤ 온라인 또는 전화로 참가 등록을 해야 한다.
-
-
+28. (A), (B), (C)의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 
+것은? [3점]
+If we create a routine, we don’t have to expend precious 
+energy every day prioritizing everything. We must simply expend 
+a small amount of initial energy to create the routine, and then all 
+that is left to do is follow it. There is a huge body of scientific 
+research to explain the mechanism (A) which / by which routine 
+enables difficult things to become easy. One simplified 
+explanation is that as we repeatedly do a certain task the 
+neurons, or nerve cells, (B) make / making new connections 
+through communication gateways called ‘synapses.’ With 
+repetition, the connections strengthen and it becomes easier for 
+the brain to activate them. For example, when you learn a new 
+word it takes several repetitions at various intervals for the 
+word to be mastered. To recall the word later you will need to 
+activate the same synapses until eventually you know the word 
+without consciously thinking about (C) it / them . 
+(A) (B) (C)
+① which ……  make ……  them
+② which ……  making ……  them
+③ by which ……  make ……  them
+④ by which ……  making ……  it⑤ by which ……  make ……  it
+29. (A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 
+것은? [3점]
+Traditionally, most ecologists assumed that community 
+stability ― the ability of a community to withstand 
+environmental disturbances ― is a consequence of community 
+(A) complexity / simplicity . That is, a community with considerable 
+species richness may function better and be more stable than a 
+community with less species richness. According to this view, the 
+greater the species richness, the less critically important any single 
+species should be. With many possible interactions within the 
+community, it is (B) likely / unlikely that any single disturbance 
+could affect enough components of the system to make a 
+significant difference in its functioning. Evidence for this 
+hypothesis includes the fact that destructive outbreaks of pests 
+are more (C) common / uncommon in cultivated fields, which 
+are low-diversity communities, than in natural communities 
+with greater species richness.
+* community: 군집, 군락
+(A) (B) (C)
+① complexity ……  likely ……  common
+② complexity ……  unlikely ……  common
+③ complexity ……  unlikely ……  uncommon
+④ simplicity ……  likely ……  common⑤ simplicity ……  unlikely ……  uncommon
+30. 밑줄 친 부분이 가리키는 대상이 나머지 넷과 다른 것은?
+On a spring day in New York’s Central Park, a balloon 
+salesman was busy trying to sell ① his balloons. In order to 
+gain the attention of those walking in the park, from time to 
+time ② he would release a brightly colored balloon and let it 
+rise into the sky. In the sunny afternoon, a little 
+African-American boy approached ③ him. The boy was shy 
+and had a poor self-image. ④ He had been watching the man 
+and had a question for him. “Mister, if you let a black balloon 
+go, will it rise too?” The balloon salesman knew what he was 
+asking. “Sweetheart,” ⑤ he explained. “It doesn’t matter what 
+color the balloon is. It’s not what’s on the outside that makes it 
+rise; it’s what’s on the inside that makes it go up.”
+[31 ~ 33] 다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.
+31. Today it often seems we remember very little. When I wake 
+up, the first thing I do is check my day planner, which 
+remembers my schedule so that I don’t have to. When I climb 
+into my car, I enter my destination into the GPS, whose spatial 
+memory supplants my own. When I sit down to work, I open up a 
+notebook that holds the contents of my interviews. Now, thanks 
+to the Internet, I rarely have to remember anything more than 
+the right set of search terms to access humankind’s collective 
+memory. Growing up, in the days when you still had to press 
+seven buttons, or turn a clunky rotary dial, to make a telephone 
+call, I could recall the numbers of all my close friends and family. 
+Today, I’m not sure if I know more than four phone numbers by 
+heart. And that’s probably more than most people do. Our gadgets  
+the need to remember such things. 
+* supplant: 밀어내다, 대신 들어앉다
+① create ② eliminate ③ promote
+④ solidify ⑤ overestimate
+32. When children are very young, you first say no to protect them 
+from danger. You say it because you love your child and because 
+you must teach him to protect himself. Just as saying no is a tool 
+to help ensure your child’s physical safety, it also contributes to 
+his emotional security. When you set limits on your child’s 
+behavior, whether it’s telling a five-year-old he can’t hit the baby 
+or telling a teenager he can’t stay out past midnight, you’re letting 
+him know that his actions don’t happen in a vacuum. He is 
+connected to someone(you) who watches and cares what he does. 
+All children need a safe space in which to grow and develop. While 
+it’s a child’s nature to test the limits of that space, by climbing 
+higher, venturing farther, or asking for more of what he wants, it’s 
+also comforting for him                                                            .
+① to let his mind drift away  [3점]
+② to know he is not out there alone
+③ to realize his venture will succeed
+④ to stop thinking about responsibility
+⑤ to think he would never be punished
 33. Imagine tossing a coin over and over, and let’s say that the 
 coin has landed heads up six times in a row. Many people 
 believe that in this situation the coin is more likely to come up 

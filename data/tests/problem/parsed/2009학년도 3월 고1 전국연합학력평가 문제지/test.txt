@@ -1,5 +1,4 @@
-[성명 수험번호
-◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
+[◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
 ◦ 답안지의 해당란에 성명과 수험 번호를 쓰고, 또 수험 번호와
 답을 정확히 표시하시오.
 ◦ 문항에 따라 배점이 다르니, 각 물음의 끝에 표시된 배점을
@@ -24,7 +23,6 @@
 ⑤ to go to her uncle’s wedding
 5. 대화를 듣고, 남자가 지불할 총 금액을 고르시오.
 ① $10 ② $15 ③ $20 ④ $25 ⑤ $30
-1 1
 6. 다음을 듣고, 여자가 하는 말의 목적으로 가장 적절한 것을
 고르시오.
 ① 예절의 중요성을 강조하려고
@@ -79,6 +77,7 @@ Man:
 ② Yes, I love living in the city.
 ③ I had to talk with my doctor.
 ④ No, I haven’t been there before.
+⑤ Yes, but maybe in twenty years.
 16. 대화를 듣고, 남자의 마지막 말에 대한 여자의 응답으로 가장
 적절한 것을 고르시오.
 Woman:
@@ -245,6 +244,7 @@ harmful insects.
 ② limited ········ flow ········ remove
 ③ limited ········ blow ········ revive
 ④ extended ········ flow ········ remove
+⑤ extended ········ blow ········ revive
 29. 다음 One Hand Reach의 그림에 대한 글의 내용 중, 밑줄 친
 낱말의 쓰임이 적절하지 않은 것은?
 Figure 1 Figure 2 Figure 3
@@ -271,6 +271,78 @@ whenever he wants.
 ① lonely and bored ② happy and satisfied
 ③ worried and nervous ④ surprised and scared
 ⑤ curious and interested
+31. 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?
+Hades, a brother of Zeus, ruled the underworld and
+controlled its wealth. His job was to protect the dead. He
+lived without sunshine and flowers. (A) , he had a
+dark and gloomy character. Even though he left the
+underworld from time to time to visit his brother Zeus, he
+was hardly ever cheerful or pleasant. Nevertheless, Hades
+was generous and understanding. (B) , he allowed
+his wife Persephone to return to the Earth for several
+months each year. So, she could see her mother Demeter
+and enjoy the brightness and beauty of the Earth.
+(A) (B)
+① As a result ········ In contrast
+② As a result ········ For example
+③ However ········ In contrast
+④ However ········ For example
+⑤ However ········ Unfortunately
+[32~33] 다음 글의 주제로 가장 적절한 것을 고르시오.
+32. One of my friends grew up with five brothers and sisters.
+There were so many children that her family had little
+money for movies and other “going­out” activities. Instead,
+her parents filled the house with games of all kinds. All of
+the children grew up to be active game­players. Probably
+playing the games was for fun, but the end results were
+educational. My friend recalls learning how to spell over a
+Scrabble board and learning about money over Monopoly.
+She adds that it was fun to learn through playing those
+games.
+① 게임 중독의 폐해 ② 게임의 교육적 효과
+③ 자녀 양육의 어려움 ④ 형제 간 우애의 중요성
+⑤ 다자녀 가정의 문제점
+33. Even if you often lose your keys, forget where you
+parked your car, or cannot find important papers, your
+memory stores more information than all the libraries in the
+world. You forget an event, and then twenty years later
+something will bring back that memory ― a smell, a sound,
+a person, or a picture ― and instantly your mind will recall
+every detail about the event. Think of how many voices you
+recognize on the telephone. Once, a friend whom I hadn’t
+talked to in twenty years called me. All he said was “Hello,”
+and before he said his name I knew who it was.
+① things that make us happy
+② etiquettes of telephone talk
+③ the power of human memory
+④ the meaning of true friendship
+⑤ the process of storing information
+34. 다음 글의 주장으로 가장 적절한 것은?
+Good looks can be an advantage. However, you should not
+complain about yourself for what you received from your
+parents. Instead, you have to remember that beauty will not
+last long. That’s why it is important to develop your ability
+so that you will have tools for success later in life. It’s also
+important to concentrate on what you can do to make the
+world a better place. It is useless to worry that you are not
+beautiful enough.
+① 자신의 실수를 남의 탓으로 돌리지 마라.
+② 불만을 말할 때는 타당한 근거를 제시하라.
+③ 이웃을 위해 자신이 할 수 있는 일을 찾아라.
+④ 부모에게 지나치게 의존하려는 생각을 버려라.
+⑤ 외모에 대해 불평하기보다는 능력을 계발하라.
+35. 다음 도표의 내용과 일치하지 않는 문장은?
+Housework hours per week
+This graph shows the number of hours married men and
+women spend per week doing their housework. ① In
+families without children, women work 30 hours per week.
+② On the other hand, men do housework less than 20
+hours. ③When they have children, the gap in their
+housework hours becomes smaller. ④ The number of hours
+women work rises to 52 per week in families with one or
+two children. ⑤When there are three or more children in
+the family, women work over three times longer than men
+do.
 36. iris에 관한 다음 글의 내용과 일치하는 것은?
 The iris is one of the most popular garden flowers. There
 are hundreds of different kinds. These graceful flowers
@@ -389,6 +461,7 @@ is also interested in everything else that is going on.
 * stroller: 유모차
 ① sad ② scary
 ③ peaceful ④ humorous
+⑤ mysterious
 44. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한
 곳은?
 Then one day I had the opportunity to fly with friends

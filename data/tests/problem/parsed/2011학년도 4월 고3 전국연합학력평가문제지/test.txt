@@ -1,5 +1,4 @@
-[제 3 교시 성명 수
-◦ 문제지의해당란에성명과수험번호를정확히기입하시오.
+[◦ 문제지의해당란에성명과수험번호를정확히기입하시오.
 ◦ 답안지의 해당란에 성명과 수험번호를 쓰고, 또 수험번호와 답을
 정확히표기하시오.
 ◦ 문항에따라배점이다르니, 각물음의끝에표시된배점을참고하시오.
@@ -25,7 +24,6 @@
 ⑤도서주문하기
 5. 대화를듣고, 여자가선물을사기위해부담하기로한금액을고르시오.
 ① $16 ② $18 ③ $20 ④ $36 ⑤ $40
-험번호 3
 6. 다음을듣고, 남자가하는말의목적으로가장적절한것을고르시오.
 ①방과후학교수업의폐강된강좌를알려주려고
 ②인터넷의과도한사용을자제할것을당부하려고
@@ -57,92 +55,8 @@
 ③전통공연을관람한후고성을방문한다.
 ④개별적으로마을을둘러보는시간을갖는다.
 ⑤오후 4시에다음목적지로이동한다.
-13. 다음그림의상황에가장적절한대화를고르시오. [1점]
-① ② ③ ④ ⑤
-14. 대화를 듣고, 남자의 마지막 말에 대한 여자의 응답으로 가장
-적절한것을고르시오.
-Woman:
-①We have to finish work by 10 pm.
-②The restaurant is being renovated.
-③We’d better hurry to get there in time.
-④The seafood spaghetti is their specialty.
-⑤ Eating at night isn’t good for your health.
-15. 대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장
-적절한것을고르시오.
-Man:
-① I’ll let you know the contest result.
-② I’d like to do it as soon as possible.
-③ I hope you will speak English fluently.
-④ I should have joined the contest last year.
-⑤ I will help you improve your pronunciation.
-16. 대화를 듣고, 남자의 마지막 말에 대한 여자의 응답으로 가장
-적절한것을고르시오. [3점]
-Woman:
-①Dancing improves not only health, but also sociability.
-②Volunteer work is a good way of building inner strength.
-③Active attitudes help to achieve friendship as well as love.
-④The key to happiness is looking into yourself, not into others.
-⑤The important thing lies in your warm heart, not in what you do.
-17. 다음 상황 설명을 듣고, Lauren이 Susan에게 할 말로 가장
-적절한 것을고르시오.
-Lauren:
-① It’s not a good decision to apply for that character.
-②Would you do my part on behalf of me? I can’t do this.
-③ You’re so important in the drama. Please stay with us.
-④We’ve got the first prize. I appreciate your great effort.
-⑤Thank you for inviting me. The play was so impressive.
-이제 듣기·말하기 문제는 다 끝났습니다. 18번부터는 문제의 지
-시에따라답을하기바랍니다.
-18. 다음 글의 목적으로 가장 적절한 것은? [1점]
-Many city services will not open for some days because of
-the budget problems of the city. As part of the 2011 budget,
-three reduced-service days were planned for 2011, days which
-are unpaid for all affected employees― the Friday after
-Thanksgiving, Christmas Eve, and New Year’s Eve. If you plan
-to check out a library book, visit a city clinic or have your
-garbage picked up on those days, you had better choose another
-day. City Hall, public libraries, health clinics and most city
-offices will be closed. Emergency service providers including
-police and fire fighters will be working at full strength, but most
-services not directly related to public safety will not be
-provided, including street sweeping. The 2011 budget
-anticipates saving $8.3 million due to the reduced-service days.
-①시행정서비스제한일을공지하려고
-②시의에너지절약정책을홍보하려고
-③환경보호조례안제정을촉구하려고
-④지역의고용현황정보를공유하려고
-⑤쓰레기분리수거일변경을안내하려고
-19. 밑줄친 he가 가리키는 대상이 나머지넷과 다른 것은?
-One evening before making a presentation at a sales
-conference, Mark discovered that he and the vice president of
-sales for a large food products firm were both car lovers. “Do
-you read Car Weekly?” the vice president asked. At the time
-Mark was not familiar with the publication, but ① he was
-curious about it. After the vice president told him about the
-magazine,　 ② he made a mental note to subscribe to it.
-However, his fellow car lover was one step ahead. The next
-morning,　 ③ he handed him a subscription card that he had
-pulled out of his most recent issue. Mark was struck by how
-thoughtful this small gesture was. After that,　 ④ he uses a
-similar technique when he talks with friends and clients about
-books. If　⑤ he finds out that there is a really great title they
-have not read, he will order a copy and have it sent to them. He
-believes that this simple act is effective for relationship building.
-20. 다음글의밑줄친부분중, 어법상 틀린 것은? [3점]
-Most of us make at least three important decisions in our
-lives: where to live, what to do, and whom to do it with. We
-choose our towns, our jobs, and our spouses and friends. Making
-these decisions ① is such a natural part of adulthood that it is
-easy to forget that we are among the first human beings to
-make them. For most of recorded history, people lived ②where
-they were born, did what their parents had done, and associated
-with those who were doing the same. Social and physical
-structures were the great dictators ③ that determined how and
-where people would spend their lives. This left most folks with
-little to decide for ④ themselves. But the industrial and
-technological revolutions changed all that, and the resulting
-explosion of personal liberty ⑤ creating an array of options,
-alternatives, and decisions that our ancestors never faced.
+
+
 21. (A)~(C)에서어법에맞는표현을바르게짝지은것은?
 People avoid feedback because they hate being criticized.
 Psychologists have a lot of theories about why people are so
@@ -243,6 +157,7 @@ noticing you, but you are ready to run away or attack or do
 whatever else becomes necessary.
 ①much violation of privacy ② some readiness for action
 ③ slim chance of meditation ④ unwanted pressure of attack
+⑤ natural instinct for freedom
 27. Leonardo’s famous painting the Mona Lisa in the Louvre
 museum in Paris demands respect. We are expected to be in
 awe of the original master and appreciate the art, the value and
@@ -339,8 +254,102 @@ are a problem.
 ③ prescribe …… broken …… abolishment
 ④ prescribe …… obeyed …… abolishment
 ⑤ prescribe …… broken …… establishment
-
-
+32. 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?
+One interesting example of self-control strategy imposed by
+a government is daylight saving time. Most people think that
+daylight saving time is a ① great idea, primarily because they
+enjoy the extra hour of daylight during the evening. Of course,
+the number of daylight hours on a given day is ② fixed. There
+is just only one small but influential change. It is just to set the
+clocks ahead one hour, which does nothing to ③ increase the
+amount of daylight. The simple change of the labels on the
+hours of the day, calling ‘six o’clock’ by the name ‘seven
+o’clock,’ affects us all into waking up an hour ④ later. Along
+with having more time to enjoy an evening, we end up saving
+energy too. Historically, the idea was first suggested by
+Benjamin Franklin as an American delegate in Paris. Known to
+be stingy, Franklin calculated that thousands of pounds of
+candle wax could be ⑤ saved with his idea.
+33. 다음글의 (A), (B)에 들어갈 말을 바르게 짝지은것은?
+The battle to minimize the surface is something we see all
+over the natural world. For example, groups of newborn
+birds and animals huddle together into a ball minimizing
+exposed surface so as to keep them warm. (A) ,
+the members of a herd of cattle or a school of fish seeking to
+minimize the opportunities for predators will gather themselves
+into a circular group to minimize the surface that the
+predator can attack. When it is dry, the cactus contracts like
+an accordion to minimize the surface area exposed to the sun
+and retain as much water as possible. (B) , there are
+many situations where a large surface area is important. For
+a tree that draws moisture and nutrients from the air, it is
+good to maximize its surface area with lots of leafy surfaces.
+(A) (B)
+① Instead …… In contrast
+② Besides …… Consequently
+③ However …… Otherwise
+④ Likewise …… Conversely
+⑤ Therefore …… For example
+[34 ~ 35] 다음글의주제로가장적절한것을고르시오.
+34. Many studies show that a lack of knowledge about nutrition
+leads to unhealthy eating habits and obesity in the young.
+Moreover, with the increasing number of dual-income families,
+parents are finding it more difficult to teach their children how
+to eat well. To fill the gap, governments need to put the emphasis
+on nutrition education in the classroom. The aim of this education
+should be to teach young students how to eat more healthily.
+Young students need to have a better relationship with food,
+learning about what is on their plate and how it gets there.
+With this education young children can get interested in what
+they are eating and break bad eating habits. Nutrition education
+in schools can help more students eat balanced diets that
+include more vegetables and have a healthy life.
+① the need for nutrition education in schools
+② the absence of education about health care
+③ the relationship between food and health
+④ disadvantages of unhealthy eating habits
+⑤ tips for parents to keep children safe
+35. We all worry about getting old. We all worry about getting
+sick. But we really worry about losing our minds. Yes, the brain
+at middle age has lost a step. Our problems are not imaginary,
+and our worries are not unreasonable. But neuroscientists have
+found that the middle-aged brain actually has surprising
+talents. It has developed powerful systems that can cut through
+the intricacies of complex problems to find concrete answers.
+It more calmly manages emotions and information than in
+younger years. Indeed, one new series of fascinating studies
+suggests that the way our brains age may give us a broader
+perspective, and even be more creative. Older brains are also
+better at making connections. Yes, the old take longer to
+assimilate new information. But faced with information that
+relates to what they already know, their brains tend to work
+quicker and smarter, discerning patterns and jumping to the
+logical end point.
+①ways to delay brain aging
+② the problems of getting old
+③ benefits of the brain with aging
+④ effects of exercise on creativity
+⑤ the importance of logical thinking
+36. Five-Foot Shelf에 대한 다음 글의 내용과 일치하는것은?
+Five-Foot Shelf, called Harvard Classics, is a 51-volume
+collection of classic works from world literature, compiled and
+edited by Harvard University president Charles W. Eliot.
+Throughout his working at Harvard, Eliot had occasionally
+remarked that a five-foot shelf would hold books enough to
+give a good substitute of a liberal education. As he neared
+retirement in 1909, one publisher invited him to compile this
+Five-Foot Shelf. With the help of various professors at
+Harvard, he completed the collection. He compiled the Classics
+not as a “great books” collection but as a course of study
+particularly for the young whose early education was cut short.
+Unlike similar efforts, such as the Encyclopedia Britannica’s
+Great Books, which have been updated and revised over the
+years, the Harvard Classics were fixed once for all.
+①하버드대학교의총장들이쓴작품을엮은것이다.
+② Charles W. Eliot의 은퇴후에기획된작품집이다.
+③하버드대학교교수들의도움을받아완성되었다.
+④고등교육을받은사람들을위해만들어졌다.
+⑤시대의변화에따라여러번재구성되었다.
 37. The National Zoological Gardens에 대한 다음 글의 내용과
 일치하지않는것은?
 The National Zoological Gardens is the largest in South Africa

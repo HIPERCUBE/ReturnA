@@ -17,4 +17,4 @@ music? ( ⑤ ) Labels know the answer lies online,
 tapping the word-of-mouth forces that are replacing 
 traditional marketing in creating demand, but they’re still 
 trying to figure out exactly how best to do it.
-* label: 음반사
+label: 음반사

@@ -18,3 +18,4 @@ mechanic wasn’t documenting his work because he wanted
 to maintain an information edge over coworkers.
 ① (A) - (C) - (B) ② (B) - (A) - (C)
 ③ (B) - (C) - (A) ④ (C) - (A) - (B)
+⑤ (C) - (B) - (A)

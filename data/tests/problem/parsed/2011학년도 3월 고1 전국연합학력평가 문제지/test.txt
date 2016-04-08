@@ -1,5 +1,4 @@
-[성명 수험 번호
-◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
+[◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
 ◦ 답안지의 해당란에 성명과 수험 번호를 쓰고, 또 수험 번호와 
 답을 정확히 표시하시오.
 ◦ 문항에 따라 배점이 다르니, 각 물음의 끝에 표시된 배점을 
@@ -28,7 +27,6 @@
 ③ 등산 계획을 취소하려고
 ④ 폭우의 위험성을 알리려고
 ⑤ 등산의 즐거움을 알리려고
-1                 1
 7. 대화를 듣고, 남자가 여자에게 부탁한 일로 가장 적절한 것을 
 고르시오.
 ① 다친 상처 치료해 주기
@@ -312,6 +310,89 @@ just actors and sports stars are just sports stars. They
 are just ④ uncommon people except that they have 
 excellent skills in their field. They should not be expected 
 to be ⑤ perfect in every way.
+33. 다음 글의 (A), (B)에 들어갈 말로 가장 적절한 것은?
+Newspapers are usually thrown out after a day. 
+Magazines, however, may stay around the house or office 
+for weeks or months. They may be passed from person to 
+person.      (A)     , the ads in them have a better 
+chance of being read and remembered. Magazines also 
+allow for colorful photography and artwork. They provide a 
+way for advertisers to create quality images. Besides, 
+many magazines now publish a range of editions aimed at 
+specific areas and groups, instead of a single national 
+edition.     (B)    , Time magazine publishes 357 
+different editions worldwide. They include special editions 
+for doctors, educators, and college students.
+(A)    (B)
+① Therefore ‥‥‥ For example
+② Therefore ‥‥‥ Finally
+③ However ‥‥‥ In fact
+④ However ‥‥‥ For example
+⑤ In addition ‥‥‥ In fact
+[34 ~ 35] 다음 글의 주제로 가장 적절한 것을 고르시오.
+34. Although no studies have been able to show a clear link 
+between laughter and pain, many patients have reported a 
+decrease in pain after a good laugh. Some doctors claim the 
+decrease could be linked to chemicals produced in the blood. 
+Or patients might also feel less pain because their muscles 
+are more relaxed, or they simply forget their pain for a 
+while. Whatever the truth may be, there are many people 
+who would agree with the Groucho brothers’ claim that “A 
+clown is like an aspirin.”
+① Training a clown
+② Causes of laughter
+③ Effective use of painkillers
+④ Becoming humorous people
+⑤ Effects of laughter on pain
+35. Have you ever wondered how movies set in the winter 
+can be filmed in the summer? The answer to this question 
+is special effects. Special effects help make the movies 
+seem more realistic. As an example, snow is made by 
+machines to create the illusion of winter in Hollywood. 
+However, the viewers have no idea that the snow in the 
+movie isn’t real. The 1946 holiday classic film, Wonderful 
+Life, shows snow produced with special effects. The movie 
+was actually filmed in the summer. Another example is rain, 
+which is a bit more common than snow in Hollywood films. 
+Rather than waiting around for the rain to fall, Hollywood 
+creates its own.
+① 특수효과가 사용된 영화의 역사
+② 특수효과로 만드는 영화 속 날씨
+③ 영화 속 특수효과 제작에 드는 비용
+④ 영화에서 사용되는 특수효과의 한계 
+⑤ 특수효과가 사용되는 영화 제작의 어려움
+36. 고대 이집트인에 관한 다음 글의 내용과 일치하는 것은?
+In ancient Egypt many people lived around the Nile and 
+the land along its banks. The Nile flooded every year and 
+they could get good harvests and wealth. The people of 
+ancient Egypt built mud˗brick homes in villages. They grew 
+some of their own food and traded in the villages for the 
+food and goods they could not produce. Most ancient 
+Egyptians worked as laborers, farmers, craftsmen, and so on. 
+A small group of people were nobles. Together, these 
+different groups of people lived in ancient Egypt.
+① 주로 산악지대에 살았다.
+② 매년 홍수로 인해 농사를 지을 수 없었다.
+③ 집을 지을 때 목재를 사용했다.
+④ 생산할 수 없는 물품은 교역을 통해 구했다.
+⑤ 대부분은 귀족이었다.
+37. Henry James에 대한 다음 글의 내용과 일치하지 않는 것은?
+Henry James was born in 1843 in New York. His father 
+was a well˗known religious thinker, and his older brother a 
+famous philosopher. James was educated in New York and 
+Europe and attended Harvard Law School. His years of school 
+in London, Paris, and Geneva gave him a love for Europe. He 
+traveled often to Europe, and after 1876 made his home in 
+London. James wrote widely. In addition to plays, critiques, 
+and short stories, he wrote about twenty novels. Much of 
+James’s work deals with the contrast in values of Americans 
+and Europeans. He became a British citizen shortly before his 
+death in 1916.
+① 형은 유명한 철학자였다.
+② 뉴욕과 유럽에서 교육을 받았다.
+③ 소설 외에도 다양한 분야의 글을 남겼다.
+④ 동서양의 가치관 차이가 주된 관심사였다.
+⑤ 죽기 얼마 전에 영국시민이 되었다.
 38. 다음 도표의 내용과 일치하지 않는 것은?
 * QUADRILLION BTU (영국열량단위)
 The graph above shows the world’s energy production 

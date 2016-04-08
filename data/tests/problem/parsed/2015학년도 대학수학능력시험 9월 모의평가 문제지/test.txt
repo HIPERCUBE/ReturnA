@@ -277,7 +277,7 @@ percentage, while the percentage of Ferrous is the lowest.
 times higher than the percentage of Plastics. ⑤ Diapers 
 and Glass each are less than five percent of Domestic 
 Waste.
-* ferrous: 철(쇠)의
+ferrous: 철(쇠)의
 27. living rock cactus에 관한 다음 글의 내용과 일치하지 않는 것은?
 Living rock cactus is one of the most peculiar plants 
 found in the desert. For most of the year, it blends into 
@@ -322,8 +322,91 @@ the scoring can be as objective as possible.
 ③ evaluating …… threw …… it
 ④ evaluating …… was thrown …… them
 ⑤ evaluating …… was thrown …… it
-
-
+29. 다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 
+않은 것은? [3점]
+A special feature of the real estate rental market is its 
+tendency to undergo a severe and prolonged contraction 
+phase, more so than with manufactured products. When the 
+supply of a manufactured product ① exceeds the demand, 
+the manufacturer cuts back on output, and the merchant 
+reduces inventory to balance supply and demand. 
+However, ② property owners cannot reduce the amount 
+of space available for rent in their buildings. Space that 
+was constructed to accommodate business and consumer 
+needs at the peak of the cycle ③ remains, so vacancy 
+rates climb and the downward trend becomes more severe. 
+Rental rates generally do not drop below a certain point, 
+the ④ maximum that must be charged in order to cover 
+operating expenses. Some owners will take space off the 
+market rather than lose money on it. A few, unable to 
+subsidize the property, will sell at distress prices, and 
+lenders will repossess others. These may then be placed 
+on the market at lower rental rates, further ⑤ depressing 
+the market.
+* contraction phase: 경기 수축기(후퇴기)
+** distress price: 투매 가격(판매자가 손해를 감수하는 매우 싼 가격)
+30. 밑줄 친 부분이 가리키는 대상이 나머지 넷과 다른 것은?
+Born in Budapest to a family of bankers, von Neumann 
+was undeniably bright. At age eight, ① he had mastered 
+calculus. At age twelve, he was reading works aimed at 
+professional mathematicians. But ② he also loved to 
+invent mechanical toys and became a child expert on 
+Byzantine history. When it was time to go off to 
+university, he agreed to study chemical engineering as a 
+compromise with his father, who feared that ③ his son 
+couldn’t make a living as a mathematician. Von Neumann 
+kept his bargain by enrolling at the University of 
+Budapest and promptly leaving for Berlin, where he spent 
+his time doing mathematics, and returning to Budapest at 
+the end of every semester to take examinations. He 
+published ④ his second mathematics paper, in which he 
+gave the modern definition of ordinal numbers, at age 
+nineteen. By age twenty-five ⑤ he had published ten 
+major papers; by age thirty, nearly three dozen.
+calculus: 미적분학
+[31～34] 다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.
+31. Not all interesting discoveries have an obvious 
+application. If you believe you have something, but 
+you’re not sure what exactly it’s going to be good for, 
+don’t give up. Many innovations languished in labs for 
+years until they were                     . Teflon, an 
+extremely slippery synthetic substance employed as a 
+coating on cooking utensils, was invented in 1938, but it 
+didn’t coat its first pan till 1954. The Post-it note was 
+built on the back of some not-very-good glue. Its 
+inventor believed it might have value, but it took him 
+five years to find a potentially profitable use for it. HP 
+had a breakthrough with a super-accurate thermometer 
+that was created in the HP Labs. Despite its accuracy, 
+there was no clear use for the device until it was used to 
+measure fluctuations in ocean temperature. [3점]
+* languish: 시들해지다
+① replaced by new ones
+② matched to a product
+③ backed up by a theory
+④ found to be eco-friendly
+⑤ tested for their accuracy
+32. Empathy is a character trait that we value in ourselves 
+and in our friends, colleagues, and the professionals who 
+serve us. The know-how to be empathetic is central to 
+practical wisdom: unless we can understand how others 
+think and feel, it’s difficult to know the right thing to do. 
+But empathy has its dark side: too much understanding and 
+sensitivity, too much seeing things from the other’s 
+perspective, can                                        . 
+Edmund Pellegrino, a scholar of bioethics, explains it like 
+this: “If a physician identifies too closely as co-sufferer 
+with the patient, she loses the objectivity essential to the 
+most precise assessment of what is wrong, of what can be 
+done, and of what should be done to meet those needs. 
+Excessive co-suffering also impedes and may even 
+paralyze the physician into a state of inaction.”
+* impede: 방해하다
+① block everlasting friendship
+② justify doctors’ abuse of power
+③ cloud judgment and paralyze choice
+④ lead to a hasty but correct diagnosis
+⑤ decrease doctors’ compassion for patients
 33. Bees have their choice of flora according to color. 
 Lord Avenbury once made an experiment to see if the 
 color of flowers attracted bees. Placing honey on slips of 
@@ -415,7 +498,7 @@ performed better than the “average” ones. ( ⑤ ) The
 self-fulfilling effects in these cases strongly suggest that 
 managers adopt positive and optimistic approaches toward 
 others at work.
-* bloomer: 재능을 발휘하는 사람
+bloomer: 재능을 발휘하는 사람
 37.
 But neither are aware of this fact when it comes to 
 unmarked crosswalks. 

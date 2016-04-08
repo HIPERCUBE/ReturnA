@@ -1,5 +1,4 @@
-[성명 수험번호
-◦문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
+[◦문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
 ◦답안지의 해당란에 성명과 수험 번호를 쓰고, 또 수험 번호와
 답을 정확히 표시하시오.
 ◦문항에 따라 배점이 다르니, 각 물음의 끝에 표시된 배점을
@@ -35,7 +34,6 @@
 ③ 심장병 환자에게 독감예방접종을 권장하려고
 ④ 정기적인 예방접종의 필요성을 강조하려고
 ⑤ 심장병 예방을 위한 음식을 소개하려고
-1
 5. 대화를 듣고, 남자가 할 일로 가장 적절한 것을 고르시오.
 ① 기차표 예약하기 ② 대출 도서 반납하기
 ③ 시청 민원실 방문하기 ④ 친구에게 책 빌리기
@@ -250,8 +248,81 @@ flow, bringing in low temperature air. [3점]
 ③ protect our brain from overheating
 ④ react to a boring and dull situation
 ⑤ increase our resistance to cold weather
-
-
+29. Why do some people choose to know the truth about their
+health, and others refuse? People who ___________________
+are more likely to agree to know about their health. To test
+this idea, researchers set up a scenario that mimicked an
+annual checkup. In this checkup, they told participants about
+a serious but fictional disease, and then asked whether the
+participants would like to be tested for it. Prior to the
+checkup, some participants were made to feel good about
+themselves while others were not. The subjects who had
+their self-esteem raised were more likely to want to be
+tested for it. Physicians say that early treatment is critical
+for many diseases, so helping people face potentially
+frightening information with a positive self-esteem increases
+their chances of survival. [3점]
+① consider themselves a valuable person
+② have had serious health problems
+③ keep their emotions stable
+④ are educated in health or medicine
+⑤ watch movies about serious diseases
+30. Races have first, second, and third prizes. This practice is
+the result of . In the early
+seventeenth century in Chester, England, the sheriff agreed to
+provide a silver trophy for the winner of a horse race and
+contracted with a silversmith to do the work. The
+silversmith’s first trophy was unacceptable, and he was sent
+back for another try. The second one, too, was inadequate,
+and he was instructed to try a third time. The third trophy
+was fine, but now the sheriff had three trophies instead of
+one. In order not to be wasteful, the sheriff decided to award
+trophies to the first, second, and third place winners. [3점]
+* sheriff: (잉글랜드․웨일즈에서) 주 장관
+① a racer’s violation of the game rules
+② a sheriff’s intention to win a horse race
+③ the excessive competition in sports events
+④ efforts to reduce the cost of making trophies
+⑤ a silversmith’s inability to satisfy his customer
+31. 다음 글의 주제로 가장 적절한 것은?
+“Art does not solve problems, but makes us aware of their
+existence,” a sculptor once said. Arts education, on the other
+hand, does solve problems. Years of research show that it is
+closely linked to almost everything that we say we want for
+our children. Involvement in the arts is associated with gains
+in math, reading, critical thinking, and verbal skills. Learning
+the arts can also improve motivation, concentration,
+confidence, and teamwork. A report about the visual arts
+argues that the pleasures and stimulation of the art
+experience do more than sweeten an individual’s life.
+According to the report, they “can connect people more
+deeply to the world and open them to new ways of seeing,”
+creating the foundation to build up social bonds.
+① the value of social interactions
+② the advantages of arts education
+③ ways to promote critical thinking
+④ the characteristics of successful artists
+⑤ the significance of intelligence in problem-solving
+32. 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?
+Shopping is no longer just a necessity, a way to get the
+things we must have to survive. (A) , shopping
+has become a leisure activity. We shop just for the fun of it.
+We also live in an age of consumerism, and we are
+encouraged to define ourselves and obtain others’ approval by
+acquiring possessions. Fortunately, most people still manage
+to live within their means. However, the growing consumer
+debt indicates that more and more people may be letting their
+spending habits get out of hand. (B) , as much
+as 8 to 10 percent of the American adult population may be
+compulsive shoppers. Compulsive shopping is a serious
+disorder that can ruin lives if it’s not recognized and treated.
+* compulsive: 조절이 힘든
+(A) (B)
+① On the contrary …… In addition
+② On the contrary …… Otherwise
+③ For example …… However
+④ Nevertheless …… Therefore
+⑤ Nevertheless …… Similarly
 33. 다음 도표의 내용과 일치하지 않는 문장은?
 The bar graph above shows the total number of hybrid
 car sales by year for three regions: U.S.A., Asia and

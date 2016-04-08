@@ -1,22 +1,16 @@
-38. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은? [3점]
-Organic farmers grow crops that are no less plagued by 
-pests than those of conventional farmers; insects generally 
-do not discriminate between organic and conventional as 
-well as we do.
-(A) However, most organic farmers have no choice but to rely 
-on chemicals as necessary supplements to their operations. 
-With pests often consuming up to 40 percent of the crops 
-grown in the United States, they do so as a matter of 
-course. 
-(B) They might refer to these substances as “botanical 
-extracts.” But according to Ned Groth, a senior scientist 
-at Consumers Union, these toxins “are not necessarily 
-less worrisome because they are natural.”
-(C) It is true that they are far more likely than conventional 
-farmers to practice environmentally beneficial forms of 
-biological control, and that they are also more likely to 
-sensibly diversify their crops to reduce infestation. 
-* infestation: 횡행, 만연
-① (A) － (C) － (B) ② (B) － (A) － (C)
-③ (B) － (C) － (A) ④ (C) － (A) － (B)
-⑤ (C) － (B) － (A)
+38. 다음 글에서 전체 흐름과 관계 없는 문장은?
+People believe that “good books” are educational and useful 
+to academic success. However, it appears that the nature of 
+written language itself helps increase academic achievement, 
+regardless of a book’s quality. ① Even books that provide 
+only pleasure will increase the confidence of students and 
+encourage them to try to read more technical materials in 
+school. ② Comics, magazines, audiobooks, and topics of 
+interest on the Internet are sometimes not considered “real” 
+reading materials. ③ Students should try to guess the meaning 
+of new words while they read rather than look them up in the 
+dictionary. ④ However, these materials let students enjoy the 
+pleasure of reading and gain information, literacy skills, and 
+more. ⑤ This “light” reading is actually very beneficial 
+because it is effortless reading, which improves reading 
+fluency.

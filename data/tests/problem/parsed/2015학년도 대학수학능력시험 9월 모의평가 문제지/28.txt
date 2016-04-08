@@ -1,0 +1,23 @@
+28. (A), (B), (C)의 각 네모 안에서 어법에 맞는 표현으로 가장 
+적절한 것은? [3점]
+The term objectivity is important in measurement because 
+of the scientific demand that observations be subject to 
+public verification. A measurement system is objective to 
+the extent that two observers (A) evaluate / evaluating the 
+same performance arrive at the same (or very similar) 
+measurements. For example, using a tape measure to 
+determine the distance a javelin (B) threw / was thrown yields 
+very similar results regardless of who reads the tape. By 
+comparison, evaluation of performances such as diving, 
+gymnastics, and figure skating is more subjective ─ although 
+elaborate scoring rules help make (C) it / them more objective. 
+From the point of view of research in motor behavior, it is 
+important to use performances in the laboratory for which 
+the scoring can be as objective as possible.
+* javelin: 투창
+(A) (B) (C)
+① evaluate …… threw …… it
+② evaluate …… threw …… them
+③ evaluating …… threw …… it
+④ evaluating …… was thrown …… them
+⑤ evaluating …… was thrown …… it

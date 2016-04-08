@@ -1,31 +1,21 @@
 [41～42] 다음 글을 읽고, 물음에 답하시오.
-Carrying capacity is the number of individuals that the 
-local resources can sustain. Individuals in a population that 
-has exceeded the carrying capacity of its habitat may have 
-poor health and suffer from malnutrition because of the 
-compromised living conditions. When this happens, the 
-weakest individuals may die, or the population as a whole 
-may become more vulnerable to further environmental stress 
-or disease. Sometimes a large number of individuals in a 
-population die as a result of overshooting the carrying 
-capacity of their habitat. This is known as a die-off. 
-Certain animals and plants have a built-in sense of 
-carrying capacity, so that instead of overshooting and having 
-a die-off, they remain within the limits of their habitat’s 
-ability to support them. Lake trout, for instance, stop 
-breeding as prolifically when the population density 
-increases too dramatically. Although this is the result of 
-individual responses to chemical signals from other trout 
-rather than a thought-out response on the part of the trout, 
-the result is that population numbers may  
-for extended periods. The trout will produce more offspring 
-and mature to a reproductive size at a faster rate when 
-populations are threatened, such as when aggressive fishing 
-takes place. When space and food are scarce, such as when a 
-lot of fish are living together in a small pond, the trout 
-remain smaller and reproduce more slowly. Experiments 
-have shown that no matter what number of lake trout a pond 
-is stocked with in the beginning, the population will increase 
-until it reaches a particular density, then level off at about the 
-same number.
-* prolific: 다산(多産)의
+Because the Internet is free space where anybody can post 
+anything, it can be full of all sorts of useless data. As a 
+result, organized knowledge could easily get corrupted or 
+lost in a sea of junk data. For books, there are various filters 
+that help readers distinguish between reliable and unreliable 
+information. On the Internet, the relation between the 
+producer and the consumer of information tends to be direct, 
+so nothing protects the consumer from polluted information. 
+There are, of course, advantages to the free exchange of 
+information, and I do believe any producers of data 
+should have the freedom to make them available online. 
+However, I am also convinced that users should be 
+by intermediary services. 
+There need to be some forms of guides and filters provided 
+by responsible individuals and organizations. Otherwise, we 
+may no longer be able to distinguish between the intellectual 
+space of information and a polluted environment of 
+meaningless data. Thus, reliable intermediary services will 
+be needed in the future.
+* intermediary: 중개의

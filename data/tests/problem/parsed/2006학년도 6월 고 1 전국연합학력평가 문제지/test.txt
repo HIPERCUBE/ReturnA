@@ -1,5 +1,4 @@
-[제3교시 성명 수
-∙답안지에 성명과 수험번호를 써 넣고, 또 수험번호와 답을 정확히
+[∙답안지에 성명과 수험번호를 써 넣고, 또 수험번호와 답을 정확히
 표시하시오.
 ∙문항에 따라 배점이 다르니, 각 물음의 끝에 표시된 배점을 참고
 하시오. 1점과 3점 문항에만 점수가 표시되어 있습니다. 점수 표
@@ -23,7 +22,6 @@
 ① 과제 제출하기 ② 감기약 사오기
 ③ 병원에 함께 가기 ④ 보고서 작성하기
 ⑤ 친구에게 이메일 보내기
-험번호 1 1
 5. 대화를 듣고, 두 사람이 대화하고 있는 장소로 가장 적절한
 곳을 고르시오.
 ① bicycle shop ② construction site ③ general hospital
@@ -257,8 +255,80 @@ for more than a week. ‘They should have spent the money on
 my suit instead of on a dumb party,’ he thought.
 ① annoyed ② scared ③ lonely
 ④ shameful ⑤ satisfied
-
-
+31. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한
+곳은?
+Usually, the bigger something is, the stronger its gravity.
+Gravity is the invisible force that pulls things toward the
+ground. The farther out in space you go, the less gravity
+there is. (① )When people leave the space shuttle, they have
+to stay hooked on the lines. (② ) If they didn't, they would
+just float away! (③ ) But things hold gravity to pull others
+towards themselves. (④ ) For example, Jupiter is so big that
+all of the other planets could fit inside of it. (⑤ ) It has
+stronger gravity than all the other planets.
+32. 다음 글의 흐름으로 보아, 밑줄 친 단어의 쓰임이 적절하지
+않은 것은?
+Italy is one of the countries with a lower birth rate in the
+world. Its lower birth rate has several causes. One cause is
+that in the 1970s an increase of ① unemployment left people
+feeling financially insecure. They chose to have ② fewer
+children. Another cause is that more people moved from rural
+to urban areas. The cost of living and raising children in the
+city was ③ lower, so people didn't have many children. The
+third reason is that ④more women now have careers outside
+of the home. The final reason is that many adults want a
+lifestyle that they can enjoy themselves in ⑤ small families.
+33. 다음 글에서 필자의 주장으로 가장 적절한 것은?
+The article ‘Kids Gone Wild’ reminded me of all the conflicts
+that kids are causing. After reading it, I realized how wild I
+was when I was a kid. I believe that it's okay for kids to be
+wild sometimes because they usually have no ideas what their
+actions cause and they need to enjoy their childhood. Adults
+don't have to treat kids as the way they are being treated,
+because kids are just kids. Adults should treat them in the
+same way they wanted to be treated when they were kids.
+Adults shouldn't blame kids when they do wrong because
+they're innocent and don't know what they're doing.
+① 아이의 적성에 맞는 교육을 해야 한다.
+② 아이들과의 갈등은 대화로 풀어야 한다.
+③ 가정과 학교에서 인성교육을 강화해야 한다.
+④ 어른들은 아이들의 눈높이에서 아이들을 이해해야 한다.
+⑤ 공공장소에서 소란스럽지 않도록 아이들을 지도해야 한다.
+34. (A), (B), (C) 각 네모 안에서 문맥에 맞는 낱말을 골라 짝지은
+것으로 가장 적절한 것은?
+Tourism is now big business. It is also international
+business. It (A) includes / concludes almost every country in
+the world. There are many reasons for the rapid growth
+of tourist numbers. Throughout much of the world,
+better standards of living have increased the demand for
+( B ) vacations / vocations. Jet travel from the 1970s which
+replaced cheap cruise ships enabled people to travel abroad
+easily. At the same time, the invention of the low-cost package
+holiday made overseas travel (C) available / avoidable to the
+public.
+(A) (B) (C)
+① includes ---- vacations ---- available
+② includes ---- vocations ---- available
+③ includes ---- vacations ---- avoidable
+④ concludes ---- vocations ---- avoidable
+⑤ concludes ---- vocations ---- available
+35. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?
+Mayan parents wished their children to have signs of
+high class.
+(A) Then, the shape of the baby's head became flat and
+long. They thought this long, flat head looked like
+corn, which was a sign of high class.
+(B) They also tied a small ball with the baby's hair so
+that it fell between eyes. As the baby looked at it, he
+or she later became cross-eyed. This was also a sign
+of high class.
+(C) They believed all people came from the corn god,
+which was considered as the most important god. So
+when a child was born, they put the head of the
+baby between two pieces of wood for several days.
+① (A) - (B) - (C) ② (A) - (C) - (B)
+③ (B) - (C) - (A) ④ (C) - (A) - (B)
+⑤ (C) - (B) - (A)
 [36-37] 다음 글의 주제로 가장 적절한 것을 고르시오.
 36. “Put on your hat and coat, or you'll catch a cold.” Or
 “Take off the wet clothes before you catch a cold.” You must

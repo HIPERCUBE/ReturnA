@@ -261,8 +261,70 @@ members.
 ③ 퍼즐 우승자는 박물관 1년 회원권을 받는다.
 ④ 교사 대상 세미나는 일요일 오전에 열린다.
 ⑤ 박물관 회원은 무료로 입장한다.
+29. 다음 안내문의 내용과 일치하지 않는 것은? 3
+☞ Subway  
+Take the Green Line “D” train to Longwood 
+station. Walk across the Riverway and follow 
+Longwood Avenue four blocks to the hospital, which 
+will be on your right.
+☞ Commuter Rail
+As an alternative to driving into Boston, the 
+commuter rail is accessible from numerous cities 
+and towns surrounding the city as far as 
+Newburyport and Worcester.
+☞ Special Needs Transportation
+THE RIDE provides free transportation for people 
+who have a physical or mental disability that 
+prevents them from using public transportation. In 
+order to use THE RIDE, you must apply by calling 
+617-344-5400.
+☞ More Information 3
+For more information on Boston’s public   
+transportation, visit the Massachusetts Bay 
+Transportation Authority (MBTA) website, or call 
+617-222-3200. 
+① 병원이 Longwood역에서 도보 가능한 거리에 있다.
+② 통근자 전용열차를 이용하여 Boston으로 올 수 있다. 
+③ 장애우들에게 무료 교통수단이 제공된다. 
+④ THE RIDE를 이용하려면 사전에 신청서를 제출해야 한다.
+⑤ 전화로 Boston 대중교통에 관한 추가정보를 얻을 수 있다.
+0. 다음 도표의 내용과 일치하지 않는 것은?
 
-
+The above graph shows the distribution of males and 
+females across major occupations in Canada in 2009. ① In 
+general, the highest percentage of women worked in 
+Business & Administration and, for men, in Trades & 
+Transport. ② More than half of employed women were in 
+two occupational groups: Business & Administration and 
+Sales & Service. ③ The percentage of women employed in 
+Social Science & Education was more than twice the 
+percentage of men employed in the same field. ④ More 
+women worked in fields related to Health than in 
+Management. ⑤ The difference in percentage between men 
+and women was the greatest in the Trades & Transport 
+section, which was followed by Sales & Service.
+1. (A), (B), (C)의 각 네모 안에서 어법에 맞는 표현으로 가장 
+적절한 것은? [3점]
+The lizards that climb walls and ceilings do not tend to 
+fall off. But it is not (A) why / because  they have great 
+suction ― as a matter of fact, they are not really using 
+suction at all. Here is how the feet work: on the bottom 
+are dozens and dozens of tiny grooves, which you can see 
+if you have ever looked closely at a lizard in a terrarium. 
+On each of those little grooves you can see, there are 
+dozens more (B) that / what  are not visible to the naked 
+eye. And on each of those dozens of grooves (C) is / are  
+hundreds, if not thousands, of hairlike bumps. Now, if you 
+take a microscopic look at even the smoothest surface, you 
+will see it is covered with microscopic pits, bumps, and 
+grooves.                          * groove: 가늘고 길게 패인 곳
+(A) (B) (C)
+① why …… that …… is
+② why …… what …… is
+③ because …… that …… are
+④ because …… what …… are
+⑤ because …… that …… is   
+32. 다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지  3
 않은 것은? [3점]
 The decline in manufacturing will inevitably bring about a 
 new protectionism. The first reaction to a period of 
@@ -311,6 +373,7 @@ as Kevin Kelly, a founder of Wired magazine, puts it, where
 
 ① disposal ② donation ③ usage    
 ④ cooperation ⑤ intelligence
+5. Desserts are hard to resist. But the resistance is a little 
 easier when their scent is intense. According to a recent 
 study in the journal Flavour, when we experience a strong 
 complementary aroma with our food, we take smaller bites. 
@@ -349,7 +412,8 @@ correlated strongly with the amount of practice put in. [3점]
 ③ physical strength
 ④ emotional stability
 ⑤ extraordinary talent
-  Dogs’ ability to learn about humans is amazing. They 
+37. 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은? 3
+Dogs’ ability to learn about humans is amazing. They 
 respond to our gestures, attend to our body language, and 
 follow our gaze to figure out what we are looking at. They 
 are even known to repeat human yawns. As the 
@@ -385,6 +449,7 @@ time, the more successful their school life will be. ⑤ Most
 precious is their freedom to choose, he insists, which they 
 can maintain only by allowing for unstructured time and 
 flexibility.
+9. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 
 곳은? [3점] 
 Often, however, someone has an inherent or acquired 
 trait that is foreign to his or her parents and must 
@@ -465,7 +530,8 @@ place to relax. She was so into her book but happened to
 see that an elderly woman sitting beside her grabbed a 
 cookie from the bag between them. She tried to ignore it 
 to avoid a scene.
-  She boarded the plane, sank into her seat, and then 
+(B)
+She boarded the plane, sank into her seat, and then 
 sought her book, which was almost complete. As she 
 reached in her baggage, she was surprised. There was her 
 bag of cookies, in front of her eyes. She moaned in 

@@ -1,5 +1,4 @@
-[제 3 교시    성명 수
-━◦ 문제지의 해당란에 성명과 수험 번호를 정확히 기입하시오.◦━답━안━지━의━ 해━당━란━에━ ━성명━과━ ━수━험━ 번━호━를━ 쓰━고━,━ 또━ 수━험━ ━번━호━와━ 답━을━ ━
+[━◦━문━제━지━의━ 해━당━란━에━ 성━명━과━ 수━험━ 번━호━를━ 정━확히 기입하시오.◦ 답안지의 해당란에 성명과 수험 번호를 쓰━고━,━ 또━ 수━험━ ━번━호━와━ 답━을━ ━
 정확히 표시하시오. 
 ◦ 문항에 따라 배점이 다르니, 각 물음의 끝에 표시된 배점을 참고하시오. 
 1점과 3점 문항에만 점수가 표시되어 있습니다. 점수 표시가 없는 
@@ -23,7 +22,6 @@
 ⑤ 휴대 전화로 인터넷 검색하기
 5. 대화를 듣고, 남자가 지불할 총 금액을 고르시오.
 ① $80 ② $120 ③ $130 ④ $140 ⑤ $150
-험번호 3         1
 ━6━. ━다음━을━ ━듣━고━, 여━자━가━ ━하━는 ━말━의━ 목━적━으━로━ 가장 적절한 것을 고르시오.
 ① 소화기 비치 장소를 알려주려고
 ② 소화기 제작 원리를 설명하려고
@@ -301,6 +299,86 @@ fragments from Figure 1 without adding new pieces or pulling
 out the original ones. The result? Strange enough, there is a 
 small ⑤ square hole at the bottom of the newly-born figure. 
 How can this be true?
+31. 다음 글의 (A), (B)에 들어갈 말을 바르게 짝지은 것은?
+Some students are only interested in scoring marks. They 
+cram up their lessons quickly and forget them faster. A student 
+in the 12th grade forgets all he learned in the 11th grade. Some 
+students and parents think studying only what is taught now is 
+enough. For a bad student, the previous class is like a waste bin.  
+(A)      , a better student treats it as his base, considering 
+that earlier classes are the foundation for later classes. Some 
+throw away old textbooks and notebooks because they do not 
+want garbage in their house. This is an attitude students and 
+parents have to change. You may occasionally have to refer to 
+old books when there is a doubt.         (B)       , removing the 
+old books kills even the habit of getting your doubts cleared.
+(A) (B)
+① However …… Therefore
+② However …… Otherwise
+③ Moreover …… Otherwise
+④ Likewise …… Therefore
+⑤ Likewise …… In contrast
+[32~33] 다음 글의 주제로 가장 적절한 것을 고르시오.
+32.  Increasingly, marketers are looking to blogs on the Internet 
+to find opinion leaders. Especially, marketers are turning to 
+teen blogs to identify the social trends that are shaping 
+consumer behavior. Raised with a rapidly maturing Internet and 
+expanding cell phone capabilities, teens have much access to 
+the world around them. With their ability to network and 
+communicate with each other, young people rely on each 
+others’ opinions more than marketing messages when making 
+purchase decisions. Blogs are becoming a key way that teens 
+communicate their opinions. Consequently, today’s marketers 
+are reading teen blogs, developing products that meet the very 
+specific needs that teens express there.
+① 온라인 쇼핑이 십대들의 소비 문화에 미치는 영향
+② 십대들의 구매력 증가를 겨냥한 마케팅 전략의 등장
+③ 마케팅 담당자들이 십대들의 블로그를 주목하는 이유
+④ 십대들의 블로그에 의해 급변하는 인터넷 문화의 폐단
+⑤ 블로그 운영을 통한 십대들의 의사소통 능력 증진 사례
+33.  We are constantly bombarded with celebrities telling us 
+which credit card to use, what coffee to drink, or which politician 
+to support. Using celebrities’ opinions may not be logical. Often 
+the “expert” or “authority” speaks out on a topic that is unrelated 
+to his or her own field. Suppose the Minister of Health and 
+Welfare warns that smoking is harmful and may cause cancer. 
+Though he is not a doctor, his warning seemingly sounds 
+perfect. The fact that he is Minister of Health and Welfare may 
+qualify him as an expert in the health field. But even in cases 
+where the experts are qualified, they often disagree. Hence, the 
+common advice is to seek “a second opinion.” Depending on 
+authority makes sense only when the experts all agree.
+① qualification of reliable specialists
+② error in relying on authority’s opinion
+③ misjudgement from obsession with health
+④ consideration about consulting an amateur
+⑤ effective persuasion assisted by professionals
+34. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?
+[3점]
+But in doing so, it will lose heat, and the cold ice cube will 
+cause the salt water to freeze again.
+A single ice cube is floating in a glass of water. You hold a 
+piece of string about four inches long. ( ① )　Can you lift the 
+cube out of the glass with the string without touching the ice 
+with your fingers? ( ② )　 This puzzle should be given at the 
+dinner table where a salt shaker is available, for the solution 
+makes use of the fact that salt causes ice to melt. ( ③ ) Lay the 
+string across the cube and sprinkle salt on top of the ice. ( ④ ) 
+The ice around the string will start to melt. ( ⑤ ) When you lift 
+the string after a minute, the cube will adhere tightly to it.
+35. 그래프의 내용과 일치하지 않는 문장은?
+The chart above shows the result of a survey, done in August 
+2009 by Reader’s Digest international staff, with the question: 
+“How often do you call your mother?” ① In India and China, the 
+percentage of people who call every day is higher than that of 
+people who call once a week. ② The percentage who call once 
+a week in Germany and Indonesia, is respectively higher than 
+that in any other country. ③ More than 30 percent of the 
+respondents in the United States call their mother every day. 
+④ The sum of the percentage who call every day and the 
+percentage who call once a week in Russia is bigger than that in 
+Canada. ⑤ The percentage who call every day in France is the 
+same as that in the United Kingdom.
 36. Snow leopard에 대한 다음 글의 내용과 일치하는 것은?
 Snow leopards are considered shy because they are rarely 
 seen in the wild. They live high in the mountains of central 

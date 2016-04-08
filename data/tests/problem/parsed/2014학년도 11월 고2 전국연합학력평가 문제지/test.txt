@@ -1,5 +1,4 @@
-[ 
-1번부터 17번까지는 듣고 답하는 문제입니다. 1번부터 15번까지는 
+[ 1번부터 17번까지는 듣고 답하는 문제입니다. 1번부터 15번까지는 
 한 번만 들려주고, 16번부터 17번까지는 두 번 들려줍니다. 방송을 
 잘 듣고 답을 하기 바랍니다.  
 1. 대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장 적절한 
@@ -283,6 +282,79 @@ Century A.D., Taoist and Confucian scholars engaged in a
 practice known as ‘pure talk’ ⑤ which they debated spiritual 
 and philosophical issues before audiences in contests that might 
 last for a day and a night.
+28. (A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 
+것은? [3점]
+Even before we were born, we were compared with others. 
+Through the latest medical technology parents may begin 
+comparing their children with other babies before birth. For the 
+rest of our lives, we are compared with others, and rather 
+than (A) celebrating / neglecting our uniqueness, comparisons 
+usually point up who is stronger, brighter, or more beautiful. 
+Comparisons such as “He has more money than I have” or “She 
+looks better than I look” are likely to (B) deflate / inflate our 
+self-worth. Rather than finding others who seemingly are better 
+off, focus on the unique attributes that make you who you are. 
+(C) Avoid / Consider judging your own value by comparing 
+yourself with others. A healthy, positive self-concept is fueled 
+not by judgments of others, but by a genuine sense of worth that 
+you recognize in yourself.
+(A) (B) (C)
+① celebrating …… deflate …… Avoid
+② celebrating …… inflate …… Avoid
+③ celebrating …… deflate …… Consider
+④ neglecting …… deflate …… Consider⑤ neglecting …… inflate …… Consider
+29. 밑줄 친 부분이 가리키는 대상이 나머지 넷과 다른 것은?
+Patrick’s neighbor had played the part of Santa Claus for 
+several years, creating a tradition of a visit from Santa to all 
+the children in the neighborhood. But one year, Santa had a cold 
+and asked whether Patrick could take over for ① him that day. 
+Instead of the neighbor, ② he wore the suit and passed out 
+candy canes to all the neighborhood children, convincing them 
+he was for real. “When I put on the suit, I actually felt like 
+Santa Claus,” Patrick says. When the old Santa saw how much 
+Patrick enjoyed the job, he told Patrick he would be happy to 
+let ③ him take over. Patrick has been playing Santa for so long 
+now that ④ he is beginning to see the children of the children 
+he saw as Santa when he first started out. But Patrick has no 
+plans to find a new man for the suit. “Santa never retires,” ⑤ he 
+says.
+[30 ~ 32] 다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.
+30. We live in an age of opportunity: If you’ve got ambition, 
+drive, and smarts, you can rise to the top of your chosen 
+profession ― regardless of where you started out. But with this 
+opportunity comes responsibility. Companies today aren’t 
+managing their knowledge workers’ careers. Rather, we must 
+each be our own chief executive officer. Simply put, it’s up to 
+you to keep yourself engaged and productive during a work life. 
+To do all of these things well, you’ll need to                       . 
+What are your most valuable strengths and most dangerous 
+weakness? Equally important, how do you learn and work with 
+others? What are your most deeply held values? The 
+implication is clear: Only when you operate from a combination 
+of your strengths and self-knowledge can you achieve true ―
+and lasting ― excellence.
+① follow your company’s philosophy 
+② make substantial profits for the company
+③ cultivate a deep understanding of yourself
+④ stay on good terms with your co-workers   
+⑤ provide yourself with rewards for your efforts
+31. In order to succeed, a work of art must                          , 
+but this requirement is not about the nature of art so much as 
+about the nature of the human perceptive apparatus. Without 
+sufficient size, no object can be perceived as having parts that 
+can be arranged in a pattern, or a perceptible structure. A lion 
+or a shark, therefore, can be beautiful, because their parts form 
+a meaningful, well-structured whole. A flea, however, cannot 
+be beautiful, not because it is a trifling or disagreeable animal, 
+but because it is too minute for the unaided eye to perceive 
+parts that are arranged meaningfully. A speck cannot possibly 
+by itself be beautiful; beauty is only possible where an object 
+has visible parts. [3점]
+① arouse the viewer’s desire 
+② be beyond human perceptions
+③ match the real size of the subject
+④ be above a certain minimum size
+⑤ be an expression of traditional values
 32. Consciousness is one of the most profound puzzles of 
 existence, and it is a cutting-edge topic of investigation among 
 scientists. How is it that mere physical processes in the brain 

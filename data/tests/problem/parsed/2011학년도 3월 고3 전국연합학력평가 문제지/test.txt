@@ -1,5 +1,4 @@
-[성명 수험번호
-◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
+[◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
 ◦ 답안지의 해당란에 성명과 수험 번호를 쓰고, 또 수험 번호와
 답을 정확히 표시하시오.
 ◦ 문항에 따라 배점이 다르니, 각 물음의 끝에 표시된 배점을
@@ -32,7 +31,6 @@
 ③ 학생회 선거 일정을 공지하려고
 ④ 학생회 운영 개선 방안을 제안하려고
 ⑤ 신입생 환영회 준비 모임을 알리려고
-3 1
 7. 대화를 듣고, 남자가 여자에게 부탁한 일을 고르시오.
 ① to enter the book quiz together
 ② to send the book list via e‑mail
@@ -342,8 +340,93 @@ of excess winter deaths each year.
 ③ contract ······ identify ······ expose
 ④ expand ······ intensify ······ adapt
 ⑤ expand ······ identify ······ adapt
-
-
+32. 다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지
+않은 것은?
+We tend to think of the skin as a separate organ― just a
+①wrapping of our more delicate inner parts. But the skin is
+connected to every system in the body― from your circular
+and digestive systems to your immune and nervous systems.
+All must work ② interactively for total body health. Both
+heart and skin, for example, rely on veins. This helps explain
+why, when you get angry, your heart beats faster and your
+face ③ reddens. This interconnectedness between the skin
+and the internal body is largely forgotten by people who see
+skin as a ④ connected entity. It’s a two‑way street. When
+we damage the skin, we damage our insides. Similarly, what
+we experience inside our bodies could have ⑤ indications on
+the outside.
+[33 ~ 34] 다음 글의 주제로 가장 적절한 것을 고르시오.
+33. For many generations, scholars and artists tended to
+concentrate their energy on one particular subject. For
+Shakespeare, that interest was literature. For Mozart, that
+interest was musical composition, and for Newton, physics.
+Visual artists were not expected to understand higher
+mathematics, nor were philosophers expected to study
+engineering. However, with the development of the Internet
+and other sources of instantaneous information, many people
+strive to gain at least a working knowledge of many different
+subjects. So‑called pancake people no longer concentrate their
+energies on one area of interest, but instead choose to
+spread themselves thinly over a large area. As a result, a
+new generation of pancake people have essentially become
+the proverbial jacks of all trades, but masters of none.
+① new jobs produced by the Internet
+② rise of the new generation of artists
+③ characteristics of young people’s thinking
+④ necessity of instantaneous information sources
+⑤ appearance of people with varied but superficial knowledge
+34. Bright colored foods frequently seem to taste better than
+bland‑looking foods, even when the flavor compounds are
+identical. Foods that somehow look off‑color often seem to
+have off tastes. For thousands of years, human beings have
+relied on visual cues to help determine what is edible. The
+color of fruit suggests whether it is ripe; the color of meat
+whether it is fresh. Flavor researchers sometimes use
+colored lights to modify the influence of visual cues during taste
+tests. During one experiment in the early 1970s, people were
+served an oddly colored meal of steak and French fries that
+appeared normal beneath colored lights. Everyone thought
+that the meal tasted fine until the lighting was changed.
+Once it became apparent that the steak was actually blue
+and the fries were green, some people became ill.
+① effect of color of food on taste perception
+② ways to improve the taste of food
+③ difficulty of preserving food
+④ growing popularity of food decoration
+⑤ factors influencing the nutritional value of food
+35. 다음 도표의 내용과 일치하지 않는 것은?
+The above graph shows how tuition fees and dorm and
+board costs for full‑time college students changed over the
+last 30 years. ①Over the period, both college tuition fees
+and dorm and board costs for full‑time students went up
+steadily. ②Of all the periods, the 1978‑1979 period was the
+only one when college students paid more for their dorm and
+board costs than for their tuition fees. ③During the
+1988‑1989 period, tuition fees surpassed dorm and board
+costs for the first time and the former cost more than the
+latter thereafter. ④The tuition fees of the 2008‑2009 period
+were more than twice those of the 1993‑1994 period. ⑤The
+gap between tuition fees and dorm and board costs was the
+biggest during the 2008‑2009 period.
+36. pilum에 관한 다음 글의 내용과 일치하는 것은?
+The pilum was a heavy spear, used for thrusting or
+throwing by Roman soldiers. It had a leaf‑shaped iron head,
+60 to 90 centimeters long, embedded in or socketed onto a
+wooden shaft with a short iron spike at the rear. Its length
+seems to have been around 163 centimeters, although
+examples as long as 274 centimeters were found in the
+excavation of a swamp site in Illerup, Denmark. Roman
+armies were the only ones who used the pilum, which may
+mean there were strict regulations on its manufacture and
+trade. During the second century A.D. there was a decline in
+the use of the pilum, but in the third and fourth centuries it
+regained its popularity and was used against the early
+barbarian invaders.
+① 가벼워서 쉽게 던질 수 있었다.
+② 전체가 철로 만들어졌다.
+③ 길이가 2미터가 넘는 것도 있었다.
+④ 누구나 쉽게 만들어 팔 수 있었다.
+⑤ 3세기 이후에는 사용되지 않았다.
 37. FMD에 관한 다음 글의 내용과 일치하지 않는 것은?
 Foot‑and‑Mouth Disease(FMD) is a highly contagious
 disease caused by a virus. It is almost exclusive to cattle,

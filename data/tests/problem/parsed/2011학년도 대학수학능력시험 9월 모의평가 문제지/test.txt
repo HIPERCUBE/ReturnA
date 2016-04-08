@@ -362,8 +362,85 @@ in the case of jokes that involve a play on words. They are
 difficult, and in some cases virtually ④ impossible to translate 
 into other languages. Therefore, this is why people’s attempts 
 to tell jokes to ⑤ foreigners are so often met with blank stares.
-
-
+33. 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?
+Many grocery stores give the shopper the option of paper 
+or plastic grocery bags. Many people instinctively say that 
+paper is less harmful to the environment― after all, paper is 
+biodegradable and recyclable. (A) , most plastic is 
+manufactured using oil by-products and natural gas. Plastic 
+is not always easily or economically recyclable, and once 
+manufactured, plastic may last virtually indefinitely. Yet in the 
+United States, paper products are the single largest component 
+of municipal waste. Even though paper products may 
+theoretically be biodegradable, in most landfills, they do 
+not biodegrade. (B) ,  paper production emits air 
+pollution, specifically 70 percent more pollution than the 
+production of plastic bags. And consider that making paper uses 
+trees that could be absorbing carbon dioxide. The paper bag 
+making process also results in three times more water pollutants 
+than making plastic bags.
+(A) (B)
+① In contrast …… Furthermore
+② In contrast …… However
+③ As a result …… Likewise
+④ For instance …… Nonetheless
+⑤ For instance …… Therefore
+[34～35] 다음 글의 주제로 가장 적절한 것을 고르시오.
+34. While predictions about the future are always difficult, 
+one can be made with certainty. People will find themselves 
+in large numbers of interactions where intercultural 
+communication skills will be essential. There are several 
+reasons for such prediction. Some reasons include increasing 
+amounts of contact brought on by overseas assignments in 
+the business world, the movement of college students 
+spending time in other countries, and increasing amounts of 
+international travel among tourists. Others relate to social 
+changes within any one large and complex nation: affirmative 
+action, the movement of immigrants and refugees, bilingual 
+education programs, and movement away from the goal that 
+ethnic minorities become a part of a ‘melting pot.’ Therefore, 
+it is essential that people research the cultures and 
+communication conventions of those whom they propose to 
+meet in the future.
+* affirmative action: 소수민족 차별 철폐 조치
+① predictions of social changes in other countries
+② necessity of understanding intercultural communication
+③ importance of good educators in a multicultural nation
+④ limitations of communication conventions across cultures
+⑤ methods of intercultural communication in the business world
+35. A famous psychiatrist was leading a symposium on the 
+methods of getting patients to open up about themselves. The 
+psychiatrist challenged his colleagues with a boast: “I’ll bet 
+that my technique will enable me to get a new patient to talk 
+about the most private things during the first session without 
+my having to ask a question.” What was his magic formula? 
+Simply this: He began the session by revealing to the patient 
+something personal about himself― secrets with which the 
+patient might damage the doctor by breaking the confidence. 
+As he was ‘maskless,’ patients began to talk about their lives. 
+They opened themselves up to him because he had become 
+an open-minded person himself, and openness evoked 
+openness. The same principle applies to all human relationships. 
+If you dare to take the initiative in self-revelation, the other 
+person is much more likely to reveal secrets to you.
+① being frank with patients with serious illness
+② opening up oneself to draw out the other person
+③ need of confidentiality between doctors and patients
+④ effects of a new treatment on psychological problems
+⑤ rebuilding broken relationships between close acquaintances
+36. 다음 도표의 내용과 일치하지 않는 것은?
+Familiarity of Five Social Media
+The bar graph above shows the familiarity of the 
+respondents with five prominent social media in 2007 and 
+2008. ① According to the graph, the social media that was 
+the most familiar in 2007 was blogging. ② In the following 
+year, social networking became the most familiar social 
+media. ③ Video blogging, which was the least familiar social 
+media in 2007, showed the biggest increase in familiarity 
+among the three media that showed an increase from 2007 
+to 2008. ④ Wikis showed a bigger decrease in familiarity 
+than podcasting from 2007 to 2008. ⑤ In 2008, podcasting 
+and wikis were the least familiar social media.
 37. 다음 글의 내용과 일치하는 것은?
 During the early 1980s, a team of Italian scientists carried 
 out a series of studies under a variety of circumstances on 
@@ -419,6 +496,7 @@ fondly. During? Well, reality seldom lives up to expectations,
 so plenty of things go wrong. As memory takes over, however, 
 the unpleasantness fades and the good parts remain, perhaps 
 to intensify, and even get amplified beyond reality.
+① 여행과 축제는 인생을 풍요롭게 하는 촉매제이다.
 ② 현실을 도외시한 예측은 부정적인 결과를 초래한다.
 ③ 바람직한 결과를 기대하면 현실의 어려움은 최소화된다.
 ④ 결과가 좋으면 나쁜 기억은 최소화되고 좋은 기억은 강화된다.

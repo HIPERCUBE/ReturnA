@@ -1,5 +1,4 @@
-[제 3 교시    성명
-◦ 문제지의 해당란에 성명과 수험 번호를 정확히 기입하시오.
+[◦ 문제지의 해당란에 성명과 수험 번호를 정확히 기입하시오.
 ◦ 답안지에 성명, 수험 번호와 답을 표기할 때에는 반드시 ‘수험생이 
 지켜야 할 일’에 따라 표기하시오.
 ◦ 문항에 따라 배점이 다르니, 각 물음의 끝에 표시된 배점을 참고하시오.
@@ -23,7 +22,6 @@
 5. 대화를 듣고, 남자가 여자에게 지불할 총 금액을 고르시오. 
 
 ① $20 ② $30 ③ $40 ④ $50 ⑤ $60
-수험번호 3         
 6. 다음을 듣고, 여자가 하는 말의 목적으로 가장 적절한 것을 고르시오.
 ① 건강관리의 중요성을 알리려고
 ② 의료비 환급 절차를 홍보하려고
@@ -120,101 +118,8 @@ Jane close. Many and many a night　⑤ she thus fell asleep in her
 mother’s arms. The memory of that picture has more than once 
 kept her from straying too far from the place of purity and safety 
 in which her mother’s arms held her.
-20. 다음 글의 목적으로 가장 적절한 것은?
-I’m an eleventh-grade student at Kalaua High School. Our 
-school is working to keep the environment clean. To help our 
-community take care of its trash problem, my science class has 
-decided to pick up all the trash along Booth Street on Saturday, 
-April 25. Would your grocery store please help us by donating 
-60 garbage bags? I have attached my teacher’s description of the 
-project, along with his signature. I will contact you on Saturday, 
-April 18, about this project. If your answer is yes, then I will 
-pick up the bags on April 24. In return for your donation, we will 
-mention your store in our news release.
-① 쓰레기 분리 배출을 권장하려고
-② 쓰레기봉투의 기부를 부탁하려고
-③ 환경 정화 활동의 중요성을 알려주려고
-④ 환경 보호 활동 시 유의사항을 설명하려고
-⑤ 거리 청소를 위한 자원봉사자를 모집하려고
-21. (A), (B), (C)의 각 네모 안에서 어법에 맞는 표현으로 가장 적절한 
-것은?
-When we enter a room, we immediately recognize the floor, 
-chairs, furniture, tables, and so forth. But when a robot scans 
-a room, it sees nothing but a vast collection of straight and 
-curved lines, (A) which / what it converts to pixels. It takes 
-an enormous amount of computing time to make sense out of 
-this jumble of lines. A computer sees only a collection of 
-circles, ovals, spirals, straight lines, curly lines, corners, and 
-so on. (B) Spending / Spent an enormous amount of computing 
-time, a robot might finally recognize the object as a table. But 
-if you rotate the image, the computer has to start all over 
-again. In other words, robots can see, and in fact they can see 
-(C) much / very better than humans, but they don’t understand 
-what they are seeing. 
-*jumble: 혼잡, 뒤범벅
-(A)     (B)  (C)
-① what …… Spent …… very
-② what …… Spending …… much
-③ which …… Spending …… much
-④ which …… Spent …… very
-⑤ which …… Spending …… very
-22. 다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?
-Although life is different from nonlife, it is not ① completely 
-different. Living things exist in a nonliving universe and depend 
-on ② it in many ways. Plants absorb energy from sunlight, and 
-bats find shelter in caves. Indeed, living things are made of the 
-same tiny particles ③ that make up nonliving things. What makes 
-organisms different from the materials that compose them ④ are 
-their level of organization. Living things exhibit not just one but 
-many layers of biological organization. This tendency toward 
-order is sometimes ⑤ modeled in a pyramid of life.
-23. 다음 글에서 전체 흐름과 관계 없는 문장은?
-The dream of employing beams of energy is actually not new. 
-The concept of using rays as a practical weapon is shown 
-through history and in old films. ① In 214 B.C., Archimedes is 
-believed to have created large batteries of solar reflectors that 
-focused the sun’s rays onto the sails of enemy ships. ② Ray guns 
-burst onto the science fiction scene in 1889 with H. G. Wells’s 
-classic War of the Worlds, in which aliens from Mars devastate 
-entire cities by shooting beams of heat energy. ③ In medical 
-science, doctors typically take advantage of ultrasonic waves in 
-surgical operations. ④ During World War II, the Nazis 
-experimented with various forms of ray guns. ⑤ Weapons 
-created from focused light beams entered the public imagination 
-with the James Bond movie Goldfinger, the first Hollywood film 
-to feature a laser.
-[24~27] 다음 글의 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.
-24.  Most people know what a check is: an authorization to pay a 
-designated amount of money out of an established account. But 
-what does a check look like? The obvious answer is that it is a 
-piece of paper and specially imprinted with the name and 
-number of the bank. Although most checks would meet this 
-description, not all checks have been so                  . Unless 
-specific laws or regulations specify otherwise, any legitimate 
-written authorization to pay money out of an account is an 
-acceptable check. Thus, checks have been written on 
-newspapers, handkerchiefs, and countless other unusual 
-materials. A Canadian bank cashed a check written on the shell 
-of a hard-boiled egg. A check of Manhattan Bank made of solid 
-steel was so heavy that it had to be carried by two men.
-① touchable ② diverse
-③ counterfeit ④ inconvenient
-⑤ conventional
-25.  Umbrellas and automobiles are different. Not just because of 
-size, function, and cost, but for a reason we seldom stop to 
-consider. A person can use an umbrella without buying another 
-product. An automobile, by contrast, cannot be used without 
-fuel, repair services, and spare parts. The umbrella, therefore, is 
-an individual, so to speak, delivering value to its user 
-irrespective of any other products. The auto, by contrast, is        
-. It completely depends on other products. So do  
-tape recorders, refrigerators, and thousands of other products 
-that work only when combined with others. The television set 
-would stare blankly into the living room if someone somewhere 
-were not transmitting images to it. 
-① a team player ② a status symbol
-③ a necessary evil ④ a modern convenience
-⑤ a must-have device
+
+
 26.  We’re constantly making decisions, ranging from what to eat 
 for dinner each night to whom we should marry, not to mention 
 all those flavors of ice cream. We base many of our decisions on 
@@ -304,6 +209,90 @@ pierced gently through the fine leaves.
 ① happy and joyful ② nervous and worried
 ③ cold and indifferent ④ lost and disappointed
 ⑤ sorry and apologetic
+31. 다음 글의 주장으로 가장 적절한 것은?
+We most strongly urge you to protect this nation as a country 
+that can grow organic and contamination-free crops. We need to 
+build on the reputation we have as a country to produce clean, 
+green, and uncontaminated good food. We would not like to put 
+that in danger by the release of genetically manipulated(GM) 
+organisms into our environment. The risks are far too high and 
+the potential damage would be devastating for the whole country. 
+For this reason, we urge you to design and implement very strict 
+rules and regulations on segregation and traceability for GM and 
+non-GM crops. We very strongly support regulations to ensure 
+growers can continue to grow and market non-GM products 
+without any fear of contamination.
+① 농업 진흥을 위한 지원책을 마련해야 한다.
+② 청정 농산물 보호를 위해 규제를 강화해야 한다.
+③ 불량식품 제조 판매에 대한 처벌을 강화해야 한다.
+④ 우량종 개발을 통하여 농업 생산성을 향상시켜야 한다.
+⑤ 유전자 변형 농산물의 역기능에 대한 연구를 시행해야 한다.
+32. 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?
+The first step in a bike training program is finding and 
+purchasing the proper equipment. If you do not already own a bike 
+or if you are in the market for a new one, you must assess your 
+goals as a cyclist before purchasing a bike. There are many 
+different types of bicycles for different types of riding; therefore, 
+you must match your bike with the primary type of riding you will 
+do.         (A)       , if you will always ride on paved surfaces, you 
+want a road bike with narrow, smooth tires that decrease drag and 
+ground friction as well as a light frame that will decrease weight 
+and make going up hills easier.           (B)         , if riding off road 
+is your passion, then you should purchase a mountain bike with a 
+sturdier frame than a road bike and with bigger, off-road tires 
+that grab the dirt for grip.
+(A)           (B)
+① For example …… On the other hand
+② For example …… To begin with
+③ Besides …… In short
+④ Besides …… Therefore
+⑤ Instead …… That is
+[33~34] 다음 글의 주제로 가장 적절한 것을 고르시오.
+33.  When people read critical essays, they usually look for “proof.” 
+Like scientists who require proof of the sort that they can 
+duplicate in their own laboratories, readers of criticism want 
+access to every process of inference, analysis, and deduction that 
+has led to your conclusions. However, if that requirement were 
+placed on literary analysis, a critical essay would be interminable, 
+since more can always be said about any interpretive point. 
+Therefore, providing persuasive proof of a major point is more 
+effective than attempting to prove every point in the critical 
+essays. Writers’ sound and concrete handling of major points 
+makes readers trust their judgment on lesser matters.
+① 평론의 효과적 논거 제시 방식
+② 과학이 평론에 미친 긍정적 영향
+③ 과학 관련 기사 작성 시 유의사항
+④ 논문 작성 시 색인 목록 작성 방법
+⑤ 자연과학 가설의 실증적 검증 절차
+34.  “A long, long, long time ago...” ― so begins every Korean fairy 
+tale. The repetition not only contributes to creating a stable, 
+calm tone for the narrative but also reflects the “triple repetition” 
+rule for Korean tales. The final repetition of “long” can 
+sometimes be substituted with something like “back when tigers 
+smoked pipes,” but it should never be omitted altogether. The 
+rule of threes does not apply only to the beginning sentence but 
+also to different elements throughout the story. For instance, in 
+Kongjui and Patjui, the Korean version of the Cinderella story, 
+Kongjui’s stepmother orders her to complete three impossible 
+chores. And in the tale of Sister Sun and Brother Moon, three 
+helpers each take turns rescuing the poor brother and sister from 
+the tiger’s tormenting. Less than three is always too few; more 
+than three is like too much frosting on a cake. 
+① ironic themes in Korean fairy tales
+② various numbers in Korean folk songs
+③ messages of hope in Korean fairy tales
+④ common characters of Korean folk songs
+⑤ significance of three in Korean fairy tales
+35. 도표의 내용과 일치하지 않는 문장은?
+The graph above shows preferences for electronic devices by 
+different age groups in 2007. ① The preference for televisions 
+of the over 62 age group is higher than that of the 18-26 age 
+group. ② Computers are more favored than televisions in the 
+18-26 age group. ③ Cellphones are less favored than the other 
+devices in the 41-50 age group. ④ In the 51-61 age group, 
+televisions rank as the highest preference, followed by 
+computers. ⑤ The smallest gap of preference between 
+televisions and cellphones is shown in the over 62 age group.
 36. American pika에 대한 다음 글의 내용과 일치하는 것은?
 The American pika is a small hamster-like animal with short 
 limbs and round ears. They spend most of the daytime searching 

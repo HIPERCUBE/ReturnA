@@ -1,0 +1,23 @@
+32. (A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 
+적절한 것은?
+Back in the 1870’s, Sholes & Co., a leading manufacturer of 
+typewriters at the time, received many (A) complaints /
+compliments from users about typewriter keys sticking 
+together if the operator went too fast. In response, management 
+asked its engineers to figure out a way to prevent this from 
+happening. The engineers discussed the problem and then one 
+of them said, “What if we (B) turned / slowed the operator 
+down? If we did that, the keys would not jam together nearly 
+as much.” The result was to have an inefficient keyboard 
+configuration. For example, the letters ‘O’ and ‘I’ are the third 
+and sixth most frequently used letters in the English language, 
+and yet the engineers positioned them on the keyboard so that 
+the relatively weaker fingers had to depress them. This ‘inefficient 
+logic’ pervaded the keyboard, and (C) triggered / solved the 
+problem of keyboard jam-up.
+(A) (B) (C)
+① complaints …… turned …… triggered
+② complaints …… slowed …… triggered
+③ complaints …… slowed …… solved
+④ compliments …… slowed …… solved
+⑤ compliments …… turned …… solved

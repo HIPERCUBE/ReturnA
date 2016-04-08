@@ -1,0 +1,21 @@
+31. The concept of humans doing multiple things at a time has 
+been studied by psychologists since the 1920s, but the term 
+“multitasking” didn’t exist until the 1960s. It was used to 
+describe computers, not people. Back then, ten megahertz was 
+so fast that a new word was needed to describe a computer’s 
+ability to quickly perform many tasks. In retrospect, they 
+probably made a poor choice, for the expression “multitasking” 
+is inherently deceptive. Multitasking is about multiple tasks 
+alternately sharing one resource (the CPU), but in time the 
+context was flipped and it became interpreted to mean multiple 
+tasks being done simultaneously by one resource (a person). It 
+was a clever turn of phrase that’s misleading, for even 
+computers can process only one piece of code at a time. When 
+they “multitask,” they switch back and forth, alternating their 
+attention until both tasks are done. The speed with which 
+computers tackle multiple tasks that 
+everything happens at the same time, so comparing computers 
+to humans can be confusing. [3점]
+① expels the myth ② feeds the illusion
+③ conceals the fact ④ proves the hypothesis
+⑤ blurs the conviction

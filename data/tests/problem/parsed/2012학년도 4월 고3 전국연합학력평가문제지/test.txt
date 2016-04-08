@@ -1,5 +1,4 @@
-[제 3 교시 성명 수
-◦ 문제지의해당란에성명과수험번호를정확히기입하시오.
+[◦ 문제지의해당란에성명과수험번호를정확히기입하시오.
 ◦ 답안지의 해당란에 성명과 수험번호를 쓰고, 또 수험번호와 답을
 정확히표시하시오.
 ◦ 문항에따라배점이다르니, 각물음의끝에표시된배점을참고하시오.
@@ -25,7 +24,6 @@
 ⑤ to check the weather
 5. 대화를듣고, 여자가지불할총금액을고르시오.
 ① $20 ② $27 ③ $30 ④ $45 ⑤ $50
-험번호 3 1
 6. 다음을듣고, 여자가하는말의목적으로가장적절한것을고르시오.
 ①새로설치한놀이기구를홍보하려고
 ②놀이기구운행시간단축을알려주려고
@@ -345,8 +343,98 @@ improving them.
 ③ As a result …… In other words
 ④ Nevertheless …… Consequently
 ⑤ Nevertheless …… In contrast
-
-
+32. 밑줄친부분중, 문맥상 낱말의 쓰임이 적절하지 않은것은?
+There are two categories of values: intrinsic and instrumental.
+Intrinsic values are those we uphold regardless of the benefits
+or costs. Patriotism, as a value, demands sacrifices and is
+sometimes ① advantageous as far as individual well-being is
+concerned. Nevertheless, hundreds of millions of people have
+died to ② defend their country throughout the course of
+history, because patriotism is an intrinsic value. In contrast, a
+value is instrumental when we support it because it is directly
+③ beneficial to us. Let us assume that a country is dedicated
+to economic growth and to this end emphasizes work,
+productivity, and investment. If decisions favorable to
+development only answer to an instrumental value of an
+economic nature, such as increased wealth, the country’s effort
+will ④ decline as soon as the degree of wealth is attained. That
+is why the intrinsic values are ⑤ indispensable for sustained
+development.
+33. (A)~(C)에서 문맥에 맞는 낱말을바르게짝지은것은?
+Hollywood producers buy the remake rights to Asian films as
+a shortcut around the uncertainties of coming up with ideas
+from the very beginning. This remake trend can be seen as
+a(n) (A) contradiction / acknowledgment of the ascendance
+of Asian popular cinema as a global cultural and economic force.
+For the first time in two decades, domestic productions
+(B) exceeded / maximized Hollywood imports at the Japanese
+box office in 2006. Even though the Korean government agreed
+in the same year to double the screen time allowed to foreign
+films, Korean movies continued their long-running trend of
+topping Korea’s own box office as well. These successes prove
+the quality of the popular movies being made there. Meanwhile,
+Hollywood, even at home, hasn’t found a way to reliably
+(C) attract / exclude dwindling audiences increasingly turning
+to television, the Web, and video games for their entertainment.
+(A) (B) (C)
+① contradiction …… exceeded …… attract
+② contradiction …… maximized …… exclude
+③ acknowledgement …… exceeded …… exclude
+④ acknowledgement …… maximized …… exclude
+⑤ acknowledgement …… exceeded …… attract
+[34 ~ 35] 다음글의주제로가장적절한것을고르시오.
+34. Museums have been the primary contemporary institutions
+upholding classical standards of artistic value. Recently,
+however, many philosophers have described the dilemma
+museums face in identifying their chief function: as storage
+places of valuable objects, or instead, as places to produce
+interesting experiences. The aims of scholarship and
+preservation of real objects are being displaced by an emphasis
+on virtual experiences and emotional rhetoric. Museums are
+decorated as entertainment palaces at the Disneyland, when
+they add jazzy modes of presentation, audio-phone tapes,
+fancy displays with buttons and videos, mega-gift shops, etc.
+The Pompidou Centre was revolutionary and attracted many
+kinds of people with add-ons such as cafes, restaurants,
+bookstores, theaters, a film section, etc.
+①museums’ efforts to secure more collections
+② changes in aims and functions of museums
+③ educational functions of art museums
+④ financial crises the art galleries face
+⑤ways to identify good art galleries
+35. Design can do more than we expect. It can sometimes change
+the world. Take health care, for example. A growing body of
+evidence is showing that improving the design of medical
+setting helps patients get better faster. In a study at
+Pittsburgh’s Hospital, surgery patients in rooms with ample
+natural light required less pain medication, and their drug costs
+were 21 percent lower, than their counterparts in traditional
+rooms. Design can also deliver environmental benefits. The
+green design movement is incorporating the principles of
+sustainability in the design of consumer goods. This approach
+not only creates products from recycled materials but also
+designs the products with an eye to their eventual disposal as
+well as their use.
+① elements to be considered in design
+② power of design to improve our lives
+③ general tendency to pursue beauty
+④ necessities for the green design
+⑤ new trend of sustainable design
+36. 도표의내용과일치하지 않는 문장은？
+The graphs above show the results of a survey done on
+consumers from Japan, China, Taiwan and Vietnam asking how
+much impact the Korean Wave had on their purchase of Korean
+products and what kind of Korean product they bought with the
+impact. ①More than 40% of the consumers answered the
+Wave had a huge impact or a significantly huge impact on their
+purchase of Korean products. ②The percentage of people who
+said it had a little impact is larger than that of those who
+answered little impact by 5%. ③ Interestingly, processed food
+has the highest rank in percentage among the Korean products
+purchased with the impact. ④This is followed by cosmetics
+with 22.5%, which is greater than the sum of clothes and
+accessories. ⑤ IT products and accessories have a similar
+percentage with a difference of only 0.2%.
 37. The Postclassical Period에 대한다음글의내용과일치하는것은?
 World historians increasingly use the term The Postclassical
 Period for the crucial period from the years 500 to 1450. This

@@ -300,8 +300,103 @@ Paris.
 ③ 단두대 사용에 반대하다가 목숨을 잃을 뻔했다.
 ④ 열전도에 관한 수학 이론으로 명성을 얻었다.
 ⑤ 이집트에서 프랑스로 돌아온 후 이상한 병에 걸렸다.
-
-
+[31～35] 다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.
+31. Sometimes all the outcomes customers are trying to achieve 
+in one area have a negative effect on other outcomes. This is 
+very common when companies are busy listening to the ‘voice 
+of the customer.’ Traveling salespeople, for example, may say 
+they want a smaller cell phone, but they may not have thought 
+about how hard that tiny phone will be to use. Carpenters may 
+request a lightweight circular saw without thinking about the 
+fact that it will no longer have the power to get through some of 
+the more difficult jobs. When customers make requests for new 
+product features, they are usually focused on solving just one 
+problem and are not thinking of how their requested solution 
+will . 
+In this situation, customers request new features but reject the 
+resulting product when they realize the ramifications of their 
+suggestions ― the added feature turns out to be worthless 
+because of the problems it causes.
+* ramification: 파생된 문제
+① impact other product or service functions
+② delay the introduction of innovative products
+③ induce other customers to make additional requests
+④ bring about excessive competition among companies
+⑤ discourage companies from listening to customers’ voices
+32. The success of human beings depends crucially on numbers 
+and connections. A few hundred people cannot sustain a 
+sophisticated technology. Recall that Australia was colonized 
+45,000 years ago by pioneers spreading east from Africa along 
+the shore of Asia. The vanguard of such a migration must have 
+been small in number and must have traveled comparatively 
+light. The chances are they had only a sample of the 
+technology available to their relatives back at the Red Sea 
+crossing. This may explain why Australian aboriginal 
+technology, although it developed and elaborated steadily over 
+the ensuing millennia, was lacking in so many features of the 
+Old World ― elastic weapons, for example, such as bows and 
+catapults, were unknown, as were ovens. It was not that they 
+were ‘primitive’ or that they had mentally regressed; it was 
+that they  
+and did not have a dense enough population and therefore a 
+large enough collective brain to develop them much further. [3점]
+* catapult: 투석기
+① were too tightly connected to develop new technologies
+② focused on developing and elaborating elastic weapons
+③ had arrived with only a subset of technologies
+④ inherited none of their relatives’ technologies in Africa
+⑤ failed to transfer their technical insights to the Old World
+33. Policymaking is seen to be more objective when experts 
+play a large role in the creation and implementation of the 
+policy, and when utilitarian rationality is the dominant value 
+that guides policy. Through the use of the scientific method to 
+determine the facts of any given policy situation, the power of 
+social constructions is supposedly diminished, and solutions to 
+social problems are discovered in an objective way. This 
+process creates an illusion of neutrality and implies a 
+transcendence of the pitfalls and inequalities commonly 
+associated with policymaking. From this perspective, scientists 
+and professionals emerge as the appropriate experts to be 
+consulted in policymaking, while local citizen input and 
+knowledge is often viewed as unnecessary. Scientific and 
+professional policy design does not necessarily escape the 
+pitfalls of degenerative politics. Scientific and professional 
+expertise often relies on a particular type of knowledge that is 
+limited to utility and rationality considerations. This approach 
+to policy typically does not consider values and cultural factors 
+that cannot be measured empirically. Scientifically designed 
+policies can serve interests that run counter to the public 
+interest. They . [3점]
+* transcendence: 초월
+① reveal objective solutions to social problems
+② can reinforce unequal and unjust relationships
+③ may be free from the inequalities of policymaking
+④ do stress cultural values rather than utilitarian ones
+⑤ use empirically proven theories to reflect locals’ input
+34. Like many errors and biases that seem irrational on the 
+surface, auditory looming turns out, on closer examination, to 
+be pretty smart. Animals like rhesus monkeys have evolved 
+the same bias. This intentional error functions as an advance 
+warning system, manned by the self-protection subself, 
+providing individuals with a margin of safety when they are 
+confronted with potentially dangerous approaching objects. 
+If you spot a rhinoceros or hear an avalanche speeding 
+toward you, auditory looming will motivate you to jump 
+out of the way now rather than wait until the last second. 
+The evolutionary benefits of immediately getting out of the 
+way of approaching dangers were so strong that natural 
+selection endowed us ― and other mammals ― with brains 
+that . Although 
+this kind of bias might inhibit economically rational 
+judgment in laboratory tasks, it leads us to behave in a 
+deeply rational manner in the real world. Being accurate is not 
+always smart. [3점]
+* avalanche: 눈사태
+① intentionally see and hear the world inaccurately
+② are geared to evaluate aural information precisely
+③ deliberately make rational yet ineffective decisions
+④ prompt us to overlook dangers without thinking rationally
+⑤ accurately detect, but irrationally ignore, approaching dangers
 35. Mathematics will attract those it can attract, but it will do 
 nothing to overcome resistance to science. Science is universal 
 in principle but in practice it speaks to very few. Mathematics 

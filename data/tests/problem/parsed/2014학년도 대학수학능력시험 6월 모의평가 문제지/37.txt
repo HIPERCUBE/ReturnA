@@ -1,22 +1,22 @@
-37. All human societies have economic systems within which 
-goods and services are produced, distributed, and consumed. 
-In one sense, the economic aspect of culture is simply the sum 
-of the choices people make regarding these areas of their 
-lives. These choices critically determine much of people’s 
-lives. (A) , choosing to become a farmer rather 
-than an insurance broker may determine where you live, who 
-you are likely to meet, the sorts of behaviors you will expect 
-in your spouse and offspring, and so on. However, such 
-choices are not unlimited; rather, they are limited by our 
-cultures, traditions, and technologies. (B) , our 
-environments set the boundaries within which choices about 
-the production, distribution, and consumption of goods and 
-services are made. To the extent that economic systems are 
-part of culture, people in different cultures have different sorts 
-of economic behavior.
+37. 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한  
+것은?
+When plants were first grouped together, it was merely for 
+convenience. Even today, plants may be categorized together 
+in unnatural groupings in order to make them easier to 
+identify. (A) , some wildflower books arrange 
+together all white-flowered species or all yellow-flowered 
+species. However, such groupings do not reflect natural 
+relationships and make it difficult to recognize family 
+characteristics. We don’t infer that all persons with red hair 
+are more closely related to each other than they are to those 
+with dark hair; likewise, all long-haired dogs are not more 
+closely related to each other than they are to short-haired 
+dogs. Modern botanists, (B) , try to group plants 
+according to their natural relationships.
+* botanist: 식물학자
 (A) (B)
-① By contrast …… Consequently
-② For example …… Conversely
-③ For example …… Furthermore
-④ Similarly …… Instead
-⑤ Similarly …… Nevertheless
+① For example …… moreover
+② For example …… therefore
+③ In contrast …… however
+④ In contrast …… therefore
+⑤ Nevertheless …… however

@@ -1,5 +1,4 @@
-[성명 수험번호
-◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
+[◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
 ◦ 답안지의 해당란에 성명과 수험 번호를 쓰고, 또 수험 번호와
 답을 정확히 표시하시오.
 ◦ 문항에 따라 배점이 다르니, 각 물음의 끝에 표시된 배점을
@@ -24,7 +23,6 @@
 ⑤ 수신 번호로 연락하기
 5. 대화를 듣고, 남자가 목적지까지 가는 데 걸릴 시간을 고르시오.
 ① 5분 ② 10분 ③ 15분 ④ 20분 ⑤ 25분
-2 1
 6. 다음을 듣고, 남자가 하는 말의 목적으로 가장 적절한 것을 고
 르시오.
 ① 아파트 대청소를 안내하려고
@@ -294,6 +292,85 @@ crossbar mean one thing when they are situated between T
 and E, and they mean ⑤ another thing when they are
 between C and T.
 * squiggle: 비틀린 문자
+31. 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?
+South Korea has the 13th largest economy in the world,
+but the Anholt­Gfk Roper Nation Brands Index has ranked its
+global image at only 33rd among nearly 200 countries
+surveyed every year. (A) , the South Korean
+government has created a list of the top ten things that the
+nation must do to increase its global image. The first thing
+on the government’s list is to increase international
+awareness of South Korean culture and the Korean language.
+(B) , the government has decided to actively
+promote the national sport of taekwondo within Korea and
+abroad and unify international Korean language schools under
+the name “King Sejong Institute.”
+(A) (B)
+① In response …… For instance
+② In response …… Similarly
+③ In addition …… Similarly
+④ In addition …… For instance
+⑤ In contrast …… In fact
+[32～33] 다음 글의 주제로 가장 적절한 것을 고르시오.
+32. If you want to interact with people in a country, staying
+on ranches and cattle farms offers a great opportunity for a
+cross­cultural exchange and a real experience of life in
+another country. With more hands­on activities you can
+practice a new language, learn to cook traditional dishes, or
+see a neighborhood through the eyes of someone who lives
+there. By the time you leave, you feel less like a guest and
+more like a member of the family. For travelers on a
+budget, farmstays can be a real bargain over hotels and
+other types of accommodation.
+① types of farmstays
+② rules for farmstays
+③ advantages of farmstays
+④ inconveniences of farmstays
+⑤ ways of arranging farmstays
+33. In 1808, when the slave trade was banned, many
+southerners in the U.S. thought that slavery would soon end.
+But the expectation proved false. During the next generation,
+new factors made slavery far more profitable than it had
+been before 1790. One of the main factors was the rise of a
+great cotton­growing industry in the South. At the same
+time, the Industrial Revolution, which made textile
+manufacturing a big business, greatly increased the demand
+for raw cotton. Moreover, the opening of new lands in the
+west after 1812 vastly extended the area available for
+cotton cultivation.
+① 미국 내 면방직 산업의 경제적 효과
+② 미국 내 노예 제도가 존속되었던 이유
+③ 미국 내 노예 소유에 대한 상반된 의견
+④ 미국 서부 개척에 따른 면화 생산량 증가
+⑤ 미국의 노예 제도가 산업혁명에 미친 영향
+34. 다음 글에서 필자가 주장하는 바로 가장 적절한 것은?
+Here is a big secret of life on earth. The more nice things
+you say, the more nice things you will hear or see. What
+matters is not how much you say, but how much nice stuff
+you say. However, what if only negative thoughts are in
+your mind? In that case, saying nothing is so much better
+than saying something hurtful, angry, or bad. It gives you
+some time to cool down and to figure out why you’re so
+angry. Saying nothing prevents you from saying something
+you can never take back. You can’t get into trouble for
+something you never say.
+① 말수가 적은 사람은 스스로 고쳐야 한다.
+② 상처 받은 마음을 솔직하게 표현해야 한다.
+③ 좋은 말을 할 수 없다면 침묵하는 것이 더 낫다.
+④ 다른 사람들이 말하는 도중에 끼어들지 않아야 한다.
+⑤ 수다스러운 사람에게는 그의 단점을 알려 주어야 한다.
+35. 다음 도표의 내용과 일치하지 않는 문장은?
+The above graph shows the real GDP growth rate of
+Egypt, the World average rate and the MENA average rate
+from 2003 to 2008. ①Though the real GDP growth rate of
+Egypt was the lowest in 2003, it ranked top among the
+three in 2008. ② Egypt recorded the highest leap in the real
+GDP growth rate between 2005 and 2006. ③ In 2003, the
+World average rate was almost twice as high as that of
+Egypt. ④The World average rate stayed within the range of
+5% and 7% from 2003 to 2008. ⑤ In 2008, the MENA
+average rate was less than half of the real GDP growth rate
+of Egypt.
 36. Toco toucan에 관한 다음 글의 내용과 일치하는 것은?
 The Toco toucan is at home in South America’s tropical
 forests but can be seen everywhere. Its oversized, colorful

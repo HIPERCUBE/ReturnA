@@ -1,5 +1,4 @@
-[성명 수험번호
-◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
+[◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
 ◦ 답안지의 해당란에 성명과 수험 번호를 쓰고, 또 수험 번호와
 답을 정확히 표시하시오.
 ◦ 문항에 따라 배점이 다르니, 각 물음의 끝에 표시된 배점을
@@ -25,7 +24,6 @@
 ⑤ to help her put snow chains on the car
 5. 대화를 듣고, 여자가 지불할 총 금액을 고르시오.
 ① $72 ② $77 ③ $80 ④ $85 ⑤ $90
-3 1
 6. 다음을 듣고, 남자가 하는 말의 목적으로 가장 적절한 것을
 고르시오.
 ① 테니스공 기증을 요청하려고
@@ -90,6 +88,7 @@ Woman:
 ② You have to give it back in an hour.
 ③ Camping is not allowed here in the park.
 ④ Why not? I’d like to go hiking for a change.
+⑤ Thanks. Tell your dad we’re waiting for him.
 17. 다음 상황 설명을 듣고, Ms. Green이 Henry에게 할 말로
 가장 적절한 것을 고르시오.
 Ms. Green:
@@ -323,6 +322,93 @@ heads.
 ③ for example …… Similarly
 ④ however …… In fact
 ⑤ however …… For example
+31. 다음 글에 드러난 필자의 심정으로 가장 적절한 것은? [1점]
+When I moved into a two‐bedroom flat with Ally, I thought
+we could get on well. Initially, everything seemed fine.
+Then, as the weeks passed, things began to change. When I
+went out, she’d sneak into my room and read my journal.
+She would put on my clothes and cosmetics without my
+permission. Once, she took off all the framed photos of
+mine, which were very important to me, and hung a large
+frame of abstract painting instead. It was the last straw,
+however, when she started spreading rumors; she told my
+friends that I got addicted to computer games, which wasn’t
+true. When I confronted her, she denied it. But I couldn’t
+stand her any more.
+① safe and relieved ② upset and annoyed
+③ bored and indifferent ④ pleased and grateful
+⑤ excited and anticipating
+[32～33] 다음 글의 주제로 가장 적절한 것을 고르시오.
+32. Trust is the basis of all transactions. It’s the basis of the
+economy. World Bank economist Stephen Knack has long
+studied the economics of trust. According to him, the huge
+disparity in income between the United States and Somalia
+can be explained entirely as a disparity in trust. Put
+differently, the income enjoyed by the American people is
+0.5 percent the result of hard work and 99.5 percent the
+result of trust. While that sounds extreme, there’s something
+to it if you consider how market transactions and business
+activities are impossible without it. Without adequate trust,
+the cost of transactions rises and there are even times when
+mutually beneficial transactions cannot be realized.
+* disparity 불균형
+① 전자 상거래의 보편화
+② 신용거래의 잠재적 위험성
+③ 국가 간 빈부 격차의 심화
+④ 정치가 경제에 미치는 영향
+⑤ 경제 활동에서 신뢰의 중요성
+33. We think of butterfly wings as being colorful, but many
+are relatively drab on the underside. Some butterflies protect
+themselves through camouflage－by folding up their wings,
+they reveal the undersides and blend in with their
+surroundings. Through this strategy, they become nearly
+invisible to predators. Some other butterflies are brightly
+and distinctively colored, but they taste nasty. A bird that
+eats one of these butterflies remembers the experience－and
+avoids repeating it. Now other species of butterfly that do
+not taste nasty mimic the nasty ones. They are born looking
+like them in color and shape but not taste. Birds and lizards,
+who have learned to avoid bold warning coloration, leave
+these imitators alone. * drab 칙칙한 갈색의
+① why butterflies travel long distances
+② how butterflies find their food
+③ how butterflies fool their predators
+④ why birds and lizards like butterflies
+⑤ why butterflies don’t have nests
+34. 다음 글의 주장으로 가장 적절한 것은?
+These days, lots of young people are worried about their
+future because of the economic recession. More seriously,
+even experts can’t predict what’s going to happen in the
+near future. They just say the financial crisis won’t be
+solved easily unlike the past. So, most young people,
+including recent graduates, have difficulty in getting jobs.
+Then, is there no way out? They should change direction!
+It’s time for them to turn their eyes to the other side of
+the world. They don’t necessarily have to realize their
+dreams home. Instead, they need to change their stage to
+perform on for their future. Of course, there are risks
+involved. However, they can’t move forward if they are
+afraid of the risks.
+① 경제와 관련된 상식을 넓혀라.
+② 인생의 목표를 구체적으로 정하라.
+③ 전문가들의 조언을 귀담아 들어라.
+④ 취업을 위해 해외로 시선을 돌려라.
+⑤ 특화된 기술 개발로 창업을 준비하라.
+35. 다음 도표의 내용과 일치하지 않는 문장은?
+The graph above shows Americans’ ratings of their life
+today compared with their life five years ago. ①The
+percentage of people who said their life was better off was
+always higher than that of those who responded negatively.
+② Especially, between 1994 and 2002, more than half the
+respondents answered they were better off than five years
+ago. ③ In 1990, the percentage of those who answered
+positively was nearly twice as high as that of those who
+answered negatively. ④ From 1990 to 1996, the gap
+between the rates of the two groups increased steadily. In
+1996, the highest percentage of people had the positive view
+of their life. ⑤However, the year 2008 showed that about
+two-thirds of the respondents had the negative view of
+their life.
 36. FTF에 관한 다음 글의 내용과 일치하는 것은?
 The FTF is a trade association that promotes fair trade.
 The FTF traces its roots to the late 1970s when many
@@ -369,6 +455,7 @@ needle might injure her students. A man spends an hour
 every morning verifying that all the doors and windows are
 shut before he leaves for work. Yet this habit of checking
 doesn’t solve the worry at all, doubt still grows, and if it
+gets worse, it can lead to medical treatment.
 ① Care killed the cat.
 ② Every dog has his day.
 ③ Opportunity only knocks once.

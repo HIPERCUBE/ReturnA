@@ -1,5 +1,4 @@
-[성명 수험번호
-◦문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
+[◦문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
 ◦답안지의 해당란에 성명과 수험 번호를 쓰고, 또 수험 번호와
 답을 정확히 표시하시오.
 ◦문항에 따라 배점이 다르니, 각 물음의 끝에 표시된 배점을
@@ -32,7 +31,6 @@
 4. 대화를 듣고, 남자의 심정으로 가장 적절한 것을 고르시오.
 ① lonely ② jealous ③ pleased
 ④ relaxed ⑤ annoyed
-2
 5. 대화를 듣고, 여자가 구입할 모빌을 고르시오.
 ① ② ③
 ④ ⑤
@@ -294,8 +292,98 @@ problem.” [3점]
 ③ avoid reacting emotionally to a problem
 ④ focus on the problem, not the person
 ⑤ accept responsibility for a problem
-
-
+31. We all take for granted that colds and other illnesses
+have physical causes, such as a virus or bacterium. But
+we cannot always blame those disease agents for being
+sick. We need to take responsibility. Being under too
+much stress limits our ability to fight the viruses and
+bacteria all around us, because it weakens our immune
+responses. When the body’s resources are consumed by
+the stress response, we have no defenses left to battle
+real enemies within. It’s a scientific fact that colds and
+flu occur more often and with a slower recovery time in
+people under stress. Research has proven this with
+students at exam time, elderly people at the death of a
+spouse or friend, accountants during tax season, and
+military personnel during combat. The stress response
+explains why people under stress .
+[3점]
+① get sick more often
+② become angry easily
+③ avoid interpersonal relationships
+④ feel more responsibility for their tasks
+⑤ show better performance at exam time
+32. 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?
+An animal’s hunting behavior is innate and further
+refined through learning. Each species has a characteristic
+strategy. (A) , wolves and jackals are chasing
+predators; they run after their prey in packs until the
+victim gets tired, then they surround the exhausted prey
+while several pack members attack it simultaneously.
+Wolves coordinate their hunting through body
+movements, ear positioning, and vocalization, and the
+leader of the group has the privilege of eating first. Cats
+are, (B) , sneaky hunters. Whether they are small
+cats or large lions, felines approach their prey with quiet
+steps and then suddenly attack, using their claws to
+bring their victim down. A bite to the throat or back of
+the neck usually kills the victim. *feline 고양이과 동물
+(A) (B)
+① In addition …… however
+② Above all …… consequently
+③ Above all …… similarly
+④ For example …… therefore
+⑤ For example …… in contrast
+33. (A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장
+적절한 것은?
+Be a Pedal Pusher!
+We all know we should be walking
+more, but what about cycling? It is better
+at increasing fitness than walking as it
+gets your heart rate up and engages all of
+the major muscle groups. A large Danish
+study found a 39% (A) increase / reduction
+in the death rate among people who regularly
+cycled to work.
+Ride in comfort
+• Get a bike that fits
+(B) Adjust / Neglect the seat height so that your knees are
+slightly bent at the bottom of your pedal stroke. The ball
+of your foot should be on the pedal.
+• Switch seats
+Think a wide seat is best? Think again. For rides
+longer than 30 minutes, a (C) broader / narrower seat is
+best―this kind of seat makes it easier to sit up as there
+are fewer points of contact.
+• Cushion the bounce
+Buy a seat with springs―it’ll act as a shock absorber.
+(A) (B) (C)
+① increase …… Adjust …… broader
+② increase …… Neglect …… narrower
+③ reduction …… Adjust …… broader
+④ reduction …… Neglect …… narrower
+⑤ reduction …… Adjust …… narrower
+34. 다음 글의 주제로 가장 적절한 것은? [3점]
+There’s a lot of evidence that strong communities have
+less crime and survive disasters better. Here’s an example:
+the environmentalist film maker Judith Helfand is making a
+film about a massive heat wave in Chicago in 1995 that
+killed about six hundred people. She explains that the
+victims had one thing in common: they were socially
+isolated. They didn’t have friends or family or trusted
+neighbors to notice that they hadn’t been out of their house
+lately, or to check that their air conditioners were working
+well. In fact, three-quarters of Americans don’t know their
+neighbors. Judith argues that the best way to prevent
+deaths from future heat waves is not having a policy of
+handing out discount air conditioner coupons, but providing
+community-building activities that strengthen social ties
+throughout the year.
+① ways to take care of victims of crime
+② the necessity of building strong social bonds
+③ the relationship of one’s social status and health
+④ factors that affect the occurrence of natural disasters
+⑤ the importance of raising funds for the socially isolated
 35. 다음 도표의 내용과 일치하지 않는 문장은?
 This bar chart demonstrates the percentage of
 Americans over the age of 12 who used various digital
@@ -375,91 +463,8 @@ problems mentioned above. *whirlpool 소용돌이
 ③ Wind: The Best Alternative Energy
 ④ Efficient Ways to Generate Electricity
 ⑤ What Are the Functions of Wind Turbines?
-39. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한
-곳은?
-Disappointingly, however, a recent survey showed that
-nearly 59 percent of online social commerce users are
-not satisfied with it.
-Everyone loves good deals. There isn’t a single
-person in the world who wouldn’t want a great bargain.
-( ① ) And for this reason, the online social commerce
-market, a system of selling items through websites, is
-attractive since it can deliver cheap prices to consumers.
-( ② ) It has grown rapidly in only a year or two and it
-is expected to reach 1 trillion won by next year. ( ③ )
-With exaggerated advertising, and false reviews of the
-products piling up, consumers are quickly losing trust in
-this industry. ( ④ ) Therefore, they don’t believe the
-information on these websites anymore. ( ⑤ ) If this
-continues, it will only be a matter of time before the
-consumers turn away from this market.
-*trillion 조(兆)
-40. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?
-How do young trees begin? Trees make seeds that
-grow into saplings and they then grow into trees. Some
-seeds are fruits such as apples or cherries. Other seeds
-are nuts such as walnuts and chestnuts.
-(A) When the pine cone gets wet, the shell shrinks,
-keeping the inner seed nice and dry. Then when the
-cone dries, the shell expands, opening up to let the
-wind blow the seed away so it can grow somewhere
-else.
-(B) But seeds face many dangers. Animals like to eat
-fruit and nuts. And high winds and heavy rain can
-make seeds go bad or fall off the tree too soon.
-Those factors make it hard for seeds to grow into
-saplings.
-(C) So trees have evolved clever ways to keep their
-seeds safe from hungry animals and bad weather so
-that the seeds can eventually find good soil and
-grow. A pine tree hides its seeds in cones―a shell
-that can expand and contract with water.
-*sapling 묘목
-① (A) - (C) - (B) ② (B) - (A) - (C)
-③ (B) - (C) - (A) ④ (C) - (A) - (B)
-⑤ (C) - (B) - (A)
-[41～43] 다음 글을 읽고, 물음에 답하시오.
-(A)
-Moshi, one of my fellow volunteers, a girl from Tanzania,
-seemed a bit desperate, so I asked what the problem was.
-(a) She told me she had a friend back home who was
-having some financial difficulties. So she had sent all her
-pocket money for the month to Tanzania to support her
-friend!
-(B)
-So I went to the fair trade shop in town to buy some
-food for her. While picking up some stuff, I happened to talk
-to a woman working in the shop about my friend, Moshi.
-Amazed by the story, the woman asked me, “Does (b) she
-like pasta?” I replied, “Yes.” She immediately filled up a bag
-with pasta, cookies and other things. “Give her this for me.
-It’s my treat!”
-(C)
-I couldn’t believe (c) her kindness but cried with happiness.
-Imagine my friend’s face when she saw the unexpected gift. I
-have never seen her so happy! A few weeks later (d) she
-found the food giver and thanked her in person. They showed
-me what true kindness and compassion is.
-(D)
-This meant that Moshi didn’t have much food to eat or
-money to go anywhere. We got free lunch at work during
-weekdays, but everyone knew this wasn’t enough. I was so
-touched that she did this for (e) her friend and I felt I had
-to do something.
-41. 위 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장
-적절한 것은?
-① (B) - (D) - (C) ② (C) - (B) - (D)
-③ (C) - (D) - (B) ④ (D)- (B) - (C)
-⑤ (D)- (C) - (B)
-42. 밑줄 친 (a)～(e) 중에서 가리키는 대상이 나머지 넷과 다른
-것은?
-① (a) ② (b) ③ (c) ④ (d) ⑤ (e)
-43. 위 글의 내용과 일치하지 않는 것은?
-① Moshi는 고향에 있는 친구에게 돈을 보냈다.
-② 필자는 점원에게 Moshi의 이야기를 했다.
-③ Moshi는 뜻밖의 선물을 받았다.
-④ 필자는 주중에 무료로 점심을 먹는다.
-⑤ 필자는 마을 내 공정무역 상점에 일을 하러 갔다.
+
+
 [44～45] 다음 글을 읽고, 물음에 답하시오.
 A young boy and his father were out for a walk when
 they came across a huge rock in the road. The curious little

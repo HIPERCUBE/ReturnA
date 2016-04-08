@@ -1,0 +1,19 @@
+28. 다음 글의 밑줄 친 부분 중, 어법상 틀린 것은? [3점]
+The Greeks’ focus on the salient object and its attributes led 
+to ① their failure to understand the fundamental nature of 
+causality. Aristotle explained that a stone falling through the 
+air is due to the stone having the property of “gravity.” But of 
+course a piece of wood ② tossed into water floats instead of 
+sinking. This phenomenon Aristotle explained as being due 
+to the wood having the property of “levity”! In both cases 
+the focus is ③ exclusively on the object, with no attention 
+paid to the possibility that some force outside the object 
+might be relevant. But the Chinese saw the world as consisting 
+of continuously interacting substances, so their attempts to 
+understand it ④ causing them to be oriented toward the 
+complexities of the entire “field,” that is, the context or 
+environment as a whole. The notion ⑤ that events always 
+occur in a field of forces would have been completely 
+intuitive to the Chinese.
+* salient: 현저한, 두드러진
+levity: 가벼움

@@ -1,0 +1,15 @@
+36. When a certain word which is to be defined crops up in its 
+own definition, we call it a circular definition. The point of 
+defining a term is to explain its meaning; this obviously cannot   
+be achieved if you need already to understand the meaning of   
+the term in order to understand the definition.     
+. For example, 
+to define “stress” as “the physiological and psychological 
+responses to stressful situations” would be to give a circular 
+definition. This is because stressful situations are presumably   
+only recognizable from the fact that they tend to produce 
+stress: but the meaning of “stress” is the very thing which 
+someone requesting the definition is seeking to understand, 
+and so should not be presupposed in the definition. To define 
+“philosophy” as “the activity carried out by philosophers” would 
+be another example of a circular definition. [3점]

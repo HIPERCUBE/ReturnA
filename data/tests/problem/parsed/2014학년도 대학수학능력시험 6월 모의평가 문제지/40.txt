@@ -1,27 +1,17 @@
-40. 다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A)와 
-(B)에 들어갈 말로 가장 적절한 것은?
-A narrative is not a myth the first time it is told, but only a 
-story or an account. What makes a story a myth is the fact 
-that it is received by a given society and that a given society 
-participates in its transmission. Obviously, it is difficult to 
-determine just when any story becomes a myth, but it is 
-clear that a narrative is not a myth when it is first told. The 
-intentions of the first narrator and the last narrator can be 
-the same, but this still does not give any special status to the 
-creator of a myth. It is far more important to realize that the 
-intentions of a given society in transmitting a narrative may 
-have nothing to do with the purposes of its author. Thus we 
-can never identify any individual creator of a myth. So long 
-as myth is a collective narrative by definition, the only 
-relevant consideration are the mentality and purposes of the 
-society for which the myth is a myth.
-󰀻
-Given the (A)  nature of a myth, a narrative becomes 
-a myth only when a given society accepts and (B)  it, 
-regardless of the intentions of its author.
-(A) (B)
-① collective …… transmits
-② creative …… distributes
-③ mental …… modernizes
-④ primitive …… circulates
-⑤ social …… evaluates
+40. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?
+Lemonade is the perfect refreshment on a sunny day, and 
+it also contains a lot of vitamin C. Here’s a quick and easy 
+way to make lemonade.
+(A) Wash the lemons you’ve prepared and cut them in half. 
+Then, squeeze out as much juice as you can into a bowl. 
+You can squeeze the lemons by hand, but it’s easier if you 
+use a lemon squeezer.
+(B) Then simply mix together the lemon juice, sugar, and 
+water in a jug, and stir. Pour it into a glass, add some ice, 
+and enjoy your lemonade!
+(C) Prepare four lemons, 100g of sugar, one liter of water, 
+and some ice. You also need a bowl, a jug, and a spoon. 
+Don’t forget to prepare a cutting board and a knife.
+① (A) － (C) － (B) ② (B) － (A) － (C)
+③ (B) － (C) － (A) ④ (C) － (A) － (B)
+⑤ (C) － (B) － (A)

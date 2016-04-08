@@ -1,5 +1,4 @@
-[성명 수험번호
-◦문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
+[◦문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
 ◦답안지의 해당란에 성명과 수험 번호를 쓰고, 또 수험 번호와
 답을 정확히 표시하시오.
 ◦문항에 따라 배점이 다르니, 각 물음의 끝에 표시된 배점을
@@ -30,7 +29,6 @@
 ③ 소설 집필 과정을 설명하려고
 ④ 연말에 읽을 책을 추천하려고
 ⑤ 외국서적의 번역 오류를 지적하려고
-3
 7. 대화를 듣고, 여자가 남자에게 부탁한 일로 가장 적절한 것을
 고르시오.
 ① 객실 예약해 주기 ② 청소도구 정리해 주기
@@ -67,90 +65,8 @@ Package Type of Photos Gallery
 ③ 식사 공간에서 야생동물을 볼 수 있다.
 ④ 주변 500미터 안에 90종 이상의 조류가 서식한다.
 ⑤ 사파리 여행을 무료로 제공한다.
-13. 다음 그림의 상황에 가장 적절한 대화를 고르시오. [1점]
-① ② ③ ④ ⑤
-14. 대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장
-적절한 것을 고르시오.
-Man:
-① You should have made him a promise.
-② He deserves it. He did the best research.
-③ I don’t want to go there. It’s always over-booked.
-④ I know, but the earlier you let him know, the better.
-⑤ Don’t worry about it. The conference has been cancelled.
-15. 대화를 듣고, 남자의 마지막 말에 대한 여자의 응답으로 가장
-적절한 것을 고르시오.
-Woman:
-① Don’t worry. I can help you practice.
-② Thanks. Your decision was a big help to me.
-③ You’re right. There should be more bike lanes.
-④ There’re many bikes with various price ranges.
-⑤ I agree. We should buy more eco-friendly products.
-16. 대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장
-적절한 것을 고르시오.
-Man:
-① Let’s bring an extra map, just in case.
-② That’s okay. I don’t like tulips anyway.
-③ Of course. I’ll go to the tulip festival next spring.
-④ That’s amazing. I hope I can see the island some day.
-⑤ You should decide what country to discuss in your term paper.
-17. 다음 상황 설명을 듣고, Jennifer가 Brian에게 할 말로 가장
-적절한 것을 고르시오.
-Jennifer:
-① I’m not that interested in science.
-② I’m sorry. I didn’t know it was bothering you.
-③ I don’t understand why you’re so angry at me.
-④ Let me handle it. I’ll have a talk with him soon.
-⑤ I think you should ask me first before you use my things.
-이제 듣기․말하기 문제가 끝났습니다. 18번부터는 문제지의
-지시에 따라 답을 하기 바랍니다.
-18. 다음 글의 목적으로 가장 적절한 것은? [1점]
-Last week, your company came out to paint the stripes on
-our new parking lot. I was on vacation at the time but when I
-returned, I was appalled at the poor workmanship that was
-done. Some of the lines are shorter than others and most are
-uneven. Our patrons are not even sure how to park. We’ve
-finally had another company lined up to redo the work next
-week. The work your company did should be somehow
-removed. Please be advised you have until Friday of this week
-to be finished. I expect to see a clean blacktop surface ready
-for the new crew to begin work on. I myself will be overseeing
-this and expect to have the utmost cooperation.
-① 청소 작업 협조에 감사하려고
-② 주차료 인상에 대해 항의하려고
-③ 주차선 도색 제거를 요구하려고
-④ 신입사원 채용정보를 안내하려고
-⑤ 휴가일정 변경에 대해 상의하려고
-19. 밑줄 친 부분이 가리키는 대상이 나머지 넷과 다른 것은?
-Kalu, an elephant in the Central Park Zoo, trusted only one
-handler, a man named Albert Brockell. When Albert became
-sick with leukemia, Kalu refused to go inside to his quarters
-because ①his “main man” had not spoken the command. As
-winter approached, this became a serious concern. No one else
-could persuade ② him. He responded to an attempt at forcing
-him inside with anger, injuring the new would-be handler.
-Desperate zoo officials finally made a recording of Albert at the
-hospital, so Kalu could hear his voice ordering ③him to go
-inside. But Kalu refused to obey a mere recording. Finally
-Albert volunteered to be taken to the zoo in an ambulance.
-④He was delivered to the elephant’s side on a gurney. “Go
-inside, Kalu,” he said. Finally ⑤he obeyed.
-*gurney: 환자수송용 들것
-20. 다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?
-Schoolteacher Carol Tateishi writes that in her Asian
-upbringing, she was taught ① that silence is a sign of
-self-reliance and strength. She interviewed five Asian American
-secondary school students from various ethnic backgrounds.
-Even though their families spanned 100 years of immigration,
-some recurrent themes ②emerged, such as “you’re not
-supposed to say too much” and “talk could cause disrespect and
-harsh feelings.” The girls who entered U.S. schools as English
-language learners ③ feared speaking up because they were
-self-conscious about their language skills. Another girl
-mentioned that girls “were not supposed to speak unless
-④ speaking to.” Restraint in speech was valued by these
-students and their families, whereas speaking in class ⑤ is
-taken as intellectual engagement and meaning-making in U.S.
-classrooms.
+
+
 21. (A), (B), (C)의 각 네모 안에서 어법에 맞는 표현으로 가장
 적절한 것은?
 Empathy is made possible by a special group of nerve cells
@@ -347,6 +263,107 @@ can .” [3점]
 ③ prevent bacteria from contaminating the ocean
 ④ restore the natural habitat of endangered species
 ⑤ count on nature to handle all man-made disasters
+31. 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?
+When you learn a new skill, at first you need to concentrate
+in order to make your fingers, hands, and arms move in just
+the right way, based on what you see. What you’re learning
+is precision. After a while, (A) , the
+“seeing-thinking-doing” gradually becomes “seeing-doing”
+because your muscles seem to “know” and “remember” just what
+to do. What you are learning now is speed. That’s “muscle
+memory”. Of course, during the “drill-and-practice”, your muscles
+are not really memorizing anything. (B) , what you
+see with your eyes is interpreted by your brain in the form of
+nerve signals to your muscles to make your body move. Now
+by making the same movements in response to the same visual
+cues over and over again, the associated nerve-muscle
+connections gradually become more effective, and this is how
+the “thinking” in the “seeing-thinking-doing” is gradually
+replaced by “seeing-doing”.
+(A) (B)
+① for example …… Thus
+② for example …… Furthermore
+③ however …… Instead
+④ however …… Similarly
+⑤ therefore …… In contrast
+32. 다음글의밑줄친부분중, 문맥상낱말의쓰임이적절하지않은것은?
+Most visitors to zoos are convinced that the inmates live in
+①comfort, but this view is far from the truth in many cases.
+Many caged animals are in fact facing a survival problem as
+severe as that of their cousins in the ②wild. Well fed, well
+housed, well cared for, and protected from its natural enemies, the
+zoo animal in its super-Welfare State existence is bored, sometimes
+literally to death. According to some zoologists, the animal species
+which seem to react most strongly to this ③monotony are the
+ones that do not rely on one or two highly developed adaptations
+or “tricks” to survive in the wild. Normally seizing every
+opportunity to exploit the chances and variety of their
+surroundings, they are constantly ④exploring. It is not surprising
+that when such species are placed in the highly ⑤variable
+environment of a zoo cage, where there are few novel stimuli, they
+cannot accept any kind of enforced inactivity.
+33. (A), (B), (C)의각네모안에서문맥에맞는낱말로가장적절한것은?
+Financial markets have become more variable since exch[a3n점ge]
+rates were freed in 1973 and authorities seem to have lost control
+over them. As a result, interest rates and exchange rates now
+(A) fluctuate / stabilize more rapidly than at any time. At the same
+time, companies’ profit margins have been squeezed by the
+lowering of trade barriers and increased international competition.
+The result is that companies worldwide have been forced to learn
+to accept and deal with their financial (B) hazards / institutions . No
+longer can managers stick their heads in the sand and pretend that
+because their firms make cars, or sell soap powders, they need
+only worry about this year’s car or whether their new detergent
+washes whiter than Brand X. Many have found to their cost,
+(C) acknowledging / disregarding interest-rate, currency or commodity
+risks can hurt a company just as badly as the failure of a new product.
+(A) (B) (C)
+① fluctuate …… hazards …… acknowledging
+② fluctuate …… hazards …… disregarding
+③ fluctuate …… institutions …… acknowledging
+④ stabilize …… institutions …… disregarding
+⑤ stabilize …… hazards …… acknowledging
+[34～35] 다음 글의 주제로 가장 적절한 것을 고르시오.
+34. In order to efficiently use and measure time, everyone in
+the world would like to fix noon as the time at which the
+sun is at its highest point in the sky. However, this seems to
+be impossible without the use of time zones. Since the Earth
+rotates at the rate of 15 degrees every hour, the sun is at its
+highest point in the sky at different times in the day for
+different countries around the globe. The idea behind time
+zones is that we can divide the world into 24 equal slices or
+zones, 15 degrees each, and adjust the clocks accordingly for
+each zone. We can thus preserve the need to fix noon as the
+time when the sun is highest in the sky for each country,
+and also make it easy to understand times between different
+zones.
+① the reason why we have time zones
+② the origin of dividing a day into 24 hours
+③ international policies for daylight saving time
+④ the advantage of using the clockwise direction
+⑤ the inconvenience of traveling through different time zones
+35. All of us know that advertising does more than merely sell
+products and form consumption patterns: it informs, educates,
+changes attitudes, and builds images. However, we overlook
+that its enormous power is abused more often in developing
+countries by transnational corporations. Advertising in
+developing countries may facilitate the transfer of
+consumption patterns of developed countries to developing
+ones, by introducing needs which may not be appropriate,
+given the income and demand structure in these countries.
+Other unfavorable implications can arise for the developing
+countries as a result of misleading advertising which does not
+reveal the harmful effects of some products of transnational
+firms which, although banned in the developed market
+economies, are available in the developing countries because
+of insufficient regulation. Furthermore, aggressive advertising
+campaigns by transnational corporations in developing countries
+may overshadow domestic enterprises.
+① need for regulation of false international ads
+② rapid economic growth of developing countries
+③ changes of consumption patterns in developing countries
+④ current challenges to developed countries’ economic recovery
+⑤ bad effects of transnational firms’ advertising on developing countries
 36. 다음 도표의 내용과 일치하지 않는 문장은?
 The above graph shows the top five favorite literature genres in
 England by gender in 2008. ①According to the graph, history is
@@ -388,6 +405,7 @@ Seacole but the marriage was short-lived as he died in 1844. In
 asking to be sent as an army nurse to the Crimea, but she was
 refused. Undaunted, Mary funded her own trip to the Crimea
 where she established the British Hotel near Balaclava to
+provide comfortable quarters for sick and injured soldiers.
 ① 어머니에게서 간호 기술을 배웠다.
 ② 혼혈인이라는 이유로 공직자가 될 수 없었다.
 ③ 결혼한 지 10년도 안 되어 남편이 사망했다.

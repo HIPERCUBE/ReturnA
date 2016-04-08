@@ -14,3 +14,4 @@ harmful insects.
 ② limited ········ flow ········ remove
 ③ limited ········ blow ········ revive
 ④ extended ········ flow ········ remove
+⑤ extended ········ blow ········ revive

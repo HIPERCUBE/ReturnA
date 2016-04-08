@@ -1,5 +1,4 @@
-[성명 수험번호
-◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
+[◦ 문제지의 해당란에 성명과 수험 번호를 정확히 쓰시오.
 ◦ 답안지의 해당란에 성명과 수험 번호를 쓰고, 또 수험 번호와
 답을 정확히 표시하시오.
 ◦ 문항에 따라 배점이 다르니, 각 물음의 끝에 표시된 배점을
@@ -29,7 +28,6 @@
 ⑤ to visit the Customer Service
 5. 대화를 듣고, 여자가 지불할 총 금액을 고르시오.
 ① $ 160 ② $ 170 ③ $ 180 ④ $ 190 ⑤ $ 200
-3 1
 6. 다음을 듣고, 남자가 하는 말의 목적으로 가장 적절한 것을 고
 르시오.
 ① 놀이동산 개장 시간 변경을 안내하려고
@@ -261,6 +259,7 @@ mind and body are so well trained to act in unison that
 is virtually assured.
 ① fierce competition ② group cooperation
 ③ ultimate performance ④ public reputation
+⑤ visual observation
 27. The other day, while riding in an airplane flying at 30,000
 feet, I had a sudden realization. I knew nothing about the
 pilot, beyond the sound of his voice. I couldn’t even
@@ -359,103 +358,94 @@ must respect the insights and intelligence of the other.
 ② For example ······· In contrast
 ③ For example ······· In addition
 ④ However ······· In addition
+⑤ However ······· Consequently
+32. 다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지
+않은 것은?
+Girls usually agreed that wearing a uniform to school
+every day ① reduced their daily stresses. Not having to
+worry about what to wear meant one less decision to
+make every morning. Many of them also felt that the
+uniform ② enhanced school spirit and solidarity. They could
+feel like they belong to a community. Moreover, the
+uniforms ③ eliminated their individuality. If you want to
+know a thousand and one ways to ④modify a school
+uniform, just ask the girls who wear it: ties can be worn
+loosely or tight, and skirts can be raised or lowered in any
+of a half-dozen ways. Then there are accessories— a gray
+region in the dress code, but an entire subcontinent in the
+world of women’s apparel. There are a million ⑤ options in
+the domain of hairpins, watches, and bags alone.
+33. (A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장
+적절한 것은?
+Even an electronic car key can (A) cause / fight crime.
+After a thief broke into a car, the owner, alerted to the
+break-in by a neighbor, grabbed her car keys and hurried
+outside. When the burglar saw the owner approaching, he
+tried to exit the car. But the owner was too fast. She
+pressed the automatic “lock” button on the car’s remote key
+system, (B) releasing / trapping the burglar. When the bad
+guy unlocked the door, the owner locked it again before he
+could escape. Over and over the burglar tried to unlock the
+door, and over and over the owner relocked it. The burglar
+finally put up his hands in (C) surrender / resistance and
+waited for the police to arrive.
+(A) (B) (C)
+① cause ······· releasing ······· resistance
+② cause ······· releasing ······· surrender
+③ fight ······· trapping ······· surrender
+④ fight ······· releasing ······· surrender
+⑤ fight ······· trapping ······· resistance
+[34~35] 다음 글의 주제로 가장 적절한 것을 고르시오.
+34. The chef always wears a uniform in the kitchen. The
+uniform protects the chef from the food, and it also protects
+the food from the chef. In the first case, the long sleeves,
+long pants, and double-breasted jacket are a barrier against
+burns, spills, and splatters. Sturdy shoes guard against
+falling equipment and knives, and they also prevent the chef
+from slipping on floors made slippery by spilled food and
+grease. In the second case, the long sleeves, double-breasted
+jacket, and neckerchief protect the food from a sweating chef.
+The tall white chef’s hat keeps the chef’s hair out of his
+eyes and out of the food, and also, like the stars on a
+general’s hat or the distinctive hat of an admiral, makes it
+easy to see who is in charge in a crowded kitchen.
+① hidden dangers in the kitchen
+② the functions of the chef’s uniform
+③ the value of a well-organized kitchen
+④ the process of inventing a new dish
+⑤ the do’s and don’ts in the kitchen
+35. Try an interesting experiment. Call a friend and say, “I’m
+mad at you” in a tone that conveys that you aren’t― the
+tone you would use if the next sentence were something
+like, “You didn’t tell me about your promotion.” Then ask
+your friend if she thought you were truly angry. The answer
+will probably be no. Now imagine what would have happened
+if you had sent that friend an email that read, “I’m mad at
+you.” Our voice is a very subtle instrument and can convey
+every shade and nuance. An executive recruiter said she
+never uses email to check references. When she’s on the
+phone, a pause or a strained voice in response to a question
+about work habits can hint at a more complicated answer
+than the one she’s been given.
+① why expressing negative feelings is important
+② voice as a subtle instrument in communication
+③ the relationship between voice and personality
+④ how to be successful in a job interview
+⑤ how to interpret others’ emotions
+36. 다음 도표의 내용과 일치하지 않는 것은?
+This graph shows how much waste was produced from
+2006 to 2010 by our company. ① The total amount of
+waste produced each year was over 10,000 tons between
+2006 and 2008, but it fell to below 10,000 tons starting
+from 2009. ② The rate of recycling waste increased during
+the five-year period, reaching ninety-seven percent in
+2010. ③Meanwhile, the amount of recycled waste reached
+its peak in 2008. ④On the other hand, the waste that was
+disposed of in landfills decreased in amount during the years
+from 2006 to 2010. ⑤Especially in 2008, the landfill amount
+sharply decreased to less than half that of the previous year.
 
 
-37. ‘The object’에 관한 다음 글의 내용과 일치하는 것은?
-In 1898, a peculiar six-inch wooden object was found in a
-tomb in Egypt. ‘The object’ had a body, seven-inch wings
-that curved downward slightly, a fixed rudder, and a tail. It
-looked very much like a modern airplane. But as airplanes
-had not yet been invented in 1898, it was labeled as a
-model of a bird and just stored away in the basement of the
-Cairo Museum. In 1969, the object was rediscovered by Dr.
-Khalil Messiha, an authority on ancient models. According to
-him and to other researchers, it has characteristics of very
-advanced aerodynamics. The curved wings can attain great
-amounts of lift, and a similar design is employed on the
-Concorde aircraft. Was this just a child’s toy? Or was it a
-scale model of an aircraft the Egyptians planned to build...
-or built? Even if they did build a full-scale version of the
-aircraft, no evidence exists of it.
-* rudder: (비행기 등의)방향타
-① 1898년에 Khalil Messiha 박사가 발굴하였다.
-② 발굴 당시에는 비행기의 모형으로 생각되었다.
-③ 카이로 박물관으로부터 보관을 거절당했다.
-④ 날개의 모양이 콩코드 비행기와 비슷하다.
-⑤ 아동용 장난감이었다는 증거가 있다.
-38. Lake Vostok에 관한 다음 글의 내용과 일치하지 않는 것은?
-Miles underneath the ice in Antarctica lie liquid lakes. The
-largest of these is Lake Vostok, which is similar in size to
-Lake Ontario in Canada, but four times as deep. Lake Vostok
-was formed along geologic fault lines. It stays liquid because
-of the pressure of the glaciers above it and the heat from
-the geologic fault beneath. Lake Vostok is thought to have
-been sealed off from Earth’s atmosphere for half a million
-years. Samples of ice from near the surface of Lake Vostok,
-located under a glacier more than 3.2 km thick, contain
-microbes thought to have come from inside the lake.
-Scientists are working to create technology that will allow
-them to remove water samples from the lake and examine
-them for ancient life in a way that does not introduce
-contamination from the modern world.
-* fault: (지질) 단층
-① 남극 대륙의 빙하 아래에 존재하는 호수이다.
-② 단층선이 지나는 곳을 따라 형성되어 있다.
-③ 지상의 공기로부터 50만년 동안 차단된 것으로 여겨진다.
-④ 수면 근처의 얼음 샘플에서 미생물이 발견되지 않았다.
-⑤ 오염을 유발하지 않는 물 샘플 채취 기술이 개발되고 있다.
-[39~40] 다음 글의 요지로 가장 적절한 것을 고르시오.
-39. As a counselor, I often use the North Star as a metaphor.
-I tell clients: You are in a boat that is being tossed around
-by the winds of the world. The voices of your parents, your
-teachers, your friends, and the media can blow you east,
-then west, then back again. To stay on course you must
-follow your own North Star, your sense of who you truly
-are. Only by orienting north can you keep from being blown
-all over the sea. True freedom has more to do with
-following the North Star than with going whichever way the
-wind blows. Sometimes it seems like freedom is blowing
-with the winds of the day, but that kind of freedom is really
-an illusion. It turns your boat in circles. Freedom is sailing
-toward your dreams.
-① 다양한 의견을 듣고 진로를 정해야 한다.
-② 꿈을 이룰 자유는 누구에게나 보장되어야 한다.
-③ 적절한 순간에 도움을 주는 청소년 상담이 필요하다.
-④ 학교와 가정은 청소년을 보호하는 역할에 충실해야 한다.
-⑤ 외부의 영향에 휘둘리지 말고 뚜렷한 주관을 가져야 한다.
-40. “It’s great, it’s amazing, it’s so cool....” Can you tell from
-these whether it’s your coworker telling you about her new
-car, or your teenager son describing the new telephone he
-wants you to get him? I’m sure you can’t. We’ll believe your
-experience is amazing only if you tell us why. We need to
-know―what did you see? Hear? Touch? Taste? Smell? How
-did it make you feel? What did it remind you of? Notice
-when others are just saying, “great,” “amazing,” “bad,”
-“terrible.” Once you’ve spent some time observing others,
-you will want to change your own bad habits of using these
-meaningless words. Now, let’s practice: How was your day?
-Your sandwiches? The movie? Instead of blurting out, “It
-was great,” try to answer these questions as vividly as
-possible. Once you learn to do that, people will start
-referring to you as a master storyteller.
-① 상대방의 관심사에 따라 화제를 전환하라.
-② 자신의 기준만으로 다른 사람을 판단하지 말라.
-③ 자신의 경험을 잘 전달하려면 구체적으로 묘사하라.
-④ 긍정적인 반응을 통해 상대방이 말하도록 격려하라.
-⑤ 신뢰감을 얻으려면 어려운 어휘의 사용을 자제하라.
-[41~42] 다음 글의 제목으로 가장 적절한 것을 고르시오.
-41. In 2007, the Ecuadorean government announced that it
-intended to protect the oilfields located in the Yasuni
-Rainforest. It’s home to one of the world’s largest undeveloped
-oil reserves— close to one billion barrels’ worth. Not extracting
-that oil will prevent the release of an estimated 400 million
-tons of carbon into the atmosphere. Taking a stand for the
-Yasuni oilfield’s protection is a bold move, considering that
-about seventy percent of Ecuador’s income is from oil. To
-accomplish the plan, they asked the international community to pay
-them half of the income that would result from the extraction, or
-$350 million a year for a decade. This is a big deal: an
-innovative idea that other developing countries could employ to
 ① Keep the Oil Underground for the Earth
 ② Uncover the Hidden Costs of Cheap Oil
 ③ Secure International Aid for the Poor
@@ -498,6 +488,7 @@ they weren’t. They just shrugged their shoulders. “We
 know,” they said. “We hear you and Daddy talking, too.”
 ① (A) ‑ (C) ‑ (B) ② (B) ‑ (A) ‑ (C)
 ③ (B) ‑ (C) ‑ (A) ④ (C) ‑ (A) ‑ (B)
+⑤ (C) ‑ (B) ‑ (A)
 44. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한
 곳은?
 When the runners arrived they grabbed the figures— the

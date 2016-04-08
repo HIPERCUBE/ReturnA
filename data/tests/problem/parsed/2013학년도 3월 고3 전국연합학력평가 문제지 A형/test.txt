@@ -1,4 +1,4 @@
-[1번부터 22번까지는 듣고 답하는 문제입니다. 1번부터 20
+[1번부터 22번까지는 듣고 답하는 문제입니다. 1번부터 20 5.
 번까지는 한 번만 들려주고, 21번부터 22번까지는 두 번 들 고
 려줍니다. 방송을 잘 듣고 답을 하기 바랍니다. ①
 ②
@@ -33,6 +33,7 @@
 ② ③
 ① ④
 ⑤
+다음을 듣고, 남자가 하는 말의 목적으로 가장 적절한 것을 
 르시오. [3점]
 역사 학습용 게임을 홍보하려고
 강의의 개요와 목적을 설명하려고
@@ -71,6 +72,7 @@
 May 12, 2013
 8 P.M.
 Orange Theater
+11. 대화를 듣고, 남자가 여자를 위해 할 일로 가장 적절한 것을 18.
 고르시오. 적
 ① 학생 상담 센터 소개해 주기 M
 ② 안전 교육 자료 제작해 주기
@@ -106,14 +108,15 @@ Orange Theater
 ⑤ 전년도 참가자에게는 참가 우선권이 주어진다.   ④
 ⑤
 17. 다음 표를 보면서 대화를 듣고, 두 사람이 선택한 활동을 
-고르시오.
-Highland National Park Adventures 22.①
+고르시오. 22.
+Highland National Park Adventures ①
 Activity Times Price ④
 ① Rail Bike 9:00 ~ 11:00 $ 150
 ② Rail Bike 13:00 ~ 15:00 $ 150
 ③ Rafting 9:00 ~ 12:00 $ 200
 ④ Rafting 13:00 ~ 16:00 $ 200
 ⑤ Rafting 13:00 ~ 17:00 $ 250
+대화를 듣고, 여자의 마지막 말에 대한 남자의 응답으로 가장 
 절한 것을 고르시오. 
 an:                                                      
 That’s good. I’d like to come at 5 p.m.
@@ -149,6 +152,7 @@ Can you show me another fashion magazine?
 퍼즐 ⑤ 크레용
 이제 듣기·말하기 문제가 끝났습니다. 23번부터는 
 문제지의 지시에 따라 답을 하기 바랍니다.
+23. 다음 글에서 필자가 주장하는 바로 가장 적절한 것은? 25.
 What would happen if you went to the soil and said, “Give 
 me some fruit. Give me some plants”? The soil would U
 probably respond, “Excuse me, sir, but you’re a little in
@@ -193,6 +197,7 @@ y
 ③ 근무 시간 연장에 대해 항의하려고 ③
 ④ 초과근무 수당 인상을 촉구하려고 ④
 ⑤ 근무 시간 조정 가능 여부를 문의하려고 ⑤
+ 다음 글의 요지로 가장 적절한 것은?
 A study by Terry A. Hartig, a psychology professor at 
 ppsala University in Sweden, tested a random group of 
 dividuals. He asked them to carry out a forty­minute 
@@ -230,56 +235,84 @@ ear, and practice sessions quarterly.
 시설 관리자의 다양한 임무
 주기적인 안전 훈련의 필요성
 직원 연수 프로그램의 문제점
-내용과 일치하는 것은? 내
-Parien Day at the Stamford Symphony
-An opportunity to attend a symphony concert: 
-“Ragtime Rendezvous”
-• The Stamford Symphony has offered us a stack of 
-tickets for our Parien students, parents, and staff at 
-the reduced rate of $ 30.00 per ticket (original price 
-$ 50.00). Each ticket purchased allows one student 
-free admission to the concert.
-• There will be a brief lecture on the program beginning 
-at 1:45 p.m. prior to the performance.
-• The concert will be held at the beautiful Palace 
-Theater in Stamford at 3:00 p.m. on Sunday, April 21.
-Please order your tickets from the Parien Music Office 
-prior to April 5. For more information or to request an 
-order form, please call the Music Office at: 655-3981. 
-The order form will not be available online.
-Parien Music Department ①
-① 티켓은 정상 가격에서 30달러가 할인된다. ②
-② 구매된 티켓 1매당 학생 1인이 추가로 입장할 수 있다. ③
-③ 공연이 끝난 후에 프로그램에 대한 강연이 있다. ④
-④ 티켓의 주문은 4월 5일부터 받기 시작한다. ⑤
-⑤ 주문서 양식은 온라인으로 제공된다.
-용과 일치하지 않는 것은?
-Forests for the Future
-Essay Competition
-1st Prize: $ 1000    2nd / 3rd Prizes: $ 500
-Entry Deadline: April 15, 2013
-Competition Guidelines
-• Answer one of the following three questions:
-- Why is it important to conserve forests?
-- What is threatening the health of forests where 
-you live?
-- What is a possible solution to help conserve 
-forests for the future?
-• Essays must have no more than 750 words.
-Details
-• Open to high school students, grades 9 - 12.
-• Winners will have their essays posted on our 
-website. Among the winners, only the first prize 
-winner will have his/her essay published in our 
-magazine.
-• Winners will be announced by May 31, 2013.
-에세이 제출 마감일은 4월 15일이다.
-주어진 주제 중 하나를 선택하여 에세이를 쓴다.
-에세이는 750 단어 이내로 작성되어야 한다.
-고등학생들에게 참가 자격이 주어진다.
-모든 수상작이 잡지에 게재된다.
 
 
+29. 신입생 오리엔테이션에 관한 다음 안내문의 내용과 일치하지 31.
+않는 것은?
+Please join us for the New Students’ Orientation on 
+Friday, August 23, 2013.
+During the orientation you will have the chance to learn about 
+our school curriculum and meet our teachers and fellow 
+students.
+Time
+• The orientation will take place from 11:30 a.m. to 
+1:30 p.m.
+• Admission for guests begins at 10:30 a.m.
+Location
+• Rockwell Cage in the Johnson Athletics Center
+• Please note that Rockwell Cage is not air­conditioned: bp
+guests should dress accordingly for the outdoor 7
+temperature. 2
+Seating ③
+• Freshmen will be seated on the 1st floor. in
+• Room for guests will be prepared on the 2nd floor. o
+There will be a performance by the seniors at the end of the 2
+orientation. e
+① 신입생에게 학교 교육과정에 대해 안내한다.
+② 손님은 오전 10시 30분부터 입장이 가능하다.
+③ 행사장에는 냉방장치가 가동되지 않는다.
+④ 신입생과 손님은 같은 층에 앉는다. 32.
+⑤ 선배 학생들의 공연이 예정되어 있다. 적
+w
+s
+30. 다음 글에 드러난 ‘I’의 심경으로 가장 적절한 것은? stth
+I was staying at a hotel in Tokyo. I had been a guest for g
+about ten days and was returning to my room in the middle (
+of an afternoon. I took the elevator to my floor. Entering th
+the room, I immediately sensed that something was wrong. c
+Out of place. Different. I was in the wrong room! Someone p
+else’s things were distributed around the head of the bed (
+and the table. My first thoughts were, “What if I am o
+discovered here? How do I explain my presence to a p
+Japanese person who may not even speak English?” I 
+checked my key again. Yes, it really was mine. Clearly they 
+had moved somebody else into my room. But where was my ①
+room now? And where were my belongings? ②③
+① satisfied ② relaxed ③ envious ④
+④ bored ⑤ puzzled ⑤
+ 다음 도표의 내용과 일치하지 않는 것은?
+The above graph shows the change in the population of 
+ook readers between 2011 and 2012. ① Overall, the 
+ercentage of book readers declined from 78 % in 2011 to 
+5 % in 2012. ② The percentage of printed book readers in 
+012 was smaller than that of printed book readers in 2011. 
+In 2012, the percentage of those who read e­books 
+creased by 7 % compared to the previous year. ④ The 
+wnership of e­book reading devices decreased between 
+011 and 2012. ⑤ About one­third of the population owned 
+­book reading devices in 2012.
+(A), (B), (C)의 각 네모 안에서 어법에 맞는 표현으로 가장 
+절한 것은? [3점]
+Hairdressers are constantly servicing clients who come in 
+ith a picture clipped from a beauty magazine and tell the 
+tylist, “This is the look I want ―cut my hair like this.” A 
+ylist can just do the cut, take the money and (A) tell / telling
+e customer that she got exactly what she wanted. But a 
+ood stylist knows that what a customer thinks she wants 
+B) is / to be often not what she really wants. The “look” in 
+at picture will frequently not be the “look” on this particular 
+ustomer. Good stylists know that their job is not just 
+erfectly executing the cut they were asked for. They know 
+C) how / what the face and bone structure and the condition 
+f the hair would change the look in the client’s favorite 
+icture.
+(A) (B) (C)
+tell is how
+tell to be what
+tell is what
+telling to be how
+telling is what
+33. 다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 ①
 않은 것은? [3점] ②
 Sometimes athletes need to be allowed to practice their ③
 skills on their own before they receive feedback. That way ④
@@ -330,7 +363,8 @@ With spectator cooperation, the solution is for everyone to ②
 sit. The problem is that each spectator may be tempted to ③
 get a better view by standing. The cooperative solution needs ④
 to be attained ― in this situation,                          . ⑤
- each cheers his or her team
+ some of them stand up
+each cheers his or her team
 everyone remains seated
 all know basketball game rules
 people do what they want
@@ -373,6 +407,7 @@ however In contrast
 for example To sum up
 therefore In addition
 therefore Nevertheless
+38. 다음 글에서 전체 흐름과 관계 없는 문장은? [41
 Seasickness can occur anytime you board a sea vessel and 
 ruin your entire cruise trip. Fortunately, there are effective 
 ways to prevent or relieve it. ① As soon as you feel the 
@@ -419,7 +454,7 @@ sew the armholes closed and the bottom of the shirt
 closed. ①②
 ① (A) - (C) - (B) ② (B) - (A) - (C) ③
 ③ (B) - (C) - (A) ④ (C) - (A) - (B) ④
-⑤ (C) - (B) - (A) ⑤
+~ 42] 다음 글을 읽고, 물음에 답하시오.
 One day a pair of cardinals had built a nest in a tree 
 right outside the window I faced. Day after day, I 
 watched the parent birds feed their newly hatched 
@@ -455,7 +490,7 @@ led their offspring out
 fed their babies properly
 taught their offspring to sing
 cleaned their babies’ feathers
-warned their offspring of enemies
+[43 ~ 45] 다음 글을 읽고, 물음에 답하시오. 44.
 (A) ①
 It was a short flight. I’d brought only a carry­on bag, ②
 so I didn’t have to go to the baggage claim. A quick ③
@@ -501,8 +536,8 @@ cell phone, looking frantic, with a little girl at her side.
 ① (B) - (D) - (C) ② (C) - (B) - (D)
 ③ (C) - (D) - (B) ④ (D) - (B) - (C)
 ⑤ (D) - (C) - (B)
-8
- 약속 지키기의 중요성을 깨닫게 하는 것
+ 위 글의 밑줄 친 a reason의 내용으로 가장 적절한 것은?
+약속 지키기의 중요성을 깨닫게 하는 것
 뜻밖에 생긴 시간에 타인을 돕게 하는 것
 여행을 통해 진정한 휴식의 의미를 알게 하는 것
 진심 어린 충고로 상대방의 마음을 바꾸게 하는 것
