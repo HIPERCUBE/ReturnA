@@ -1,8 +1,4 @@
-# KSAT taking machine using Natural Language Processing
-## Abstract
-
-# 자연어처리를 활용한 수능 문제 풀이 장치
-## 요약
+# 진행상황 메모
 
 ## 수능 문제 데이터 분류
 PDF형태로 수능 문제 데이터에서 문제를 뽑아내고 분류하는 작업이 선행되어야한다.<br/>
