@@ -32,9 +32,12 @@ import java.util.regex.Pattern;
 public abstract class Parser {
     protected static String regexFind(Pattern pattern, String data) {
         String result = "";
-        Matcher matcher = pattern.matcher(data);
-        if (matcher.find()) {
-            result += matcher.group(0);
+        try {
+            Matcher matcher = pattern.matcher(data);
+            if (matcher.find()) {
+                result += matcher.group(0);
+            }
+        } catch (StackOverflowError ignored) {
         }
         return result;
     }
