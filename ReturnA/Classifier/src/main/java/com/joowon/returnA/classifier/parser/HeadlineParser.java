@@ -50,6 +50,7 @@ public class HeadlineParser extends Parser {
                 "7. 대화를 듣고,  자가 해야 할 일로 가장 적절한 것을 고르시오.\n" +
                 "답을 정확히 표시하시오.\n" +
                 "◦문항에 따라 배점이 다르니, 각 물음의 끝에 표시된 배점을";
+        System.out.println(data);
         System.out.println(parseTestName(data));
         System.out.println(parseTestType(data));
     }
