@@ -1,10 +1,11 @@
 package com.joowon.returnA.classifier.cv;
 
+import com.joowon.returnA.classifier.util.NumUtil;
 import org.opencv.core.*;
 import org.opencv.imgcodecs.Imgcodecs;
 import org.opencv.imgproc.Imgproc;
 
-import java.util.Arrays;
+import java.util.*;
 
 /**
  * Copyright (c) 3/30/16 Joowon Ryoo
@@ -32,11 +33,13 @@ import java.util.Arrays;
  */
 public class PdfPageDivider {
     public static void main(String[] args) {
-        for (int i = 1; i < 8; ++i) {
-            System.out.println(Arrays.toString(
-                    new PdfPageDivider("/Users/Joowon/Documents/Github/ReturnA/data/tests/problem/parsed/image_" + i + ".png")
-                            .divide()
-                            .findHeadLine()));
+        for (int i = 1; i <= 9; ++i) {
+            for (double[] a : new PdfPageDivider("/Users/Joowon/Documents/Github/ReturnA/imagea_" + i + ".png")
+                    .divide()
+                    .findBody()) {
+                System.out.println(Arrays.toString(a));
+            }
+            System.out.println("= = = = = = = = = = = ");
         }
     }
 
@@ -62,12 +65,12 @@ public class PdfPageDivider {
         Imgproc.Canny(gray, edges, lowThreshold, lowThreshold * ratio);
 
         lines = new Mat();
-        Imgproc.HoughLinesP(edges, lines, 1, Math.PI / 180, 50, 50, 10);
+        Imgproc.HoughLinesP(edges, lines, 10, Math.PI / 180, 50, 50, 10);
         return this;
     }
 
     public double[] findHeadLine() {
-        double[] currentResult = getCenterHorizontalLine();
+        double[] currentResult = getVerticalSeparations().get(0);
 
         double[] result = new double[2];
         result[0] = 0;   // Body start point Y
@@ -75,26 +78,57 @@ public class PdfPageDivider {
         return result;
     }
 
-    public double[] findBody() {
-        double[] currentResult = getCenterHorizontalLine();
+    /**
+     * result[][]
+     * [[x, y, width, height], [x, y, width, height]]
+     */
+    public double[][] findBody() {
+        List<double[]> separations = getVerticalSeparations();
+        Collections.sort(separations, (o1, o2) -> o1[0] < o2[0] ? -1 : o1[0] < o2[0] ? 1 : 0);
 
-        double[] result = new double[2];
-        result[0] = currentResult[3] / (double) img.height();   // Body start point Y
-        result[1] = currentResult[1] / (double) img.height();   // Body end point Y
-        return result;
-    }
+        if (separations.size() == 0) {
+            return new double[][]{
+                    {0, 0, img.width(), img.height()}
+            };
+        }
 
-    private double[] getCenterHorizontalLine() {
-        double[] result = new double[4];
-        double currentDistanceY = 0;
-        for (int i = 0; i < lines.cols(); i++) {
-            double[] val = lines.get(0, i);
-            double distanceY = Math.abs(val[1] - val[3]);
-            if (currentDistanceY < distanceY)
-                result = val;
+        double[][] result = new double[separations.size() + 1][4];
+        for (int i = 0; i < result.length; ++i) {
+            double val[] = null;
+            double beforeVal[] = null;
+            if (i != 0)
+                beforeVal = separations.get(i - 1);
+            if (i != separations.size())
+                val = separations.get(i);
+
+            if (i == 0) {
+                result[i][0] = 0;
+                result[i][1] = (double) NumUtil.getSmaller(val[1], val[3]);
+                result[i][2] = val[0];
+                result[i][3] = (double) NumUtil.getBigger(val[1], val[3]);
+            } else if (i == separations.size()) {
+                result[i][0] = beforeVal[0];
+                result[i][1] = (double) NumUtil.getSmaller(beforeVal[1], beforeVal[3]);
+                result[i][2] = img.width();
+                result[i][3] = (double) NumUtil.getBigger(beforeVal[1], beforeVal[3]);
+            } else {
+                result[i][0] = beforeVal[0];
+                result[i][1] = (double) NumUtil.getSmaller(val[1], val[3]);
+                result[i][2] = val[0];
+                result[i][3] = (double) NumUtil.getBigger(val[1], val[3]);
+            }
         }
         return result;
     }
+
+    private List<double[]> getVerticalSeparations() {
+        List<double[]> lineList = new ArrayList<>();
+        for (int i = 0; i < lines.rows(); i++) {
+            double[] val = lines.get(i, 0);
+            double distanceY = Math.abs(val[1] - val[3]);
+            if (img.height() / 2 < distanceY)
+                lineList.add(val);
+        }
+        return lineList;
+    }
 }
-
-
