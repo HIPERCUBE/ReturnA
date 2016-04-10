@@ -49,7 +49,8 @@ public class MongoDbManager {
         final Morphia morphia = new Morphia();
         morphia.mapPackage("com.joowon.returnA.classifier.db.dto");
         datastore = morphia.createDatastore(new MongoClient(host), DB_ReturnA);
-//        datastore.ensureIndexes();
+//
+//     datastore.ensureIndexes();
     }
 
     public void saveProblem(Problem problem) {
@@ -63,6 +64,6 @@ public class MongoDbManager {
 
     public static void main(String[] args) {
         MongoDbManager manager = MongoDbManager.getInstance("localhost:27017");
-        manager.saveProblem(new Problem("asdfasdf"));
+        manager.saveProblem(new Problem("test"));
     }
 }
