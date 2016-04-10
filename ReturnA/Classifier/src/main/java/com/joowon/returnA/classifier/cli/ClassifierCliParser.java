@@ -1,6 +1,5 @@
 package com.joowon.returnA.classifier.cli;
 
-import com.joowon.returnA.classifier.Classifier;
 import org.apache.commons.cli.*;
 
 /**
