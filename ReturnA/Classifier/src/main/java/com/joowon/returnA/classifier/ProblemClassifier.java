@@ -39,7 +39,7 @@ import java.io.IOException;
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
  * OTHER DEALINGS IN THE SOFTWARE.
  */
-public class Classifier {
+public class ProblemClassifier extends Classifier {
     public static void main(String[] args) throws IOException {
         ClassifierCliParser cliParser = new ClassifierCliParser(args);
         cliParser.parse();
@@ -50,15 +50,17 @@ public class Classifier {
             destinationParentDirectory.mkdirs();
         File[] sourcePdfList = sourceDirectory.listFiles();
 
+        // Parse problem datas
         assert sourcePdfList != null;
         for (File pdfFile : sourcePdfList) {
             try {
                 System.out.println(pdfFile);
-                Classifier classifier = new Classifier(PDDocument.load(pdfFile), destinationParentDirectory.getAbsolutePath());
-                File destinationDirectory = new File(destinationParentDirectory.getAbsolutePath() + "/" + classifier.getTestName());
+                ProblemClassifier problemClassifier = new ProblemClassifier(PDDocument.load(pdfFile), destinationParentDirectory.getAbsolutePath());
+                File destinationDirectory = new File(destinationParentDirectory.getAbsolutePath() + "/" + problemClassifier.getTestName());
                 destinationDirectory.mkdirs();
 
-                String text = ProblemParser.removeExceptionalText(classifier.getProblemText());
+                // Parse problem group
+                String text = ProblemParser.removeExceptionalText(problemClassifier.getProblemText());
                 new TxtWriter(destinationDirectory.getAbsolutePath() + "/" + "test.txt").write(text);
                 for (int i = 1; i <= 50; ++i) {
                     String group = ProblemParser.parseProblemGroup(text, i);
@@ -69,33 +71,32 @@ public class Classifier {
                         text = text.replace(group, "");
                     }
                 }
+
+                // Remove trash text
                 text = ProblemParser.removeExceptionalText(text);
+
+                // Parse problem
                 for (int i = 1; i <= 50; ++i) {
                     String problemText = ProblemParser.parseProblem(text, i);
-//                System.out.println(problemText);
                     String fileName = destinationDirectory.getAbsolutePath() + "/" + ProblemParser.parseProblemName(problemText) + ".txt";
                     System.out.println(fileName);
                     new TxtWriter(fileName).write(problemText);
                 }
-                classifier.close();
+                problemClassifier.close();
             } catch (Exception e) {
                 e.printStackTrace();
             }
         }
 
+        // Put data into MongoDB
         new TxtToMongoTransfer(destinationParentDirectory.getAbsolutePath(),
                 "localhost:" + MongoDbManager.DEFAULT_PORT)
                 .transfer();
     }
 
-    private PDDocument document;
-    private String destinationParentPath;
 
-    public Classifier(PDDocument document, String path) {
-        // Export images from PDF
-        this.document = document;
-        this.destinationParentPath = path;
-        PdfImageExport.export(document, path, "image");
+    public ProblemClassifier(PDDocument document, String path) {
+        super(document, path);
     }
 
     public String getProblemText() throws IOException {
@@ -121,32 +122,5 @@ public class Classifier {
                     .extract();
         }
         return text;
-    }
-
-    public String getTestName() throws IOException {
-        double[] bodyPosition = new PdfPageDivider(destinationParentPath + "/image_" + 1 + ".png")
-                .divide()
-                .findHeadLine();
-        PDPage page = document.getPage(0);
-        int width = (int) page.getMediaBox().getWidth();
-        int height = (int) page.getMediaBox().getHeight();
-        int endY = (int) (height * bodyPosition[1]);
-
-        String text = new PdfTextExtractor(page)
-                .addRegion(0, 0, width, endY)
-                .extract().toString();
-        String testName = HeadlineParser.parseTestName(text);
-        String testType = HeadlineParser.parseTestType(text);
-        if (testType.length() != 0)
-            testName += " " + testType;
-        return testName;
-    }
-
-    public void close() {
-        try {
-            document.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
     }
 }
