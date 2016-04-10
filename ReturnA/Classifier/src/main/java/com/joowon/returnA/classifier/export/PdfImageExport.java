@@ -35,7 +35,10 @@ import java.io.IOException;
  */
 public class PdfImageExport {
     public static void main(String[] args) throws IOException {
-        PDDocument document = PDDocument.load(new File("/Users/Joowon/Documents/Github/ReturnA/data/tests/problem/bnoRiCCI_h3_enga2_mun.pdf"));
+        String problem = "/Users/Joowon/Documents/Github/ReturnA/data/tests/problem/bnoRiCCI_h3_enga2_mun.pdf";
+        String solve1 = "/Users/Joowon/Documents/Github/ReturnA/data/tests/solve/eng_hsj (88).pdf";
+        String solve2 = "/Users/Joowon/Documents/Github/ReturnA/data/tests/solve/eng_hsj_81Np7vXe.pdf";
+        PDDocument document = PDDocument.load(new File(solve2));
         export(document, "/Users/Joowon/Documents/Github/ReturnA", "imagea");
     }
 
