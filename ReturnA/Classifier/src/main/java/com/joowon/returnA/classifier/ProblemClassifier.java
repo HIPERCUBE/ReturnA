@@ -1,16 +1,11 @@
 package com.joowon.returnA.classifier;
 
 import com.joowon.returnA.classifier.cli.ClassifierCliParser;
-import com.joowon.returnA.classifier.cv.PdfPageDivider;
 import com.joowon.returnA.classifier.db.MongoDbManager;
-import com.joowon.returnA.classifier.export.PdfImageExport;
-import com.joowon.returnA.classifier.extractor.PdfTextExtractor;
-import com.joowon.returnA.classifier.parser.HeadlineParser;
 import com.joowon.returnA.classifier.parser.ProblemParser;
 import com.joowon.returnA.classifier.transfer.TxtToMongoTransfer;
 import com.joowon.returnA.classifier.txt.TxtWriter;
 import org.apache.pdfbox.pdmodel.PDDocument;
-import org.apache.pdfbox.pdmodel.PDPage;
 
 import java.io.File;
 import java.io.IOException;
@@ -60,7 +55,7 @@ public class ProblemClassifier extends Classifier {
                 destinationDirectory.mkdirs();
 
                 // Parse problem group
-                String text = ProblemParser.removeExceptionalText(problemClassifier.getProblemText());
+                String text = ProblemParser.removeExceptionalText(problemClassifier.getBodyText());
                 new TxtWriter(destinationDirectory.getAbsolutePath() + "/" + "test.txt").write(text);
                 for (int i = 1; i <= 50; ++i) {
                     String group = ProblemParser.parseProblemGroup(text, i);
@@ -97,30 +92,5 @@ public class ProblemClassifier extends Classifier {
 
     public ProblemClassifier(PDDocument document, String path) {
         super(document, path);
-    }
-
-    public String getProblemText() throws IOException {
-        int numberOfPages = document.getNumberOfPages();
-
-        String text = "";
-        for (int i = 1; i <= numberOfPages; ++i) {
-            double[] bodyPosition = new PdfPageDivider(destinationParentPath + "/image_" + i + ".png")
-                    .divide()
-                    .findBody();
-            PDPage page = document.getPage(i - 1);
-
-            int width = (int) page.getMediaBox().getWidth();
-            int height = (int) page.getMediaBox().getHeight();
-            int startY = (int) (height * bodyPosition[0]);
-            int endY = (int) (height * bodyPosition[1]);
-
-            text += new PdfTextExtractor(page)
-                    .addRegion(0, startY, width / 2, endY - startY)
-                    .extract();
-            text += new PdfTextExtractor(page)
-                    .addRegion(width / 2, startY, width / 2, endY - startY)
-                    .extract();
-        }
-        return text;
     }
 }

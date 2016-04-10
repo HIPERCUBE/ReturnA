@@ -63,6 +63,31 @@ public class Classifier {
         return testName;
     }
 
+    public String getBodyText() throws IOException {
+        int numberOfPages = document.getNumberOfPages();
+
+        String text = "";
+//        for (int i = 1; i <= numberOfPages; ++i) {
+//            double[] bodyPosition = new PdfPageDivider(destinationParentPath + "/image_" + i + ".png")
+//                    .divide()
+//                    .findBody();
+//            PDPage page = document.getPage(i - 1);
+//
+//            int width = (int) page.getMediaBox().getWidth();
+//            int height = (int) page.getMediaBox().getHeight();
+//            int startY = (int) (height * bodyPosition[0]);
+//            int endY = (int) (height * bodyPosition[1]);
+//
+//            text += new PdfTextExtractor(page)
+//                    .addRegion(0, startY, width / 2, endY - startY)
+//                    .extract();
+//            text += new PdfTextExtractor(page)
+//                    .addRegion(width / 2, startY, width / 2, endY - startY)
+//                    .extract();
+//        }
+        return text;
+    }
+
     public void close() {
         try {
             document.close();
