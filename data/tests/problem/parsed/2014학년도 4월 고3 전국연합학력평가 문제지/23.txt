@@ -1,0 +1,24 @@
+23. 다음 글의 (A) ~(C)에서 문맥에 맞는 낱말을 바르게 짝지은 것은?
+[3점]
+Entropy is a measure of disorder or randomness. Physicists 
+have given a fully (A) qualitative / quantitative definition to 
+entropy that allows one to describe something’s entropy by 
+using a definite numerical value: larger numbers mean 
+greater entropy, smaller numbers mean less entropy. 
+Although the details are a little complicated, this number, 
+roughly speaking, counts the possible rearrangements of the 
+(B) concepts / ingredients in a given physical system that 
+leave its overall appearance intact. When your desk is neat 
+and clean, almost any arrangement ― changing the order of the 
+newspapers, books, or articles, moving the pens from their 
+holders ― will upset its highly ordered organization. This 
+accounts for its having low entropy. On the contrary, when your 
+desk is a mess, numerous rearrangements of the newspapers, 
+articles, and junk mail will leave it a mess and therefore will 
+not (C) disturb / maintain its overall look. This accounts for its 
+having high entropy. 
+(A) (B) (C)
+① qualitative …… concepts …… disturb
+② qualitative …… ingredients …… maintain
+③ quantitative …… ingredients …… maintain
+④ quantitative …… concepts …… maintain⑤ quantitative …… ingredients …… disturb

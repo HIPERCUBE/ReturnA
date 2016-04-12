@@ -1,0 +1,9 @@
+12. 다음 표를 보면서 대화를 듣고, 여자가 선택한 스마트워치를 
+고르시오.
+Smartwatches
+Model HeMaortn itRoarte Sc(rienecnh eSs)ize Battery Life Price
+① A × 1.2 18 hours $60
+② B ○ 1.2 18 hours $70
+③ C ○ 1.2 3 days $100
+④ D ○ 1.4 18 hours $150
+⑤ E × 1.4 3 days $180

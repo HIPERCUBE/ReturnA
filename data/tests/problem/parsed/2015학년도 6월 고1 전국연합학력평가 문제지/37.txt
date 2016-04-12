@@ -1,0 +1,23 @@
+37. 
+Have you ever measured the length of a room using your 
+feet as the unit of measurement? Around 3,000 B.C., ancient 
+Egyptians developed the cubit system of measurement. 
+(A) Of course, the length of a cubit varied from person to 
+person. So Egypt established a standard cubit, called 
+the Royal Cubit. It was based on the length of the 
+Pharaoh’s forearm. The Royal Cubit was a piece of 
+black granite about 52.3 centimeters long. 
+(B) It was based on the lengths of parts of the arm and 
+hand, rather than the foot. The Egyptian cubit was the 
+length of a forearm from the tip of the elbow to the 
+end of the middle finger. The cubit was subdivided into 
+smaller units of spans, palms, digits, and parts of digits.
+(C) Although the royal architect kept the Royal Cubit, 
+wooden copies were distributed throughout the land. 
+The cubit sticks must have been very accurate, because 
+the lengths of the sides of the Great Pyramid at Giza 
+vary by only a few centimeters. [3점]
+* granite: 화강암
+① (A) - (C) - (B) ② (B) - (A) - (C)
+③ (B) - (C) - (A) ④ (C) - (A) - (B)
+⑤ (C) - (B) - (A)

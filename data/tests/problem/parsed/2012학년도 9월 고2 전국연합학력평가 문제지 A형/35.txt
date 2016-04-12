@@ -1,0 +1,13 @@
+35. 다음 도표의 내용과 일치하지 않는 문장은?
+This bar chart demonstrates the percentage of
+Americans over the age of 12 who used various digital
+devices in 2001 and 2011. ①The device which showed the
+least difference between the two years was television, with
+an increase of only 2%. ②However, from 2001 to 2011, the
+use of online video more than doubled. ③No one used the
+smartphone in 2001, but in 2011 this device rapidly grew to
+have more than two thirds of Americans over 12 using it.
+④The radio was the only device that showed a minus
+growth, decreasing from 93% to 87%. ⑤Users of broadband
+Internet more than tripled, starting from 20% in 2001 to
+74% in 2011.

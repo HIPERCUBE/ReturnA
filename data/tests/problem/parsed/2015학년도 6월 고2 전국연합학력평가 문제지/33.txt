@@ -1,0 +1,20 @@
+33. Different goods and services have different values. 
+National income accounting requires measuring the value of 
+production. The most common measure is Gross Domestic 
+Product (GDP). It is the market value of all final goods and 
+services produced in a year within a country’s borders. This 
+definition excludes any production not traded on markets. 
+For example, voluntary labor, such as fixing a friend’s bike 
+or helping a neighbor with their lawnmower, constitutes 
+unpaid service provision. It is not about a worker earning a 
+wage or a consumer buying a service. In a similar fashion, 
+housework performed by members of the household is not 
+included in the GDP, even though the same work, when 
+performed by paid house cleaners, is. These cases mean that 
+the official GDP calculations                               . 
+[3점]
+① do not cover all the actual production
+② reflect the value of unpaid housework
+③ ignore the principle of supply and demand
+④ contain the total amount of a country’s imports
+⑤ include the profits only produced by foreign trade

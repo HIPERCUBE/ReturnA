@@ -1,0 +1,23 @@
+27. Lifeline infrastructures are vital systems that support a 
+nation’s economy and quality of life. Modern economies 
+rely on the ability to move goods, people, and information 
+safely and reliably. Adding to their importance is that 
+many of the lifeline systems serve vital roles in disaster 
+recovery. Consequently, it is of the utmost importance to 
+government, business, and the public at large that the 
+flow of services provided by a nation’s infrastructure 
+continues unimpeded in the face of a broad range of 
+natural and technological hazards. The linkage between 
+systems and services is critical to any discussion of 
+infrastructure. Although it is the performance of the 
+hardware (i.e., the highways, pipes, and transmission lines) 
+that is of immediate concern following an earthquake, it 
+is actually the loss of services that these systems provide 
+that is the real loss to the public. Therefore, a high 
+priority in protecting these systems from hazards is 
+ensuring ___________________________________.
+① an early alarm system for economic crises
+② the durability and stability of transmission lines
+③ the continuity, or at least the rapid restoration, of service
+④ a prompt mobilization of experts for disaster control
+⑤ the maintenance and expansion of lifeline systems

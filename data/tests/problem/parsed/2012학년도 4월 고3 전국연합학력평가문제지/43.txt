@@ -1,0 +1,20 @@
+43. 주어진글다음에이어질글을순서대로바르게배열한것은? [3점]
+For most dictionaries, objectivity relates to what is
+external to the mind rather than belonging to the
+consciousness of the perceiver; relates to outward things,
+uncolored by feelings or opinions.
+(A) This distancing is not the same as removing all value
+judgements from a report. Instead, it requires that the fact
+and opinion in a news report needs to be that of people
+other than the journalist.
+(B) However, objectivity does not mean this to most
+journalists. Essentially, to file an objective report a
+journalist needs to distance him or herself from the truth
+claims of the report.
+(C) For this reason, columns, editorials and other forms of
+news analysis will never qualify as objective reporting: the
+voice of the journalist is either too loud or too central for
+them to be objective.
+① (A)-(B)-(C) ② (A)-(C)-(B)
+③ (B)-(A)-(C) ④ (B)-(C)-(A)
+⑤ (C)-(A)-(B)

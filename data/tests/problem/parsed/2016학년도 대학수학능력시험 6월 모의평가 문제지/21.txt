@@ -1,0 +1,20 @@
+21. Although the Internet seems truly global these days, 
+less than half of the world’s population has access to 
+it. Some four billion people are still unconnected. This 
+spring, IT engineers will begin to shift to the next phase 
+in a grand plan to bring the Internet to everyone. Their 
+goal is to establish a network of high-altitude balloons 
+that will rain 4G LTE signals down to anyone with a 
+4G device. Regional telecom companies will transmit the 
+signals to the balloons, and then each balloon will relay 
+the signals to a ground area many miles in diameter. In 
+this way, farmers in remote areas will be able to access 
+weather data, and rural children will be able to pursue 
+online educations. By the end of the year, the engineers 
+aim to have 100 balloons about 13 miles up.
+* altitude: 높이, 고도
+① Balloons for Weather Forecasting
+② Balloons to Connect the World
+③ A One-Day Tour in a Balloon
+④ Online Education for Farmers
+⑤ 4G: The Fastest Connection

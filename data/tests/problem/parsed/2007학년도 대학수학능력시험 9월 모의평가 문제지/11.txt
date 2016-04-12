@@ -1,0 +1,7 @@
+11. 메뉴를 보면서 대화를 듣고, 두 사람이 주문할 음식의
+종류를 모두 나열한 것을 고르시오.
+① smoked salmon, ice cream, coffee
+② smoked salmon, fruit, coffee 
+③ beefsteak, fruit, orange juice 
+④ salad, beefsteak, ice cream 
+⑤ salad, fruit, orange juice

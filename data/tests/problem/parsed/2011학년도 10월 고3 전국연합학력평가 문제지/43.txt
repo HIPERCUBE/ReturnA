@@ -1,0 +1,20 @@
+43. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?
+The settlement of the Latin American countryside took 
+a different course from that of North America. The Latin 
+Americans did not settle on individual family farms.
+(A) The poorer people worked on these estates for low 
+wages. They had little hope of ever owning their own 
+land. The landowners also forced the native Indians to 
+work on the haciendas and later imported millions of 
+African slaves for the same purpose.
+(B) That’s because the government did not promote private 
+ownership of land. Wealthy men owned most of the 
+land, from which they made huge estates, called 
+haciendas.
+(C) Many of the owners, however, cared little for developing 
+their land or using it wisely. Their attitude kept the 
+workers in poverty and the land undeveloped, and led 
+many Latin American nations to remain agricultural.
+① (A) - (C) - (B) ② (B) - (A) - (C)
+③ (B) - (C) - (A) ④ (C) - (A) - (B)
+⑤ (C) - (B) - (A)

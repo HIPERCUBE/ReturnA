@@ -1,0 +1,23 @@
+25. 다음 글의 제목으로 가장 적절한 것은?
+The names of pitches are associated with particular 
+frequency values. Our current system is called A440 because 
+the note we call ‘A’ that is in the middle of the piano keyboard 
+has been fixed to have a frequency of 440 Hz. This is entirely 
+arbitrary. We could fix ‘A’ at any frequency, such as 439 or 
+424; different standards were used in the time of Mozart than 
+today. Some people claim that the precise frequencies affect 
+the overall sound of a musical piece and the sound of 
+instruments. Led Zeppelin, a band popular in the 70s, often 
+tuned their instruments away from the modern A440 standard 
+to give their music an uncommon sound, and perhaps to link it 
+with the European children’s folk songs that inspired many of 
+their compositions. Many purists insist on hearing baroque 
+music on period instruments, both because the instruments 
+have a different sound and because they are designed to play 
+the music in its original tuning standard, something that 
+purists deem important.
+① Unstable Pitches: A Common Thread in Music
+② How Do Musicians Detect Pitch Differences?
+③ How to Correctly Measure Frequency Values
+④ Arbitrary Tuning: A New Trend in Music
+⑤ Should ‘A’ Always Be Tuned at 440 Hz?

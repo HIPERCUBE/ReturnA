@@ -1,0 +1,21 @@
+37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?
+You’ll see a good example of science in action every 
+time a police car with its siren blaring passes you in the 
+street. Everyone knows that the sound changes as it 
+passes you. 
+(A) Something similar happens with light waves as well as 
+other electromagnetic radiation such as X­rays and 
+microwaves. Things moving away from you get redder 
+while things moving toward you get bluer. 
+(B) It’s not that the siren changes its tune but it is because 
+of something known as the Doppler Effect. This is 
+where the sound waves coming from moving objects get 
+squashed or stretched depending on whether something 
+is moving toward or away from you.
+(C) As a result, this effect is known as red or blue shift. 
+You can’t normally notice this effect with light because 
+the object has to be moving at huge speeds but you can 
+with distant galaxies.
+① (A) - (C) - (B) ② (B) - (A) - (C)  
+③ (B) - (C) - (A) ④ (C) - (A) - (B)
+⑤ (C) - (B) - (A)

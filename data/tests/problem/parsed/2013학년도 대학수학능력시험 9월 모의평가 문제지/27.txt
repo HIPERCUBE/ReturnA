@@ -1,0 +1,19 @@
+27. Cost estimates follow from time estimates simply by 
+multiplying the hours required by the required labor rates. 
+Beware of . For 
+example, one major company has a policy that requires the 
+following personnel in order to remove an electric motor: a 
+tinsmith to remove the cover, an electrician to disconnect 
+the electrical supply, a millwright to unbolt the mounts, and 
+one or more laborers to remove the motor from its mount. 
+That situation is fraught with inefficiency and high labor 
+costs, since all four trades must be scheduled together, with 
+at least three people watching while the fourth is at work. 
+The cost will be at least four times what it could be and is 
+often greater if one of the trades does not show up on time. 
+* fraught: ～으로 가득 찬
+① inefficiency caused by poor working conditions
+② difficulty in financing high labor costs in business
+③ differences in labor skills when working in groups
+④ coordination problems where multiple crafts are involved
+⑤ mismatch between personnel and equipment in production

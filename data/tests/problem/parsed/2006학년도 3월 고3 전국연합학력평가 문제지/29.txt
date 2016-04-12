@@ -1,0 +1,16 @@
+29. 다음 그림을 참조할 때, 빈칸에 들어갈 말로 가장 적절한 것은?
+Street maps are easy to read. All the streets in the map
+have names. These names are listed in alphabetical order.
+They are listed in the index. Sometimes the same name is
+used more than once. Street maps are divided into squares.
+These squares have letters and numbers. Every street is
+given a number and a letter. This is called the map
+reference. For example, Smith Street is A3. This means that
+you can find it on the map if you look for the A3 square.
+Some streets are so long that they are in more than one
+square. In conclusion, to find a street, look for it in the
+index, then .
+① start from the first A1 square
+② try to learn its name by heart
+③ look for the letter and number
+④ connect its name with its shape

@@ -1,0 +1,19 @@
+30. Since most of you are working on a word processor, it 
+seems silly to spend too much time on spelling. Your 
+word-processing program will spell check items for you.
+(A) , spelling is not a completely lost art. There 
+are words that are not in the spell checker’s dictionary. 
+Also, your spell checker will not help you if you 
+misspell a word and mistakenly turn it into another word. 
+(B) , when you write ‘lightening’ instead of 
+‘lightning,’ the program will not recognize the error. So, get 
+in the habit of rereading your work and looking up words 
+that the spell checker does not pick up. You need to 
+develop the skill of knowing when words look wrong. 
+Never hand something in until you have checked it.
+(A) (B)
+① However …… For example
+② However …… Therefore
+③ That is …… Similarly
+④ In addition …… For example
+⑤ In addition …… Therefore

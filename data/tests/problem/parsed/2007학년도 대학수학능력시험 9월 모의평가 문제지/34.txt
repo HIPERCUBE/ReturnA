@@ -1,0 +1,18 @@
+34. When scientists use a device called a calorimeter, the 
+piece of food to be measured is placed inside the device, 
+sealed, and then burned. The energy from the food heats 
+the water surrounding the chamber. By weighing the 
+amount of water heated, noting the increase in the water 
+temperature, and multiplying the two, the energy capacity 
+of the food can be measured. For example, if 10 liters of 
+water surrounding the chamber is 20 degrees centigrade 
+before combustion and then is measured at 25 degrees after 
+combustion, the difference in temperature (5 degrees) is 
+multiplied by the volume of water (10 liters) to arrive at 
+the caloric value (50 calories of energy).
+* combustion: 연소
+① the energy capacity of food
+② various parts of a calorimeter
+③ how to measure food temperature
+④ various roles of water in food science
+⑤ how to calculate the caloric value of food

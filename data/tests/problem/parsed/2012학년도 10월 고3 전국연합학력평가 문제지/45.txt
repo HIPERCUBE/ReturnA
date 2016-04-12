@@ -1,0 +1,28 @@
+45. 다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A)와 
+(B)에 들어갈 말로 가장 적절한 것은?
+In an experiment, Solomon Asch gave participants 
+six‑word descriptions of target people — the words were 
+intelligent, industrious, impulsive, critical, stubborn, and 
+envious. He then asked the participants to generate a 
+broader description of those people on the basis of the 
+six words. But for one group of participants he presented 
+the positive words first; for the other, he reversed the 
+offer. For both groups, the words were exactly the same. 
+Yet Asch found striking differences in how the 
+participants characterized the target person, depending on 
+whether the first words they encountered were positive 
+or negative. For example, the participants who were 
+given the positive words first responded like “He is a 
+forceful person, has his own convictions, and is usually 
+right about things,” but those who heard the negative 
+words first responded like “This individual is probably 
+maladjusted because he is envious and impulsive.” 
+
+This experiment showed that one’s (A) of other 
+people might be altered by the (B) of the words 
+presented to describe them.
+(A)    (B)
+① impression order
+② impression number
+③ impression frequency
+④ memory order

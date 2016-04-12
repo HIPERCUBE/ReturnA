@@ -1,0 +1,17 @@
+35. When we design experiments, we usually .
+For example, let’s say a farmer wants to know what kind of
+plowing method is better. The farmer chooses two fields and
+then changes only one thing between them. He changes how
+he plows his fields. Everything else will be the same on both
+fields: the type of crop he grows, the amount of water that
+he uses and the slope of the fields he plants on. The fields
+should be facing the same direction to get about the same
+amount of sunlight. If the farmer only changes how he plows
+his fields, he can see the impact of the one change. After
+the experiment is complete, the farmer can conclude which
+plowing method is better. * plow: 쟁기질하다, 경작하다
+① choose just one thing to change
+② collect as much data as possible
+③ work together with other scientists
+④ repeat the same experiments many times
+⑤ study other people’s research on the topic

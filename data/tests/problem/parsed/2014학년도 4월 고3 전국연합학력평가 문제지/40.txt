@@ -1,0 +1,26 @@
+40. 다음 글의 내용을 한 문장으로 요약하고자 한다. (A)와 (B)에 
+들어갈 말로 가장 적절한 것은? 
+Social neuroscientist John Cacioppo conducted a brain 
+imaging study to identify differences in the neural mechanisms 
+of lonely and non-lonely people. Specifically, he wanted to 
+know what’s going on in the brains of individuals with an acute 
+sense of loneliness. While in an MRI machine, subjects viewed 
+a series of images, some with positive associations, such as 
+happy people doing fun things, and others with negative 
+associations, such as scenes of people in dispute. As the two 
+groups watched pleasant imagery, the area of the brain that 
+recognizes rewards showed a significantly greater response in 
+non-lonely people than in lonely people. Similarly, the visual 
+cortex of lonely subjects responded much more strongly to 
+unpleasant images of people than to unpleasant images of 
+objects ―suggesting that the attention of lonely people is 
+especially drawn to discord among people. Non-lonely 
+subjects showed no such difference. 
+* visual cortex: 시각령, 시각 피질
+
+A study showed that lonely people responded less strongly 
+to    (A)     images and more strongly to images of 
+interpersonal    (B)     than non-lonely people did.
+(A) (B) (A) (B)
+① solitary …… violence ② solitary …… cooperation
+③ positive …… conflict ④ positive …… bonding⑤ incomplete …… attraction

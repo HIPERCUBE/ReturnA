@@ -1,0 +1,9 @@
+12. 다음 표를 보면서 대화를 듣고, 두 사람이 선택한 제품을 
+고르시오. [3점] 
+Bill’s Electronics 
+Model Memory Color Price
+① A 8 GB white $19
+② B 8 GB black $19
+③ C 16 GB white $33
+④ D 16 GB black $33 
+⑤ E 32 GB black $50

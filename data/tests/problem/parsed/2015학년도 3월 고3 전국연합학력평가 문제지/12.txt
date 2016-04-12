@@ -1,0 +1,9 @@
+12. 다음 표를 보면서 대화를 듣고, 두 사람이 주문할 유아용 변
+기를 고르시오.
+Potty Chairs
+Model Design Backrest Music Price
+① B-100 bear × × $34
+② P-100 puppy ○ × $36
+③ P-200 puppy ○ ○ $39
+④ K-100 kitten × ○ $37
+⑤ K-200 kitten ○ ○ $41

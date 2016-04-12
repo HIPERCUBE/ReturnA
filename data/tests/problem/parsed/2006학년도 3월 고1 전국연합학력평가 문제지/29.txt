@@ -1,0 +1,13 @@
+29. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?
+Natural disasters such as volcanic eruptions, fires, floods
+and hurricanes happen every year, somewhere in the world.
+(A) Some tsunamis can be 30 meters high; they can hit
+Japan, Southeast Asia, and Central and South America.
+(B) It is a tsunami, a huge wave that can cause terrible
+damage and destruction.
+(C) But there is another, and perhaps even more dangerous,
+natural disaster.
+*volcanic eruption: 화산 폭발
+① (A) - (B) - (C) ② (A) - (C) - (B)
+③ (B) - (C) - (A) ④ (C) - (A) - (B)
+⑤ (C) - (B) - (A)

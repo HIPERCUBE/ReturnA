@@ -1,0 +1,20 @@
+30. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?
+In Western cultures, a gift can be given to the receiver
+with relatively little ceremony. When a gift is offered,
+the receiver typically takes the gift while expressing her
+or his thanks.
+(A) For example, in Chinese culture, a receiver will typically
+refuse to accept the gift at first, with the understanding
+between the giver and receiver that after being turned down
+several times, the gift will be accepted.
+(B) However, in some Asian cultures, the act of giving is an
+important aspect of gift-giving, and this process may appear
+confusing or frustrating to Westerners.
+(C) Moreover, to show respect to the receiver, it is
+customary in several Asian cultures to use two hands when
+giving a gift to another person.
+① (A) - (C) - (B)
+② (B) - (A) - (C)
+③ (B) - (C) - (A)
+④ (C) - (A) - (B)
+⑤ (C) - (B) - (A)

@@ -1,0 +1,18 @@
+37. 
+Here’s a fascinating social experiment. Select one 
+hundred people at random in New York City and ask them 
+each to list all their friends, so you can figure out their 
+average number of friends. Then, in turn, ask their friends how many friends they have.
+(A) The explanation lies in the realization that there is a 
+bias in the question being asked, since you are more 
+likely to know popular people and less likely to know 
+unpopular ones. 
+(B) That is also why people at your local gym tend to be 
+fitter than you, because you do not encounter the 
+relatively out­of­shape ones who rarely turn up.
+(C) You will find that the latter’s average number of friends 
+is higher. Sociologist Scott Feld of Purdue University 
+drew attention to this apparent paradox.
+① (A) - (C) - (B)          ② (B) - (A) - (C)      
+③ (B) - (C) - (A)          ④ (C) - (A) - (B)   
+⑤ (C) - (B) - (A)

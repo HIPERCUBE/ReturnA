@@ -1,0 +1,9 @@
+17. 다음 표를 보면서 대화를 듣고, 두 사람이 주문할 로봇 청소기를 
+고르시오.
+Robot Vacuum Cleaners
+Model Warranty Battery Duration Price
+① Lingo 1 year 1 hour $ 300
+② Lobo 1 year 2 hours $ 350
+③ Tango 2 years 1 hour $ 400
+④ Wizard 2 years 2 hours $ 450
+⑤ Sweeper 3 years 2 hours $ 500

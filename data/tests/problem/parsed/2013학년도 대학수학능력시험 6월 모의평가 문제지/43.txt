@@ -1,0 +1,22 @@
+43. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?
+The underlying idea of world history is that the interaction 
+among human societies resembles not the relationships 
+among billiard balls, but rather among bacteria.
+(A) Similarly, human societies in contact affect each other’s 
+development. World historians, recognizing this, seek 
+to understand human history through studying both 
+developments within societies and the way in which 
+societies relate to each other.
+(B) Bacteria, however, fundamentally shape each other as 
+they interact. Because the membranes covering bacteria 
+are full of pores, bacteria can exchange genetic 
+information and can even fundamentally alter each 
+other’s basic make-up when they touch.
+(C) Billiard balls rolling around the table may collide and 
+affect each other’s trajectories, but they do not actually 
+change each other: The eight ball is an eight ball even 
+after it is struck by the cue ball.
+* membrane: 얇은 막  ** trajectory: 궤도
+① (A) - (C) - (B) ② (B) - (A) - (C)
+③ (B) - (C) - (A) ④ (C) - (A) - (B)
+⑤ (C) - (B) - (A)

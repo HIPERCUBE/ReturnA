@@ -1,0 +1,19 @@
+30. 밑줄 친 부분이 가리키는 대상이 나머지 넷과 다른 것은?
+Born in Budapest to a family of bankers, von Neumann 
+was undeniably bright. At age eight, ① he had mastered 
+calculus. At age twelve, he was reading works aimed at 
+professional mathematicians. But ② he also loved to 
+invent mechanical toys and became a child expert on 
+Byzantine history. When it was time to go off to 
+university, he agreed to study chemical engineering as a 
+compromise with his father, who feared that ③ his son 
+couldn’t make a living as a mathematician. Von Neumann 
+kept his bargain by enrolling at the University of 
+Budapest and promptly leaving for Berlin, where he spent 
+his time doing mathematics, and returning to Budapest at 
+the end of every semester to take examinations. He 
+published ④ his second mathematics paper, in which he 
+gave the modern definition of ordinal numbers, at age 
+nineteen. By age twenty-five ⑤ he had published ten 
+major papers; by age thirty, nearly three dozen.
+calculus: 미적분학

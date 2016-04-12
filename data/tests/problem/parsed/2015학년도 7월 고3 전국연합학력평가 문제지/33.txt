@@ -1,0 +1,24 @@
+33. In a study of complimenting behavior in American English, 
+researchers discovered that one of the most striking 
+features of compliments in American English is  
+. An initial examination of a 
+large corpus revealed surprising repetitiveness in both the 
+object of the compliments and the lexical items used to 
+describe them. On closer investigation, it was discovered 
+that regularities exist on all levels and that compliments are 
+in fact formulas. We may categorize 80% of all compliments 
+in the data as adjectival in that they depend on an adjective 
+for their positive semantic value. In all, some seventy‒two 
+positive adjectives occur in the data. What is striking, 
+however, is that of these seventy‒two adjectives only five 
+(nice, good, beautiful, pretty and great) are used with any 
+frequency. While most adjectives occur only once or twice 
+in the data, these five adjectives occur with such frequency 
+that of all adjectival compliments in the corpus two thirds 
+make use of only five adjectives. [3점]
+* corpus: 언어 자료
+① the foreign sounding qualities 
+② frequently misused adjectives
+③ repetition of pitch patterns
+④ an inherent ambiguity in meaning
+⑤ the almost total lack of originality 

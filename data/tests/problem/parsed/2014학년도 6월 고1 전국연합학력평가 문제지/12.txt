@@ -1,0 +1,9 @@
+12. 다음 표를 보면서 대화를 듣고, 남자가 선택할 자전거를 
+고르시오.
+Bicycle Models
+Model Wheel Size Type Price
+① A 24 Inches Foldable $95
+② B 26 Inches Foldable $110
+③ C 24 Inches Regular $90
+④ D 26 Inches Regular  $100
+⑤ E 24 Inches Regular $120

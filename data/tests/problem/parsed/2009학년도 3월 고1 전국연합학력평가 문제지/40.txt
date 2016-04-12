@@ -1,0 +1,16 @@
+40. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?
+Peter Tompkins and Christopher Bird wrote a book
+called The Secret Life of Plants. In the book, they
+described an experiment in which two seeds were
+planted in different places.
+(A) So be careful when you are talking in front of your
+plants. They may be listening to you!
+(B) While the plants were growing, one plant was given
+love and positive ideas. The other plant was given only
+negative ideas.
+(C) After six months, the loved plant was bigger. Under the
+earth, it had more and longer roots; above the earth, it
+had a thicker stem and more leaves.
+① (A)-(C)-(B) ② (B)-(A)-(C)
+③ (B)-(C)-(A) ④ (C)-(A)-(B)
+⑤ (C)-(B)-(A)

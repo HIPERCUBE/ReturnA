@@ -1,0 +1,18 @@
+20. 다음 글의 요지로 가장 적절한 것은?
+A symbol differs from an imitative representation. It stands 
+for something else but does not attempt to accurately duplicate 
+it. A connection between a symbol and its referent is not 
+necessarily causal as is a visual representation of, for example, 
+a living room on television. The heart-shaped symbol ‘♥’ 
+stands for the word ‘love’ in our culture, but the connection 
+between the symbol and its meaning had to be learned. In a 
+culture where the heart-shaped symbol has no known meaning, 
+it is unlikely to get a response, or it may get a different 
+response. In other words, a symbol is understood only because 
+there are shared conventional meanings.
+* referent: 지시 대상
+① 상징 기호는 학습 도구로 사용될 수 있다.  
+② 상징 기호의 의미는 사회적으로 공유된 것이다.
+③ 상징 기호의 복잡성은 문화적 선진성의 지표이다. 
+④ 상징 기호는 지시 대상의 물리적 특징을 반영한다.
+⑤ 상징 기호는 모든 문화에 걸쳐 보편적으로 이해된다.

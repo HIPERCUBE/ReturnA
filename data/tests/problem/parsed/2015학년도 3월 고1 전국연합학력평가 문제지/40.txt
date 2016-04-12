@@ -1,0 +1,21 @@
+40. 다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A)와 
+(B)에 들어갈 말로 가장 적절한 것은?
+Natural boundaries between states or countries are 
+found along rivers, lakes, deserts, and mountain ranges. 
+Among them, river boundaries would seem to be ideal: 
+they provide clear separation, and they are established and 
+recognized physical features. In reality, however, river 
+boundaries can change as rivers change course. Following 
+flooding, a river’s course may shift, altering the boundary 
+between states or countries. For example, the Rio Grande, 
+separating the United States and Mexico, has frequently 
+shifted its course, causing problems in determining the exact location of the international boundary.
+* boundary: 경계
+
+A river seems to be ideal in (A)  boundaries, but 
+in fact it isn’t, because its course is (B) . 
+(A) (B)
+① establishing …… invisible
+② establishing …… changeable
+③ removing …… fixed
+④ linking …… fixed

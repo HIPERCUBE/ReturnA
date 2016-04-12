@@ -1,0 +1,20 @@
+43. 주어진글다음에이어질글을순서대로바르게배열한것은?
+Ancient humans recognized patterns in the organized and
+regular motions of stars and other celestial objects, just as
+present-day scientists search for patterns and trends in
+natural phenomena.
+(A) This cycle consists of 235 lunar periods and is the point
+where both the solar and lunar years are harmonized. They
+also acquired a vast amount of astrological information from
+the Babylonians.
+(B) In fact, ancient Chinese astronomers were keen observers of
+the skies, and they made some of the earliest astronomical
+accomplishments. One of them was their calculation of “the
+cycle of nineteen years.”
+(C) The information enabled them to develop a cycle to predict
+both lunar and solar eclipses and instruments to measure the
+movement of heavenly bodies― at least 500 years before
+the west accomplished the same tasks.
+① (A) - (C) - (B) ② (B) - (A) - (C)
+③ (B) - (C) - (A) ④ (C) - (A) - (B)
+⑤ (C) - (B) - (A)

@@ -1,0 +1,19 @@
+38. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?
+Winston Churchill, a former British prime minister, was 
+an amateur artist, and Henry Luce, an American 
+publisher, kept one of Churchill’s landscape paintings 
+hanging in his office in New York.
+(A) A few days later, however, the painting was shipped 
+back, but slightly changed: a single sheep now grazed 
+peacefully in the picture.
+(B) The next day, to Luce’s horror, Churchill’s secretary 
+called and asked him to send the painting to England. 
+Luce did so, worried that he had perhaps upset the 
+prime minister.
+(C) On a tour through the United States, Churchill visited 
+Luce in his office and the two men looked at the 
+painting together. Luce said, “It’s a good picture, but I 
+think it needs something more in the grassland ― a 
+sheep, perhaps.”
+① (A) - (C) - (B) ② (B) - (A) - (C)
+③ (B) - (C) - (A) ④ (C) - (A) - (B)

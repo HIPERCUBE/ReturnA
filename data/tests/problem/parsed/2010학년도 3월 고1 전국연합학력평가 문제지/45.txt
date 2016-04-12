@@ -1,0 +1,21 @@
+45. 다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A)와
+(B)에 들어갈 말로 가장 적절한 것은?
+In a study, 158 moviegoers in Philadelphia were given
+a medium or a large container of free popcorn that was
+either fresh or not. After the movie, how much popcorn
+had been eaten was checked. The moviegoers were also
+asked if the popcorn had been tasty or not. The results
+showed that moviegoers who were given fresh popcorn
+ate 45.3% more popcorn when it was given to them in
+large containers. Even when the popcorn didn’t taste
+good, people still ate 33.6% more popcorn when eating
+from a large container than from a medium-size
+container.
+The (A) of food can influence the (B) of
+food people eat.
+(A) (B)
+① container size ……… amount
+② container size ……… price
+③ sweet smell ……… amount
+④ sweet smell ……… price
+⑤ color ……… taste

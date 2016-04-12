@@ -1,0 +1,16 @@
+39. 글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳은?
+To prove this wrong, Newton reversed the process.
+In the late 1600s, Sir Issac Newton conducted a series of 
+experiments involving prisms, light, and color, which form the 
+basis of our current understanding of color. ( ① ) These 
+experiments involved refracting white light through a prism ― a 
+simple triangular glass object that separates light waves into 
+individual colors. ( ② ) The results revealed that light could 
+actually be broken down into seven individual colors: red, 
+orange, yellow, green, blue, indigo, and violet. ( ③ ) Until this 
+discovery, it was assumed that a prism somehow “colored” the 
+light passing through it. ( ④ ) He projected the colors back 
+into the prism, which resulted in pure white light. ( ⑤ ) 
+Artists and scientists alike were amazed by this discovery that 
+light is the source of all color.
+* refract: 굴절시키다

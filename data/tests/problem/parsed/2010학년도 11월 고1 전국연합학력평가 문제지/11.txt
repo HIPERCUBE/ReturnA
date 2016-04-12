@@ -1,0 +1,6 @@
+11.  표를 보면서 대화를 듣고, 두 사람이 보게 될 영화를 고르시오.
+Title Genre
+① Back from Mars Sci­Fi
+② Sweet Candy Drama
+③ Hunters Action
+④ Funny Friends Comedy⑤ Dark Castles Horror
