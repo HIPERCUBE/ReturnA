@@ -1,9 +1,0 @@
-12. 다음 표를 보면서 대화를 듣고, 두 사람이 선택할 투어를  
-고르시오.   
-Sherlock Holmes Walking Tours
-Tour Day Length Character Price(hours) Dress­up (per person)
-① A Wednesday 2 × $20
-② B Wednesday 2 ○ $25
-③ C Friday 2 ○ $30
-④ D Friday 3 × $35
-⑤ E Saturday 3 ○ $45

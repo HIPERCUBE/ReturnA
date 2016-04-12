@@ -1,9 +1,0 @@
-12. 다음 표를 보면서 대화를 듣고, 두 사람이 선택할 회원 등급을 
-고르시오.
-Family Membership Benefits at the Duke Art Museum
-Level Annual Shop Monthly  Members­only fee discount magazine exhibit previews
-① A $65 15% × ×
-② B $70 10% ○ ×
-③ C $75 10% × ○
-④ D $90 10% ○ ○
-⑤ E $105 15% ○ ○

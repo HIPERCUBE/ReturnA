@@ -1,9 +1,0 @@
-12. 다음 표를 보면서 대화를 듣고, 두 사람이 선택한 제품을 고르시오. 
-[3점]
-Rice Cookers                  
-Model Price Capacity Slow Cook Function Color
-① A $150 4 cups × black
-② B $200 6 cups × violet
-③ C $220 6 cups ○ violet
-④ D $280 8 cups × black
-⑤ E $350 8 cups ○ red
