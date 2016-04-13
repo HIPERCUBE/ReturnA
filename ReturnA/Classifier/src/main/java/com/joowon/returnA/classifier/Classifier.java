@@ -77,8 +77,7 @@ public class Classifier {
                     .findBody();
             PDPage page = document.getPage(i - 1);
 
-            for (int k = 0; k < bodyPosition.length; ++k) {
-                double[] val = bodyPosition[k];
+            for (double[] val : bodyPosition) {
                 text += new PdfTextExtractor(page)
                         .addRegion(
                                 (int) (val[0] * page.getMediaBox().getWidth()),
