@@ -4,6 +4,7 @@ import com.joowon.returnA.classifier.cv.PdfPageDivider;
 import com.joowon.returnA.classifier.export.PdfImageExport;
 import com.joowon.returnA.classifier.extractor.PdfTextExtractor;
 import com.joowon.returnA.classifier.parser.HeadlineParser;
+import javafx.beans.DefaultProperty;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.pdmodel.PDPage;
 
@@ -37,6 +38,8 @@ public class Classifier {
     protected PDDocument document;
     protected String destinationParentPath;
 
+    protected static final String DATA_FROM_EBS_PATH = "/Users/Joowon/Documents/Github/ReturnA/data/DaraFromEBS";
+
     public Classifier(PDDocument document, String path) {
         // Export images from PDF
         this.document = document;
@@ -44,6 +47,7 @@ public class Classifier {
         PdfImageExport.export(document, destinationParentPath, "image");
     }
 
+    @Deprecated
     public String getTestName() throws IOException {
         double[] bodyPosition = new PdfPageDivider(destinationParentPath + "/image_" + 1 + ".png")
                 .divide()
@@ -67,24 +71,23 @@ public class Classifier {
         int numberOfPages = document.getNumberOfPages();
 
         String text = "";
-//        for (int i = 1; i <= numberOfPages; ++i) {
-//            double[] bodyPosition = new PdfPageDivider(destinationParentPath + "/image_" + i + ".png")
-//                    .divide()
-//                    .findBody();
-//            PDPage page = document.getPage(i - 1);
-//
-//            int width = (int) page.getMediaBox().getWidth();
-//            int height = (int) page.getMediaBox().getHeight();
-//            int startY = (int) (height * bodyPosition[0]);
-//            int endY = (int) (height * bodyPosition[1]);
-//
-//            text += new PdfTextExtractor(page)
-//                    .addRegion(0, startY, width / 2, endY - startY)
-//                    .extract();
-//            text += new PdfTextExtractor(page)
-//                    .addRegion(width / 2, startY, width / 2, endY - startY)
-//                    .extract();
-//        }
+        for (int i = 1; i <= numberOfPages; ++i) {
+            double[][] bodyPosition = new PdfPageDivider(destinationParentPath + "/image_" + i + ".png")
+                    .divide()
+                    .findBody();
+            PDPage page = document.getPage(i - 1);
+
+            for (int k = 0; k < bodyPosition.length; ++k) {
+                double[] val = bodyPosition[k];
+                text += new PdfTextExtractor(page)
+                        .addRegion(
+                                (int) (val[0] * page.getMediaBox().getWidth()),
+                                (int) (val[1] * page.getMediaBox().getHeight()),
+                                (int) (val[2] * page.getMediaBox().getWidth()),
+                                (int) (val[3] * page.getMediaBox().getHeight())
+                        ).extract();
+            }
+        }
         return text;
     }
 
