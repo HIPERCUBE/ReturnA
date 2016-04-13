@@ -1,7 +1,0 @@
-12. 다음 표를 보면서 대화를 듣고, 두 사람이 선택할 상품을 고르시오.
-Vitamin Product
-Product Ingredient Type Quantity Price
-① A Vitamin C Jelly 60 $12
-② B Vitamin C Pill 60 $14
-③ C Vitamin C Jelly 120 $24
-④ D Vitamin D Pill 60 $10⑤ E Vitamin D Jelly 120 $20

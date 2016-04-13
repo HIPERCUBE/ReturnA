@@ -1,8 +1,0 @@
-12. 다음 표를 보면서 대화를 듣고, 두 사람이 채용할 지원자를
-고르시오.
-Applicant Major Work ForeignExperience Language Skills
-① A Accounting 4 Years Spanish
-② B Accounting 8 Years Spanish
-③ C Accounting 10 Years French
-④ D Psychology 6 Years French
-⑤ E Psychology 13 Years Spanish

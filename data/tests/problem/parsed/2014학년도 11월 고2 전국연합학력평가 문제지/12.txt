@@ -1,8 +1,0 @@
-12. 다음 표를 보면서 대화를 듣고, 두 사람이 선택한 제품을 고르시오.
-Washing Machines 
-Model Capacity Steam Noise Reduction Price
-① A 10kg X X $500
-② B 10kg O X $600
-③ C 10kg O O $700
-④ D 15kg X X $750
-⑤ E 15kg O O $900  

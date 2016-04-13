@@ -1,8 +1,0 @@
-12. 다음 표를 보면서 대화를 듣고, 두 사람이 선택한 제품을 고르시오.
-Dishwashers
-Model Size Heated Dry Delay Start Price
-① A standard × × $250
-② B standard ○ × $300
-③ C standard ○ ○ $350
-④ D large × × $500
-⑤ E large ○ ○ $600

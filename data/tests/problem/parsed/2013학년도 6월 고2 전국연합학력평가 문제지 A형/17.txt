@@ -1,9 +1,0 @@
-17. 다음 표를 보면서 대화를 듣고, 여자가 선택한 프라이팬을
-고르시오.
-Frying Pans
-Model Size Lid Price
-① A Small × $18
-② B Medium × $25
-③ C Medium ○ $27
-④ D Medium ○ $29
-⑤ E Large ○ $33

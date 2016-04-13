@@ -1,9 +1,0 @@
-12. 다음 표를 보면서 대화를 듣고, 두 사람이 선택한 이동식 
-주택을 고르시오.
-Portable Cabins
-Type Price Number of Rooms Bathroom Kitchen
-① A $10,000 1 × ×
-② B $18,000 2 × ○
-③ C $20,000 2 ○ ×
-④ D $25,000 2 ○ ○
-⑤ E $32,000 3 ○ ○

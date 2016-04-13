@@ -1,9 +1,0 @@
-12. 다음 표를 보면서 대화를 듣고, 여자가 보러 가기로 선택한 
-아파트를 고르시오. 
-Apartments in Westford Village
-Apartment Number of Walking Distance MonthlyBedrooms from Downtown Floor Rental Cost
-① A one 5 minutes 8th $600
-② B two 5 minutes 3rd $700
-③ C two 15 minutes 6th $650
-④ D three 15 minutes 4th $750
-⑤ E three 25 minutes 2nd $700

@@ -1,8 +1,0 @@
-12. 다음 표를 보면서 대화를 듣고, 여자가 선택한 제품을 고르시오. 
-Tablet Computers
-Model Screen Size Memory(inch) (GB) Color
-① MX-1 10 4 Black
-② MX-2 12 8 Silver
-③ TC-1 10 8 White
-④ TC-2 12 4 Black
-⑤ TC-3 12 8 White

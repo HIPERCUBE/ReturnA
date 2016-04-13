@@ -1,9 +1,0 @@
-17. 다음 표를 보면서 대화를 듣고, 두 사람이 구입할 자전거를
-고르시오.
-Bike World
-Type Color Frame Price
-① hybrid red aluminum $250
-② hybrid green aluminum $250
-③ hybrid blue carbon fiber $350
-④ mountain red carbon fiber $300
-⑤ mountain green aluminum $250
