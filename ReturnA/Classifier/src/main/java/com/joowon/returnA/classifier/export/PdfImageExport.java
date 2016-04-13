@@ -39,7 +39,7 @@ public class PdfImageExport {
         String solve1 = "/Users/Joowon/Documents/Github/ReturnA/data/tests/solve/eng_hsj (88).pdf";
         String solve2 = "/Users/Joowon/Documents/Github/ReturnA/data/tests/solve/eng_hsj_81Np7vXe.pdf";
         PDDocument document = PDDocument.load(new File(solve2));
-        export(document, "/Users/Joowon/Documents/Github/ReturnA", "imagea");
+        export(document, "/Users/Joowon/Documents/Github/ReturnA", "image");
     }
 
     public static File[] export(PDDocument document, String filePath, String fileName) {
@@ -58,15 +58,7 @@ public class PdfImageExport {
         } catch (IOException exception) {
             exception.printStackTrace();
             System.err.println("IOException occurred\nCheck file path.");
-        } finally {
-//            try {
-//                document.close();
-//            } catch (IOException e) {
-//                e.printStackTrace();
-//            }
         }
         return exportFiles;
     }
-
-
 }

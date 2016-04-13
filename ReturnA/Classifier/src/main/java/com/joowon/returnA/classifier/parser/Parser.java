@@ -41,4 +41,16 @@ public abstract class Parser {
         }
         return result;
     }
+
+    protected static List<String> regexFindAsList(Pattern pattern, String data) {
+        List<String> result = new ArrayList<>();
+        try {
+            Matcher matcher = pattern.matcher(data);
+            if (matcher.find()) {
+                result.add(matcher.group(0));
+            }
+        } catch (StackOverflowError ignored) {
+        }
+        return result;
+    }
 }

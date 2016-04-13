@@ -34,7 +34,7 @@ import java.util.*;
 public class PdfPageDivider {
     public static void main(String[] args) {
         for (int i = 1; i <= 9; ++i) {
-            for (double[] a : new PdfPageDivider("/Users/Joowon/Documents/Github/ReturnA/imagea_" + i + ".png")
+            for (double[] a : new PdfPageDivider("/Users/Joowon/Documents/Github/ReturnA/image_" + i + ".png")
                     .divide()
                     .findBody()) {
                 System.out.println(Arrays.toString(a));
@@ -70,6 +70,7 @@ public class PdfPageDivider {
     }
 
     public double[] findHeadLine() {
+        if (getVerticalSeparations().size() == 0) return new double[]{0, 0};
         double[] currentResult = getVerticalSeparations().get(0);
 
         double[] result = new double[2];
@@ -103,20 +104,22 @@ public class PdfPageDivider {
 
             if (i == 0) {
                 result[i][0] = 0;
-                result[i][1] = (double) NumUtil.getSmaller(val[1], val[3]);
-                result[i][2] = val[0];
-                result[i][3] = (double) NumUtil.getBigger(val[1], val[3]);
+                result[i][1] = (double) NumUtil.getSmaller(val[1], val[3]) / (double) img.height();
+                result[i][2] = val[0] / (double) img.width();
+                result[i][3] = (double) NumUtil.getBigger(val[1], val[3]) / (double) img.height();
             } else if (i == separations.size()) {
-                result[i][0] = beforeVal[0];
-                result[i][1] = (double) NumUtil.getSmaller(beforeVal[1], beforeVal[3]);
-                result[i][2] = img.width();
-                result[i][3] = (double) NumUtil.getBigger(beforeVal[1], beforeVal[3]);
+                result[i][0] = beforeVal[0] / (double) img.width();
+                result[i][1] = (double) NumUtil.getSmaller(beforeVal[1], beforeVal[3]) / (double) img.height();
+                result[i][2] = 1;
+                result[i][3] = (double) NumUtil.getBigger(beforeVal[1], beforeVal[3]) / (double) img.height();
             } else {
-                result[i][0] = beforeVal[0];
-                result[i][1] = (double) NumUtil.getSmaller(val[1], val[3]);
-                result[i][2] = val[0];
-                result[i][3] = (double) NumUtil.getBigger(val[1], val[3]);
+                result[i][0] = beforeVal[0] / (double) img.width();
+                result[i][1] = (double) NumUtil.getSmaller(val[1], val[3]) / (double) img.height();
+                result[i][2] = val[0] / (double) img.width();
+                result[i][3] = (double) NumUtil.getBigger(val[1], val[3]) / (double) img.height();
             }
+            result[i][2] = Math.abs(result[i][2] - result[i][0]);
+            result[i][3] = Math.abs(result[i][3] - result[i][1]);
         }
         return result;
     }
