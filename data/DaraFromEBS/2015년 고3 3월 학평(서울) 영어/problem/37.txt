@@ -1,0 +1,26 @@
+37.
+Mass customization is a strategy that allows 
+manufacturers or retailers to provide individualized 
+products to consumers. Today’s apparel supplier must 
+look for new ways to offer customers top­quality goods 
+at highly competitive prices.
+(A) The customer then receives the finished product in a 
+very short time. This technological strategy is used 
+today by some fashion firms. This type of customization 
+is often limited, however, to a small number of 
+customers.
+(B) Based on the exact image, body scanning software then 
+defines and captures all the measurements necessary for 
+actually producing the garment or shoe. This data is 
+forwarded online to the manufacturer, whose production 
+technologies ensure an exact fit.
+(C) Consumers desire products that can be personalized 
+through fit preferences, color selection, fabric choices, 
+or design characteristics. A solution to the fit 
+preference is a body or foot scanner that takes a 
+customer’s measurements digitally, creating what is 
+referred to as digital twin. [3점]
+* apparel: 의류
+① (A) － (C) － (B) ② (B) － (A) － (C)
+③ (B) － (C) － (A) ④ (C) － (A) － (B)
+⑤ (C) － (B) － (A)

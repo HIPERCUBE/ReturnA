@@ -1,0 +1,19 @@
+37. 주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?
+You have probably heard about sending messages across 
+the sea in bottles. The problem is, it is impossible to tell 
+how long it will take the sea to deliver its bottled messages 
+or where it will wash them up.
+(A) Columbus was still more than a thousand miles from 
+Europe, and he feared he would never live to tell the king 
+and queen of his discovery. So he wrote the news on a 
+piece of paper.
+(B) In 1493, Christopher Columbus sent one of the earliest 
+and most famous bottled messages. He was returning to 
+Spain to tell the king and queen about what he had 
+discovered, when his ship got caught in a bad storm.
+(C) He put it in a wooden bottle and tossed it overboard. 
+More than 300 years later, it was found by the captain of 
+an American ship off the coast of Africa, near Morocco.
+① (A) － (C) － (B) ② (B) － (A) － (C)
+③ (B) － (C) － (A) ④ (C) － (A) － (B)
+⑤ (C) － (B) － (A)

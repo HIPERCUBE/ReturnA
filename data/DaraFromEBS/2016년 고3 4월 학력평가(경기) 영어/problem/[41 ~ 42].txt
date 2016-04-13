@@ -1,0 +1,26 @@
+[41 ~ 42] 다음 글을 읽고, 물음에 답하시오.
+The overabundance of available storage capacity makes it 
+easy for us to shift our behavioral default regarding external 
+memory from forgetting to remembering. We save different 
+versions of the documents we are working on to our hard disks. 
+And we store images and music files, on the assumption that 
+perhaps some day we might need them. Storing information has 
+become fantastically convenient, but it’s more than convenience 
+that makes us preserve. The truth is that the economics of 
+storage have made forgetting brutally expensive. Consider 
+digital cameras: When you connect your camera to your 
+computer to upload the images you took onto your hard disk, 
+you are usually given a choice. You can either select which 
+images to upload, or have your computer copy automatically all 
+images from your camera. Reassured perhaps by the soothing 
+idea that one can always go through them later and delete the 
+images one does not like, invariably most people choose the 
+latter option. Economically speaking, this makes sense. 
+Assuming it takes only three seconds for a person to look at an 
+image and decide whether to preserve it or not, and that she 
+values her own time at a current average wage, the “cost” of 
+the time alone that it takes to decide  the cost of 
+storage. With such an abundance of cheap storage, it is simply 
+no longer economical to even decide whether to remember or 
+forget. Forgetting ― the three seconds it takes to choose ― has 
+become too expensive for people to use. 

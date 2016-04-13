@@ -1,0 +1,23 @@
+37.
+As science moved toward experimentation to prove its 
+theories, tools of measurement became vital.
+(A) People in the Middle Ages tried to measure the minutes 
+and hours of the day with a mechanical clock that used 
+gears, wheels, and weights, but these clocks were 
+unreliable. Galileo discovered that a pendulum always 
+takes the same amount of time to swing whether the swing 
+is narrow or wide.
+(B) The measurement of time was probably the most 
+important of all, but in Galileo’s time, scientists had not 
+yet invented a dependable timepiece. Ancient humans 
+could measure years, months, and days with the 
+movements of Earth, the Moon, and the Sun. 
+(C) Sixteen years after Galileo’s death, the Dutch scientist 
+Christiaan Huygens attached a pendulum to the gears of a 
+mechanical clock, and the grandfather clock was born. 
+Humans finally knew what time it was, and science had a 
+new important tool.
+* pendulum: (시계의) 추
+① (A) - (C) - (B) ② (B) - (A) - (C)
+③ (B) - (C) - (A) ④ (C) - (A) - (B)
+⑤ (C) - (B) - (A)

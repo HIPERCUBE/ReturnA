@@ -1,0 +1,21 @@
+31. When the navigation app on your smartphone is telling you 
+the best route to the airport based on current traffic 
+patterns, how does it know where the traffic is? Navigation 
+systems are tracking your cell phone and the cell phones of 
+thousands of other users of the applications to see how 
+quickly those cell phones move through traffic. If you’re 
+stuck in a traffic jam, your cell phone reports the same GPS 
+coordinates for several minutes; if traffic is moving swiftly, 
+your cell phone moves as quickly as your car and these 
+apps can recommend routes based on that. The quality of 
+the overall system depends crucially on there being a large 
+number of users. In this respect they’re similar to 
+telephones, fax machines, and e­mail: If only one or two 
+people have them, they are not much good ― their utility 
+increases with _____________.
+* coordinate: 좌표
+① inventors’ ideas
+② the number of users
+③ the design of devices 
+④ the cost of production
+⑤ geographical conditions

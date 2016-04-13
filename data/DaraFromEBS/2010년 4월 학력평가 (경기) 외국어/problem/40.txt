@@ -1,0 +1,20 @@
+40. (A)~(C)에서 문맥에 맞는 낱말을 바르게 짝지은 것은? 
+Many contagious diseases spread through carriers such as 
+birds and mosquitoes. These carriers move with heat and 
+rainfall. With this in mind, researchers have begun to use 
+satellite data to (A) observe / preserve the environmental 
+conditions that lead to disease. “We could predict conditions 
+that would result in the (B) appearance / disappearance of 
+cholera, malaria, and even avian flu,” says an expert. The 
+domestic duck, a common bird of Southeast Asia, is one of the 
+main carriers of the H5N1 avian influenza. Scientists use 
+satellite images to map agricultural patterns in the region. 
+These maps show where the number of the ducks is most likely 
+to (C) decrease / increase and thus where the avian influenza 
+is most likely to spread.
+(A) (B) (C)
+① observe …… appearance …… decrease
+② observe …… disappearance …… increase
+③ observe …… appearance …… increase
+④ preserve …… disappearance …… decrease
+⑤ preserve …… appearance …… increase

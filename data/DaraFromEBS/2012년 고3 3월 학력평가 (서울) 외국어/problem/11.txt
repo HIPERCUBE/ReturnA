@@ -1,0 +1,9 @@
+11. 다음 표를 보면서 대화를 듣고, 남자가 예약할 방갈로를 고르
+시오.
+Bungalows at Meadow Campsite
+Person Bedroom Price Feature
+① up to 5 2 $ 65 Fireplace
+② up to 5 2 $ 70 Lake view
+③ up to 8 2 $ 70 Additional bathroom
+④ up to 8 3 $ 100 Lake view
+⑤ up to 8 3 $ 100 Additional bathroom

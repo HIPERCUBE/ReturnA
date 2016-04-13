@@ -1,0 +1,9 @@
+17. 다음 표를 보면서 대화를 듣고, 남자가 예약하고자 하는 
+통나무집을 고르시오. 
+Springfield Resort Room Rates
+Size Location Price Kitchen
+① small on the hill $130 X
+② medium by the lake $150 X
+③ medium on the hill $200 ○
+④ medium by the lake $250 ○
+⑤ large by the lake $400 ○

@@ -1,0 +1,24 @@
+[49 ~ 50] 다음 글을 읽고, 물음에 답하시오.
+Goldcorp was a small gold‑mining firm, based in Toronto. 
+Facing higher costs of production, accumulating debt, and few 
+prospects of finding new gold deposits, the company was on 
+the brink of bankruptcy when its CEO, Robert McEwen, got a 
+radical idea. He would take all of the company’s geological 
+data on its Red Lake property, put it up on the Web, and 
+ask the world to tell the company             . The 
+company offered $575,000 in prize money. Over one 
+thousand cyberspace prospectors from fifty countries began 
+analyzing the data. Geologists weighed in, as did 
+mathematicians, military personnel, and graduate students 
+from diverse fields.
+What was so interesting was the range of expertise from 
+so many different disciplines including advanced physics, 
+applied math, and intelligent systems. The results were 
+startling. “There were capabilities I had never seen before in 
+the industry,” noted McEwen. “When I saw the computer 
+graphics I almost fell out of my chair.” The contestants had 
+pinpointed 110 locations on the company’s property, half of 
+which had never been earmarked by company geologists. 
+Amazingly, more than eighty percent of the new targets 
+yielded large amounts of gold — more than eight million 
+ounces.

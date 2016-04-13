@@ -1,0 +1,10 @@
+11. 다음 표를 보면서 대화를 듣고, 두 사람이 선택할 결혼 사진
+패키지를 고르시오.
+Feature Album Number Online
+Price
+Package Type of Photos Gallery
+① A Book 50 × $ 430
+② B CD 50 ○ $ 480
+③ C Book 100 ○ $ 530
+④ D CD 100 × $ 580
+⑤ E CD 100 ○ $ 630

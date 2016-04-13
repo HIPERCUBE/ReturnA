@@ -1,0 +1,18 @@
+35. Suppose you are attending an NBA basketball game. If 
+everyone is sitting, someone who stands has a superior view. 
+Spectators usually can see well if everyone sits or if 
+everyone stands. Sitting in seats is more comfortable than 
+standing. When there is no cooperation, everyone stands; 
+each spectator does what is best for himself or herself given 
+the actions of other spectators. If all spectators sit, someone, 
+taking what the others will do as a given, will stand. If all 
+spectators are standing, then it is best to remain standing. 
+With spectator cooperation, the solution is for everyone to 
+sit. The problem is that each spectator may be tempted to 
+get a better view by standing. The cooperative solution needs 
+to be attained ― in this situation,                          . 
+① some of them stand up
+② each cheers his or her team
+③ everyone remains seated
+④ all know basketball game rules
+⑤ people do what they want

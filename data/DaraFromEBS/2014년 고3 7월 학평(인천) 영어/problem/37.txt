@@ -1,0 +1,21 @@
+37. 
+Understanding networks can lead to innovative, 
+non­obvious strategies. Randomly immunizing a population 
+to prevent the spread of infection typically requires that 
+80 to 100 percent of the population be immunized.
+(A) This strategy allows us to exploit a property of networks 
+even if we cannot see the whole structure. Acquaintances 
+have more links and are more central to the network than 
+are the randomly chosen people who named them. 
+(B) To prevent measles epidemics, for example, 95 percent of 
+the population must be immunized. A more efficient 
+alternative is to target the hubs of the network, namely, 
+those people at the center of the network or those with 
+the most contacts. 
+(C) However, it is often not possible to discern network ties 
+in advance in a population when trying to figure out how 
+best to immunize it. A creative alternative is to immunize 
+the acquaintances of randomly selected individuals. [3점]
+① (A) - (C) - (B)       ② (B) - (A) - (C)
+③ (B) - (C) - (A)       ④ (C) - (A) - (B) 
+⑤ (C) - (B) - (A)

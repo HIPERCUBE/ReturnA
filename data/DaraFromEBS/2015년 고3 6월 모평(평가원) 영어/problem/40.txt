@@ -1,0 +1,32 @@
+40. 다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A)와 
+(B)에 들어갈 말로 가장 적절한 것은?
+There are two types of managers in business 
+organizations: functional managers and project managers. 
+Both types of managers have different roles and 
+qualities. Functional managers head one of a firm’s 
+departments such as marketing or engineering, and they 
+are specialists in the area they manage. They are skilled 
+at breaking the components of a system into smaller 
+elements, knowing something of the details of each 
+operation for which they are responsible. On the other 
+hand, project managers begin their career as specialists 
+in some field. When promoted to the position of project 
+manager, they must transform from technical caterpillar 
+to generalist butterfly. They oversee many functional 
+areas, each with its own specialists. Therefore, what is 
+required is an ability to put many pieces of a task 
+together to form a coherent whole. Thus, to understand 
+a frog, for example, functional managers cut it open to 
+examine it, but project managers watch it swim with 
+other frogs and consider the environment. 
+* caterpillar: 애벌레
+󰀻
+In business organizations, compared with the functional 
+managers who generally (A) what forms a system, 
+project managers focus on (B) all of its elements.
+(A) (B)
+① analyze …… splitting
+② analyze …… combining
+③ modify …… distributing
+④ assemble …… dividing
+⑤ assemble …… blending

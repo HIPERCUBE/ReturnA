@@ -1,0 +1,10 @@
+35. 도표의 내용과 일치하지 않는 문장은?
+The graph above shows preferences for electronic devices by 
+different age groups in 2007. ① The preference for televisions 
+of the over 62 age group is higher than that of the 18-26 age 
+group. ② Computers are more favored than televisions in the 
+18-26 age group. ③ Cellphones are less favored than the other 
+devices in the 41-50 age group. ④ In the 51-61 age group, 
+televisions rank as the highest preference, followed by 
+computers. ⑤ The smallest gap of preference between 
+televisions and cellphones is shown in the over 62 age group.
