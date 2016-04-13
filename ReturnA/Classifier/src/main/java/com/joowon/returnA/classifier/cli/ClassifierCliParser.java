@@ -36,7 +36,6 @@ public class ClassifierCliParser {
 
     public ClassifierCliParser() {
         options.addOption("t", "target", true, "target directory which contain pdf files");
-        options.addOption("d", "destination", true, "destination path where result locate");
         options.addOption("h", "help", false, "print usage");
     }
 
@@ -61,7 +60,6 @@ public class ClassifierCliParser {
     public void parse() {
         // Check all necessary option is exist
         if (!commandLine.hasOption("t")
-                | !commandLine.hasOption("d")
                 | commandLine.hasOption("h")) {
             printHelp();
             throw new NoRequiredItemException();
@@ -70,10 +68,6 @@ public class ClassifierCliParser {
 
     public String getTarget() {
         return commandLine.getOptionValue("t");
-    }
-
-    public String getDestination() {
-        return commandLine.getOptionValue("d");
     }
 
     private boolean checkCommnadLineNull() {
