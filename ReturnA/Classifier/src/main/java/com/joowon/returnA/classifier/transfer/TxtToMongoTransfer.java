@@ -35,7 +35,7 @@ import java.util.regex.Pattern;
  */
 public class TxtToMongoTransfer implements Transfer {
     public static void main(String[] args) {
-        new TxtToMongoTransfer("/Users/Joowon/Documents/Github/ReturnA/data/tests/problem/parsed", "localhost:" + MongoDbManager.DEFAULT_PORT).transfer();
+        new TxtToMongoTransfer("/Users/Joowon/Documents/Github/ReturnA/data/DaraFromEBS", "localhost:" + MongoDbManager.DEFAULT_PORT).transfer();
     }
 
     private File parentDirectory;
@@ -50,7 +50,7 @@ public class TxtToMongoTransfer implements Transfer {
     public void transfer() {
         try {
             for (File testDirectory : getTestDirectories()) {
-                for (File file : getProblemFiles(testDirectory)) {
+                for (File file : getProblemFiles(new File(testDirectory.getAbsolutePath() + "/problem"))) {
                     String problemText = new TxtReader(file).read();
                     Problem problem = new Problem(testDirectory.getName());
                     problem.setTestNumber(Integer.parseInt(file.getName().replace(".txt", "")));
