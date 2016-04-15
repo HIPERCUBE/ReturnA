@@ -1,17 +1,11 @@
 package com.joowon.returnA.classifier;
 
 import com.joowon.returnA.classifier.cli.ClassifierCliParser;
-import com.joowon.returnA.classifier.db.MongoDbManager;
-import com.joowon.returnA.classifier.parser.ProblemParser;
 import com.joowon.returnA.classifier.parser.SolveParser;
-import com.joowon.returnA.classifier.transfer.TxtToMongoTransfer;
-import com.joowon.returnA.classifier.txt.TxtWriter;
-import org.apache.pdfbox.debugger.stringpane.StringPane;
 import org.apache.pdfbox.pdmodel.PDDocument;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.Random;
 
 /**
  * Copyright (c) 4/10/16 Joowon Ryoo
@@ -43,29 +37,28 @@ public class SolveClassifier extends Classifier {
         cliParser.parse();
 
         File sourceDirectory = new File(cliParser.getTarget());
-        File destinationParentDirectory = new File(cliParser.getDestination());
-        if (!destinationParentDirectory.exists())
-            destinationParentDirectory.mkdirs();
         File[] sourcePdfList = sourceDirectory.listFiles();
 
         // Parse solve datas
         assert sourcePdfList != null;
         for (File pdfFile : sourcePdfList) {
             try {
-                System.out.println(pdfFile);
-                SolveClassifier problemClassifier = new SolveClassifier(PDDocument.load(pdfFile), destinationParentDirectory.getAbsolutePath());
-                File destinationDirectory = new File(destinationParentDirectory.getAbsolutePath() + "/" + problemClassifier.getTestName());
+                File destinationDirectory = new File(pdfFile.getAbsolutePath() + "/answer");
                 destinationDirectory.mkdirs();
 
-                String text = SolveParser.removeExceptionalText(problemClassifier.getBodyText());
-                text = SolveParser.removeExceptionalText(text);
-                System.out.println(text);
+                SolveClassifier problemClassifier = new SolveClassifier(
+                        PDDocument.load(new File(pdfFile.getAbsolutePath() + "/answer.pdf")),
+                        destinationDirectory.getAbsolutePath());
 
-                System.out.println("Name : " + SolveParser.parseTestName(text));
-                SolveParser.parseAnswers(text).forEach(System.out::println);
+                // Remove trash text
+                String text = SolveParser.removeExceptionalText(problemClassifier.getBodyText());
+
+                System.out.println("Name : " + destinationDirectory.getParentFile().getName());
+                System.out.println("= = = = = = = = = = = = = = = = = = = =");
+                System.out.println(text);
                 System.out.println("= = = = = = = = = = = = = = = = = = = =");
 
-                new TxtWriter(destinationDirectory.getAbsolutePath() + "/" + SolveParser.parseTestName(text) + ".txt").write(String.valueOf(SolveParser.parseAnswers(text)));
+//                new TxtWriter(destinationDirectory.getAbsolutePath() + "/" + SolveParser.parseTestName(text) + ".txt").write(String.valueOf(SolveParser.parseAnswers(text)));
                 // Parse problem
 //                for (int i = 1; i <= 50; ++i) {
 //                    String problemText = ProblemParser.parseProblem(text, i);
@@ -80,9 +73,9 @@ public class SolveClassifier extends Classifier {
         }
 
         // Put data into MongoDB
-        new TxtToMongoTransfer(destinationParentDirectory.getAbsolutePath(),
-                "localhost:" + MongoDbManager.DEFAULT_PORT)
-                .transfer();
+//        new TxtToMongoTransfer(destinationParentDirectory.getAbsolutePath(),
+//                "localhost:" + MongoDbManager.DEFAULT_PORT)
+//                .transfer();
     }
 
 
