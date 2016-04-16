@@ -40,19 +40,18 @@ public class ProblemClassifier extends Classifier {
         cliParser.parse();
 
         File sourceDirectory = new File(cliParser.getTarget());
-        File destinationParentDirectory = new File(cliParser.getDestination());
-        if (!destinationParentDirectory.exists())
-            destinationParentDirectory.mkdirs();
-        File[] sourcePdfList = sourceDirectory.listFiles();
+        File[] testList = sourceDirectory.listFiles();
 
         // Parse problem datas
-        assert sourcePdfList != null;
-        for (File pdfFile : sourcePdfList) {
+        assert testList != null;
+        for (File pdfFile : testList) {
             try {
-                System.out.println(pdfFile);
-                ProblemClassifier problemClassifier = new ProblemClassifier(PDDocument.load(pdfFile), destinationParentDirectory.getAbsolutePath());
-                File destinationDirectory = new File(destinationParentDirectory.getAbsolutePath() + "/" + problemClassifier.getTestName());
+                File destinationDirectory = new File(pdfFile.getAbsolutePath() + "/problem");
                 destinationDirectory.mkdirs();
+
+                ProblemClassifier problemClassifier = new ProblemClassifier(
+                        PDDocument.load(new File(pdfFile.getAbsolutePath() + "/problem.pdf")),
+                        destinationDirectory.getAbsolutePath());
 
                 // Parse problem group
                 String text = ProblemParser.removeExceptionalText(problemClassifier.getBodyText());
@@ -84,7 +83,7 @@ public class ProblemClassifier extends Classifier {
         }
 
         // Put data into MongoDB
-        new TxtToMongoTransfer(destinationParentDirectory.getAbsolutePath(),
+        new TxtToMongoTransfer(sourceDirectory.getAbsolutePath(),
                 "localhost:" + MongoDbManager.DEFAULT_PORT)
                 .transfer();
     }
