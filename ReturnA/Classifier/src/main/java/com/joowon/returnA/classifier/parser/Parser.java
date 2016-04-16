@@ -2,6 +2,7 @@ package com.joowon.returnA.classifier.parser;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.regex.MatchResult;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -46,8 +47,8 @@ public abstract class Parser {
         List<String> result = new ArrayList<>();
         try {
             Matcher matcher = pattern.matcher(data);
-            if (matcher.find()) {
-                result.add(matcher.group(0));
+            while (matcher.find()) {
+                result.add(matcher.group());
             }
         } catch (StackOverflowError ignored) {
         }
