@@ -63,6 +63,7 @@ public class TxtToMongoTransfer implements Transfer {
                             ProblemParser.parseOption4(problemText),
                             ProblemParser.parseOption5(problemText)
                     });
+                    problem.setAnswer("");
                     dbManager.saveProblem(problem);
                     System.out.println("transfer txt into mongo : " + problem.getTestName() + " " + problem.getTestNumber());
                 }
