@@ -1,7 +1,9 @@
 package com.joowon.returnA.classifier;
 
 import com.joowon.returnA.classifier.cli.ClassifierCliParser;
+import com.joowon.returnA.classifier.db.MongoDbManager;
 import com.joowon.returnA.classifier.parser.SolveParser;
+import com.joowon.returnA.classifier.parser.model.Solve;
 import org.apache.pdfbox.pdmodel.PDDocument;
 
 import java.io.File;
@@ -41,6 +43,7 @@ public class SolveClassifier extends Classifier {
 
         // Parse solve datas
         assert sourcePdfList != null;
+        MongoDbManager mongoDbManager = MongoDbManager.getInstance(MongoDbManager.DEFAULT_PORT);
         for (File pdfFile : sourcePdfList) {
             try {
                 File destinationDirectory = new File(pdfFile.getAbsolutePath() + "/answer");
@@ -52,30 +55,16 @@ public class SolveClassifier extends Classifier {
 
                 // Remove trash text
                 String text = SolveParser.removeExceptionalText(problemClassifier.getBodyText());
+                String testName = destinationDirectory.getParentFile().getName();
 
-                System.out.println("Name : " + destinationDirectory.getParentFile().getName());
-                System.out.println("= = = = = = = = = = = = = = = = = = = =");
-                System.out.println(text);
-                System.out.println("= = = = = = = = = = = = = = = = = = = =");
-
-//                new TxtWriter(destinationDirectory.getAbsolutePath() + "/" + SolveParser.parseTestName(text) + ".txt").write(String.valueOf(SolveParser.parseAnswers(text)));
-                // Parse problem
-//                for (int i = 1; i <= 50; ++i) {
-//                    String problemText = ProblemParser.parseProblem(text, i);
-//                    String fileName = destinationDirectory.getAbsolutePath() + "/" + ProblemParser.parseProblemName(problemText) + ".txt";
-//                    System.out.println(fileName);
-//                    new TxtWriter(fileName).write(problemText);
-//                }
+                for (Solve solve : SolveParser.parseAnswers(text)) {
+                    mongoDbManager.updateAnswer(testName, solve.problemNumber, solve.answer);
+                }
                 problemClassifier.close();
             } catch (Exception e) {
                 e.printStackTrace();
             }
         }
-
-        // Put data into MongoDB
-//        new TxtToMongoTransfer(destinationParentDirectory.getAbsolutePath(),
-//                "localhost:" + MongoDbManager.DEFAULT_PORT)
-//                .transfer();
     }
 
 
