@@ -5,6 +5,9 @@ import com.mongodb.MongoClient;
 import com.mongodb.client.MongoDatabase;
 import org.mongodb.morphia.Datastore;
 import org.mongodb.morphia.Morphia;
+import org.mongodb.morphia.query.Query;
+import org.mongodb.morphia.query.UpdateOperations;
+import org.mongodb.morphia.query.UpdateResults;
 
 /**
  * Copyright (c) 4/6/16 Joowon Ryoo
@@ -49,7 +52,7 @@ public class MongoDbManager {
         final Morphia morphia = new Morphia();
         morphia.mapPackage("com.joowon.returnA.classifier.db.dto");
         datastore = morphia.createDatastore(new MongoClient(host), DB_ReturnA);
-//
+
 //     datastore.ensureIndexes();
     }
 
@@ -59,6 +62,16 @@ public class MongoDbManager {
 
     public void updateProblemGroup(String queryTestName, int queryNumber, String group) {
     }
+
+    public UpdateResults updateAnswer(String testName, int testNumber, String answer) {
+        final Query<Problem> problemFindQuery = datastore.createQuery(Problem.class)
+                .filter("testName", testName)
+                .filter("testNumber", testNumber);
+        final UpdateOperations<Problem> updateOperation = datastore.createUpdateOperations(Problem.class)
+                .set("answer", answer);
+        return datastore.update(problemFindQuery, updateOperation);
+    }
+
 
     public static final String DEFAULT_PORT = "27017";
 
