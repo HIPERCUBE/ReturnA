@@ -44,6 +44,7 @@ public class Problem {
     private String groupText;
     private String problemText;
     private String question;
+    private String answer;
     private String[] options;
 
     public Problem(String testName) {
@@ -96,6 +97,14 @@ public class Problem {
 
     public void setQuestion(String question) {
         this.question = question;
+    }
+
+    public String getAnswer() {
+        return answer;
+    }
+
+    public void setAnswer(String answer) {
+        this.answer = answer;
     }
 
     public String[] getOptions() {
