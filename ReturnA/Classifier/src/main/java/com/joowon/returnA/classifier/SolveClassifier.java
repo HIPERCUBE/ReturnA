@@ -43,7 +43,7 @@ public class SolveClassifier extends Classifier {
 
         // Parse solve datas
         assert sourcePdfList != null;
-        MongoDbManager mongoDbManager = MongoDbManager.getInstance(MongoDbManager.DEFAULT_PORT);
+        MongoDbManager mongoDbManager = MongoDbManager.getInstance("localhost:" + MongoDbManager.DEFAULT_PORT);
         for (File pdfFile : sourcePdfList) {
             try {
                 File destinationDirectory = new File(pdfFile.getAbsolutePath() + "/answer");

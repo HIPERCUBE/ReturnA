@@ -64,9 +64,9 @@ public class MongoDbManager {
     }
 
     public UpdateResults updateAnswer(String testName, int testNumber, String answer) {
-        final Query<Problem> problemFindQuery = datastore.createQuery(Problem.class)
-                .filter("testName", testName)
-                .filter("testNumber", testNumber);
+        final Query<Problem> problemFindQuery = datastore.createQuery(Problem.class);
+        problemFindQuery.field("testName").equal(testName);
+        problemFindQuery.field("testNumber").equal(testNumber);
         final UpdateOperations<Problem> updateOperation = datastore.createUpdateOperations(Problem.class)
                 .set("answer", answer);
         return datastore.update(problemFindQuery, updateOperation);
