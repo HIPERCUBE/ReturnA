@@ -25,5 +25,6 @@
 public class DL4J {
     public static void main(String[] args) {
         ClassPathResource
+
     }
 }
