@@ -1,5 +1,6 @@
 import org.canova.api.util.ClassPathResource;
 import org.deeplearning4j.models.word2vec.Word2Vec;
+import org.deeplearning4j.plot.BarnesHutTsne;
 import org.deeplearning4j.text.sentenceiterator.CollectionSentenceIterator;
 import org.deeplearning4j.text.sentenceiterator.LineSentenceIterator;
 import org.deeplearning4j.text.sentenceiterator.SentenceIterator;
@@ -90,5 +91,16 @@ public class DL4J {
 
 
         log.info("Plot TSNE");
+        BarnesHutTsne tsne = new BarnesHutTsne.Builder()
+                .setMaxIter(1000)
+                .stopLyingIteration(250)
+                .learningRate(500)
+                .useAdaGrad(false)
+                .theta(0.5)
+                .setMomentum(0.5)
+                .normalize(true)
+                .usePca(false)
+                .build();
+        vec.lookupTable().plotVocab(tsne);
     }
 }
