@@ -1,3 +1,13 @@
+import org.canova.api.util.ClassPathResource;
+import org.deeplearning4j.text.sentenceiterator.LineSentenceIterator;
+import org.deeplearning4j.text.sentenceiterator.SentenceIterator;
+import org.deeplearning4j.text.sentenceiterator.SentencePreProcessor;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+
 /**
  * Copyright (c) 4/30/16 Joowon Ryoo
  * <p>
@@ -23,8 +33,13 @@
  * OTHER DEALINGS IN THE SOFTWARE.
  */
 public class DL4J {
-    public static void main(String[] args) {
-        ClassPathResource
+    private static Logger log = LoggerFactory.getLogger(DL4J.class);
 
+    public static void main(String[] args) throws FileNotFoundException {
+        log.info("Load data...");
+//        ClassPathResource resource = new ClassPathResource("raw_sentences.txt");
+//        SentenceIterator iter = new LineSentenceIterator(resource.getFile());
+        SentenceIterator iter = new LineSentenceIterator(new File("/Users/Joowon/Desktop/test.txt"));
+        iter.setPreProcessor((SentencePreProcessor) String::toLowerCase);
     }
 }

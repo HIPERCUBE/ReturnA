@@ -2,7 +2,6 @@ package com.joowon.returnA.classifier.db;
 
 import com.joowon.returnA.classifier.db.dto.Problem;
 import com.mongodb.MongoClient;
-import com.mongodb.client.MongoDatabase;
 import org.mongodb.morphia.Datastore;
 import org.mongodb.morphia.Morphia;
 import org.mongodb.morphia.query.Query;
