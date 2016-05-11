@@ -49,7 +49,7 @@ public class DL4J {
         log.info("Load data...");
 //        ClassPathResource resource = new ClassPathResource("raw_sentences.txt");
 //        SentenceIterator iter = new LineSentenceIterator(resource.getFile());
-        SentenceIterator iter = new LineSentenceIterator(new File("/Users/Joowon/Desktop/test.txt"));
+        SentenceIterator iter = new LineSentenceIterator(new File("/Users/Joowon/Desktop/2016_reading.txt"));
         iter.setPreProcessor((SentencePreProcessor) String::toLowerCase);
 
 
