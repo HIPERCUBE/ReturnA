@@ -1,4 +1,5 @@
 import org.canova.api.util.ClassPathResource;
+import org.deeplearning4j.models.embeddings.loader.WordVectorSerializer;
 import org.deeplearning4j.models.word2vec.Word2Vec;
 import org.deeplearning4j.plot.BarnesHutTsne;
 import org.deeplearning4j.text.sentenceiterator.CollectionSentenceIterator;
@@ -14,6 +15,7 @@ import org.slf4j.LoggerFactory;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.Collection;
 
 /**
@@ -43,7 +45,7 @@ import java.util.Collection;
 public class DL4J {
     private static Logger log = LoggerFactory.getLogger(DL4J.class);
 
-    public static void main(String[] args) throws FileNotFoundException {
+    public static void main(String[] args) throws IOException {
         log.info("Load data...");
 //        ClassPathResource resource = new ClassPathResource("raw_sentences.txt");
 //        SentenceIterator iter = new LineSentenceIterator(resource.getFile());
@@ -90,17 +92,20 @@ public class DL4J {
         log.info("Similarity words to 'day' : " + similar);
 
 
-        log.info("Plot TSNE");
-        BarnesHutTsne tsne = new BarnesHutTsne.Builder()
-                .setMaxIter(1000)
-                .stopLyingIteration(250)
-                .learningRate(500)
-                .useAdaGrad(false)
-                .theta(0.5)
-                .setMomentum(0.5)
-                .normalize(true)
-                .usePca(false)
-                .build();
-        vec.lookupTable().plotVocab(tsne);
+//        log.info("Plot TSNE");
+//        BarnesHutTsne tsne = new BarnesHutTsne.Builder()
+//                .setMaxIter(1000)
+//                .stopLyingIteration(250)
+//                .learningRate(500)
+//                .useAdaGrad(false)
+//                .theta(0.5)
+//                .setMomentum(0.5)
+//                .normalize(true)
+//                .usePca(false)
+//                .build();
+//        vec.lookupTable().plotVocab(tsne);
+
+        log.info("Save vectors....");
+        WordVectorSerializer.writeWordVectors(vec, "/Users/Joowon/Desktop/words.txt");
     }
 }
