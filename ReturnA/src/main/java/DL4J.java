@@ -1,5 +1,6 @@
 import org.canova.api.util.ClassPathResource;
 import org.deeplearning4j.models.embeddings.loader.WordVectorSerializer;
+import org.deeplearning4j.models.embeddings.wordvectors.WordVectors;
 import org.deeplearning4j.models.word2vec.Word2Vec;
 import org.deeplearning4j.plot.BarnesHutTsne;
 import org.deeplearning4j.text.sentenceiterator.CollectionSentenceIterator;
@@ -46,10 +47,26 @@ public class DL4J {
     private static Logger log = LoggerFactory.getLogger(DL4J.class);
 
     public static void main(String[] args) throws IOException {
+        new DL4J().runGoogleNews();
+//        new DL4J().run();
+    }
+
+    public void runGoogleNews() throws IOException {
+        File gFile = new File(getClass().getClassLoader().getResource("dataset").getFile() + "/GoogleNews-vectors-negative300.bin");
+        WordVectors vec = WordVectorSerializer.loadGoogleModel(gFile, true);
+
+        log.info("evaluate model...");
+        double sim = vec.similarity("people", "money");
+        log.info("Similarity between peeple and money: " + sim);
+        Collection<String> similar = vec.wordsNearest("human", 10);
+        log.info("Similarity words to 'human' : " + similar);
+    }
+
+    public void run() throws IOException {
         log.info("Load data...");
 //        ClassPathResource resource = new ClassPathResource("raw_sentences.txt");
 //        SentenceIterator iter = new LineSentenceIterator(resource.getFile());
-        SentenceIterator iter = new LineSentenceIterator(new File("/Users/Joowon/Desktop/2016_reading.txt"));
+        SentenceIterator iter = new LineSentenceIterator(new File("/Users/Joowon/Desktop/testFile.txt"));
         iter.setPreProcessor((SentencePreProcessor) String::toLowerCase);
 
 
@@ -69,9 +86,9 @@ public class DL4J {
         log.info("Build model...");
         int batchSize = 1000;
         int iterations = 3;
-        int layerSize = 150;
-        Word2Vec vec = new Word2Vec.Builder()       // # words per minibatch.
-                .batchSize(batchSize)               //
+        int layerSize = 300;
+        Word2Vec vec = new Word2Vec.Builder()
+                .batchSize(batchSize)               // # words per minibatch.
                 .minWordFrequency(5)                //
                 .useAdaGrad(false)                  //
                 .layerSize(layerSize)               // word feature vector size
@@ -88,7 +105,7 @@ public class DL4J {
         log.info("evaluate model...");
         double sim = vec.similarity("people", "money");
         log.info("Similarity between peeple and money: " + sim);
-        Collection<String> similar = vec.wordsNearest("day", 10);
+        Collection<String> similar = vec.wordsNearest("human", 10);
         log.info("Similarity words to 'day' : " + similar);
 
 
