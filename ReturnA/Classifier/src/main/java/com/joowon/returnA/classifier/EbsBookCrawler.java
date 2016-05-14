@@ -41,7 +41,7 @@ public class EbsBookCrawler {
         File destination = new File("/Users/Joowon/Desktop");
         File bookFolder = new File(getClass().getClassLoader().getResource("book").getFile());
         for (File book : bookFolder.listFiles()) {
-            String ouputName = destination.getPath() + "/" + book.getName().replace(".pdf", ".txt");
+            String outputName = destination.getPath() + "/" + book.getName().replace(".pdf", ".txt");
             PDDocument document = PDDocument.load(book);
             String text = "";
             for (PDPage page : document.getPages()) {
@@ -54,7 +54,7 @@ public class EbsBookCrawler {
                         .extract();
             }
 
-            new TxtWriter(ouputName)
+            new TxtWriter(outputName)
                     .write(text);
 
             document.close();
