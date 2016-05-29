@@ -113,7 +113,7 @@ function previousSearchGoMine() {
     var vWrongRate = jQuery('#vWrongRate').val();//오답률
 
     var vItemCnt = jQuery('#vItemCnt').val();//검색하려는 문항수
-    vItemCnt = 500;
+    vItemCnt = 100;
     jQuery('#vItemCnt').val(vItemCnt);
 
     var vBookStartYear = jQuery('#vBookStartYear').val();//교재 출제년도시작

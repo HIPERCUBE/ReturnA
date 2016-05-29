@@ -18,9 +18,10 @@ db = mongoClient.ReturnA
 
 def insertCallDataAPI(grade, area, subject, data):
     json = {
-        'url': 'http://www.ebsi.co.kr/ebs/xip/xipc/previousPaperSearchAjax.ebs',
-        'grade': grade,
+        'server': 'www.ebsi.co.kr',
+        'url': '/ebs/xip/xipc/previousPaperSearchAjax.ebs',
         'data': data,
+        'grade': grade,
         'area': area,
         'subject': subject
     }
@@ -56,23 +57,23 @@ for grade in range(0, 3):
             insertCallDataAPI(grade, subject, a, driver.execute_script(getScript()))
 
 
-# driver.execute_script('subjectChk(\'eng\')', '')
-#
-# source = open('/Users/Joowon/Desktop/html.txt', 'r').read()
-#
-# soup = BeautifulSoup.BeautifulSoup(driver.page_source)
-#
-# count = int(soup.find('b', {'id': 'searchCntArea'}).text)
-# for x in range(1, count / 10 + 1):
-#     driver.execute_script('goPage(' + str(x) + ')', '')
-#     soup = BeautifulSoup.BeautifulSoup(driver.page_source)
-#
-#     TestListElements = soup.findAll('tr')
-#     for test in TestListElements:
-#         testNameList = test.findAll('strong')
-#         if len(testNameList) == 1:
-#             for download in test.findAll('a', {'href': re.compile('javascript:goDownLoad')}):
-#                 json = {'testName': testNameList[0].text, 'kind': download.text,
-#                         'download': re.compile('(?<=\(\').+(?=\'\))').findall(download.get('href'))[0]}
-#                 json['url'] = getDownloadUrl(json['kind'], json['download'])
-#                 db.ebsCrawl.insert_one(json)
+            # driver.execute_script('subjectChk(\'eng\')', '')
+            #
+            # source = open('/Users/Joowon/Desktop/html.txt', 'r').read()
+            #
+            # soup = BeautifulSoup.BeautifulSoup(driver.page_source)
+            #
+            # count = int(soup.find('b', {'id': 'searchCntArea'}).text)
+            # for x in range(1, count / 10 + 1):
+            #     driver.execute_script('goPage(' + str(x) + ')', '')
+            #     soup = BeautifulSoup.BeautifulSoup(driver.page_source)
+            #
+            #     TestListElements = soup.findAll('tr')
+            #     for test in TestListElements:
+            #         testNameList = test.findAll('strong')
+            #         if len(testNameList) == 1:
+            #             for download in test.findAll('a', {'href': re.compile('javascript:goDownLoad')}):
+            #                 json = {'testName': testNameList[0].text, 'kind': download.text,
+            #                         'download': re.compile('(?<=\(\').+(?=\'\))').findall(download.get('href'))[0]}
+            #                 json['url'] = getDownloadUrl(json['kind'], json['download'])
+            #                 db.ebsCrawl.insert_one(json)
