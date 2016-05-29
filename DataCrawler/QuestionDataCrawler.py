@@ -1,17 +1,15 @@
 # coding=utf-8
 from pymongo import MongoClient
 import requests
-import codecs
 import base64
 import sys
+import time
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
 
 def crawling(id):
-    print id
-    print type(id)
     xml1 = requests.get('http://www.ebsi.co.kr/ebs/xip/xipSolve/Item.ebs', 'Action=Select&itemId=' + id).content
     xml2 = requests.get('http://www.ebsi.co.kr/ebs/xip/xipSolve/Items.ebs', 'Action=SelectGroup&itemId=' + id).content
     db.Question.update({'_id': id}, {
@@ -46,4 +44,4 @@ db = mongoClient.ReturnA
 
 for question in db.Question.find({'xml': {'$exists': False}}):
     crawling(question['_id'])
-    break
+    time.sleep(11)

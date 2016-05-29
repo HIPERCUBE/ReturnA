@@ -55,4 +55,3 @@ for rawCookie in driver.get_cookies():
 for api in db.ebsCallDataAPI.find():
     th = threading.Thread(target=crawlingLoop, args=(api,))
     th.start()
-    # th.join()
