@@ -4,6 +4,7 @@ import requests
 import base64
 import sys
 import time
+import queue
 
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -36,12 +37,25 @@ def decode_base64(data):
     return base64.decodestring(data)
 
 
+def insertQuestionsOnQueue():
+    maxInsert = 3
+    count = 0
+    for question in db.Question.find({'xml': {'$exists': False}}):
+        questionQueue.put(question['_id'])
+        if maxInsert < ++count:
+            break
+
+
 # codecs.open('result.html', 'w', 'utf-8').write(decode_base64(str))
 
 # MongoDB Setup
 mongoClient = MongoClient('mongodb://localhost:27017')
 db = mongoClient.ReturnA
 
-for question in db.Question.find({'xml': {'$exists': False}}):
-    crawling(question['_id'])
-    time.sleep(11)
+questionQueue = queue.Queue()
+
+while True:
+    if questionQueue.qsize() == 0:
+        insertQuestionsOnQueue()
+    crawling(questionQueue.get())
+    time.sleep(10)
